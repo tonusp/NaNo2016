@@ -47,10 +47,10 @@ Hildegard came to the UK to study. They fell in love even more, in spite of the 
 
 She had always said she wanted six children, and she had a way of getting what she wanted. They brought them up to speak three languages. First they were denaskuloj Esperanto-speakers, because even after Hildegard became fluent in the language of her adopted country, she and Joseph still mostly spoke together in the language which had been the first heart language of their love. But Joseph also spoke to the children in English, while their mother spoke to them in Lithuanian. It was a dream of a truly international family, that would be a symbol and model of the peace and understanding they longed for for all peoples, from East and West:
 
-> Al la mond' eterne militanta
+> Al la mond' eterne militanta  
 > Ĝi promesas sanktan harmonion.
 
-> To the eternally warring world
+> To the eternally warring world  
 > it promises sacred harmony.
 
 The children had grown and gone, seeking lives of their own. Some of them were still happy and proud about their strangely cosmopolitan upbringing, and continued to speak Esperanto with the dwindling number of fellow-speakers they encountered. They had even been known to spend time with TEJO voluntarily and for themselves, and attend the occasional Universal Congress. Lithuanian was a different matter: most of them had forsaken it long before in favour of the English that was spoken at school, in the wider culture and in the world generally. Their parents' dream of the international language with its internal idea of world peace and linguistic justice, had become increasingly quixotic and even irrelevant.
@@ -768,7 +768,7 @@ So. Where was he going now? The way lies eastwards, Hildegard had said. The them
 
 It was as he was standing on the inner ring road, waiting to brave the constant flow of traffic and set off down Adalbertsteinweg, that he suddenly thought, I don't have to walk! No doubt Herr Doktor Leibniz, if it *is* he steering, has forgotten about railways. And he turned right, making for the Hauptbahnhof.
 
-NOn the way, he suddenly knew where he was to go. It was in search of another place connected to their heart language.
+On the way, he suddenly knew where he was to go. It was in search of another place connected to their heart language.
 
 
 # Chapter Twelve     Esperanto Stadt
@@ -839,22 +839,19 @@ Was that really *the* Way? he wondered.
 
 He pulled from his pocket the other slim volume he had packed on the day he hastily filled his rucksack and fled from benighted Britain. The ancient book of Chinese wisdom, the *Tao Te Ching*, sometimes rendered as *The Book of the Way and its Power*. He had not fully understood why that would be one of the few books he would take with him, except that somehow it resonated with Hildegard's talk about the Way he should find and walk.
 
-#+BEGIN_QUOTE
-Without going outside\\
-   one can know the whole world\\
-Without looking out of the window\\
-   one can see the ways of Heaven\\
-The farther one goes\\
-   the less one knows
-#+END_QUOTE
+> Without going outside\\
+>...   one can know the whole world\\
+> Without looking out of the window\\
+> ...   one can see the ways of Heaven\\
+> The farther one goes\\
+>...   the less one knows
 
 He smiled. What point, then, was there in this journey across Europe, from back there to - who knew where? Would staying at home have been just as effective and worthwhile? Would it have healed the ache in his heart, the fear and uncertainty that gripped him when he heard the events that were unfolding on both sides of the Atlantic, in the English-speaking so-called democracies of the world?
 
 The questions revolved in his mind day after day, like the turning earth that brought another dawn, another noon, another nightfall. 
 
-#+BEGIN_QUOTE
-A journey of a thousand miles begins with a single step
-#+END_QUOTE
+> A journey of a thousand miles begins with a single step
+
 
 That was the one that everyone knew. He supposed it was an incentive to the hesitant to begin whatever they had to do, even though the size of the task was daunting and they didn't know how to go on with it.
 
@@ -892,17 +889,17 @@ Tomorrow, thought Joseph, as he fell into bed.
 
 -----
 
-TERRORIST INVASION FOILED
+> TERRORIST INVASION FOILED
 
-EUROPEANS ARRESTED AT MALDON
+> EUROPEANS ARRESTED AT MALDON
 
-Last night, in a joint operation by Essex police, coastguards and Border Force, an attempt by a European extremist group to invade Britain and overthrow the monarchy was successfully foiled.
+> Last night, in a joint operation by Essex police, coastguards and Border Force, an attempt by a European extremist group to invade Britain and overthrow the monarchy was successfully foiled.
 
-Coastguards detected the motor boat *Hoffnung* as it sailed up the River Blackwater towards Maldon. When challenged, the boat tried to turn and escape, but was boarded by the coastguards and its eight crew and passengers were all detained.
+> Coastguards detected the motor boat *Hoffnung* as it sailed up the River Blackwater towards Maldon. When challenged, the boat tried to turn and escape, but was boarded by the coastguards and its eight crew and passengers were all detained.
 
-They are thought to include two Englishmen and a selection of foreign nationals from various countries of the so-called 'European Union'. The terrorists are being held at Essex Police HQ in Chelmsford.
+> They are thought to include two Englishmen and a selection of foreign nationals from various countries of the so-called 'European Union'. The terrorists are being held at Essex Police HQ in Chelmsford.
 
-No further details have been released, but it is widely thought that the eight suspects pose a real and present threat to national security.
+> No further details have been released, but it is widely thought that the eight suspects pose a real and present threat to national security.
 
 -----
 
@@ -910,15 +907,13 @@ No further details have been released, but it is widely thought that the eight s
 
 "I think not," replied Leibniz, scratching his head where his holographic wig seemed to have provided an ideal home for some holographic headlice. "I have been studying this book of Lao Tzu you so thoughtfully brought along with you, along with the *I Ching* also. Did you know how much I studied these works when I was in Herrenhausen with Princess Sophie, in particular the fascinating binary structure of the sixty-four hexagrams? But no, enough of that for the present. The main thing is, the wisdom of Lao Tzu. He says
 
-#+BEGIN_QUOTE
-To become learned, gain daily  
-To obtain Tao, reduce daily  
-Reduce and reduce again  
-until all action is reduced to non-action  
-Then no one is left  
-Nothing is done  
-yet nothing is left undone
-#+END_QUOTE
+> To become learned, gain daily  
+> To obtain Tao, reduce daily  
+> Reduce and reduce again  
+> ... until all action is reduced to non-action  
+> Then no one is left  
+> Nothing is done  
+> ... yet nothing is left undone
 
 "I know all that," protested Joseph. "*Wu-wei*, the principle on non-action, getting things done by not-doing. I've always thought it was overrated, and I really don't see how it's going to help our friends."
 
@@ -953,9 +948,7 @@ During those years, Wesley still wrestled with his sense of inadequacy. How coul
 
 Just weeks before his journey across Europe, Wesley had attended a meeting of the Moravians in Aldersgate-street. He went very unwillingly, as he later confessed to his journal, and in truth, the proceedings were dull indeed compared with the evangelistic and worship meetings known and loved by 21st century believers. Someone was reading aloud from Martin Luther's preface to his commentary on St Paul's Epistle to the Romans, when suddenly Wesley's life was turned upside down.
 
-#+BEGIN_QUOTE
-About a quarter before nine, while he was describing the change which God works in the heart through faith in Christ, I felt my heart strangely warmed. I felt I did trust in Christ, in Christ alone, for salvation; and an assurance was given me, that he had taken away *my* sins, even *mine*, and saved *me* from the law of sin and death.
-#+END_QUOTE
+> About a quarter before nine, while he was describing the change which God works in the heart through faith in Christ, I felt my heart strangely warmed. I felt I did trust in Christ, in Christ alone, for salvation; and an assurance was given me, that he had taken away *my* sins, even *mine*, and saved *me* from the law of sin and death.
 
 Wesley's prayer and preaching now came to feel real to him, in a way they had not been before. And though there were many who had appreciated his preaching before, now people were beginning to respond to it in a new way: their lives too were being transformed. He longed to know more of the Christian society who had helped him to this discovery of a living faith; and so it was that barely four weeks later he resolved to make that journey to the home of the Moravian Brotherhood.
 
@@ -975,9 +968,9 @@ The Moravian Church still exists, and is still an inspiration to many Christians
 
 There had been times during their years together when Joseph and Hildegard had used the Losungen together, though their practice had lapsed in recent years. His European 'pilgrimage' had made Joseph think of them again. He had even looked up the watchword chosen for the year: 
 
-Gott spricht: Ich schenke euch ein neues Herz und lege einen neuen Geist in euch. Hezekiel 36.26 [fn:5]
+> Gott spricht: Ich schenke euch ein neues Herz und lege einen neuen Geist in euch. Hezekiel 36.26
 
-[fn:5] God says: I give you a new heart and put a new spirit within you. Ezekiel 36.26
+> God says: I give you a new heart and put a new spirit within you. Ezekiel 36.26
 
 His old heart had died with Hildegard, when the world ended. But perhaps, as he travelled the way, the path she was encouraging him to travel, he would find a new heart and a new spirit.
 
