@@ -19,5 +19,5 @@ To see what this looks like in the novel repository.
 
 ### a third level heading
 
-[a link](http://tonusp.github.io/)
+[Link to my GitHub hosted blog](http://tonusp.github.io/)
 
