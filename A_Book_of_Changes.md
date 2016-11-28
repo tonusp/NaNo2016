@@ -1,5 +1,3 @@
-; -#- mode: Org; eval: (visual-line-mode); -#-
-
 
 # Chapter One     The End of the World
 
@@ -13,15 +11,15 @@ The worst thing of all, was that his Hildegard had - what? Gone? Disappeared? Ce
 
 He had only gone out to post a letter and buy a loaf of bread. When he came home and opened the door, he knew at once that something was wrong, there was already a ghastly wrongness about the way the house felt. He found her lying on the kitchen floor, her eyes staring without comprehension, a little pool of vomit beside her head, he couldn't tell whether she was breathing. Then there came the blur of fear and rush and panic. His stupid attempts to remember how you did CPR, the 999 call, the sirens and flashing blue lights, the paramedics filling the room, the questions he couldn't answer and wanted to ask. Sitting with her in the ambulance, helplessly holding her hand, as they rushed through the morning streets to the hospital, sitting outside the emergency room while incomprehensible things went on behind a closed door through which medical people with anxious faces came and went.
 
-The young, serious-faced woman doctor who came out with the Sorry already written on her lips. We did everything we could. It was an undiagnosed aortic aneurysm. It could have burst at any time. It all happened very fast. She probably didn't know anything about it. It would probably have been inoperable, even if she had known about it.
+The young, serious-faced woman doctor who came out with the Sorry already pressing on her lips. We did everything we could. It was an undiagnosed aortic aneurysm. It could have burst at any time. It all happened very fast. She probably didn't know anything about it. It would probably have been inoperable, even if she had known about it.
 
-The children, whom he had somehow managed to telephone during those hours of numbed waiting, had not even arrived by the time they let Joseph into the room, and he was sitting by the bed holding her hand again, staring at her face from which the light had gone out, her skin shrunken and pallid. The chill already spreading through her still veins.
+The children, whom he had somehow managed to telephone during those hours of numbed waiting, had not even arrived by the time they let Joseph into the room, and he was sitting by the bed holding her hand again, staring at her face from which the light had already gone out, her skin shrunken and pallid. The chill already spreading through her still veins.
 
 Where? How? Why?
 
 It was something near to forty  years they had been married: Joseph was always embarrassed that he could never remember exactly how many, always had to work it out by adding the years from their wedding date. That he could remember, the date formed part of one of his internet passwords.
 
-His parents and many of his English friends had always thought it a strange and unlikely match, though for many of their later friends in Esperantujo, it was just one of those things that happened all the time. Joseph was a sixth-former when he first learned the international language, Esperanto. He had a passion for languages, and was already planning a career as a language teacher. Still, he hadn't expected to be travelling to Bulgaria to attend a conference in the language: the 63rd Universal Congress of Esperanto, held in the city of Varna in 1978. By then Joseph had just completed his first year at Oxford, studying German and Latin. He had, much to his own surprise, fallen in with a political set who were still idealistic enough about Marx and his system to want to travel in Eastern Europe. One of their number was a fellow Esperantist - in those days they were not as few at Oxford as they became in later years - who persuaded a couple of the others to sign up for the Universala Kongreso, as a cheap way of getting to see something of Bulgaria in the days when communism was supposedly still working and producing economic improvement for the people.
+His parents and many of his English friends had always thought it a strange and unlikely match, though for many of their later friends in Esperantujo, it was just one of those things that happened all the time. Joseph was a sixth-former when he first learned the international language, Esperanto. He had a passion for languages, and was already working towards a career as a language teacher. Still, he hadn't expected to be travelling to Bulgaria to attend a conference in the language: the 63rd Universal Congress of Esperanto, held in the city of Varna in 1978. By then Joseph had just completed his first year at Oxford, studying German and Latin. He had, much to his own surprise, fallen in with a political set who were still idealistic enough about Marx and his system to want to travel in Eastern Europe. One of their number was a fellow Esperantist - in those days they were not as few at Oxford as they became in later years - who persuaded a couple of the others to sign up for the Universala Kongreso, as a cheap way of getting to see something of Bulgaria in the days when communism was supposedly still working and producing economic improvement for the people.
 
 Let's just say, Joseph used often to say afterwards, that the UKE changed my life. It had been a shock to arrive and find himself among 4,413 people from 51 different countries, most of whom didn't speak each other's birth languages, but all of whom were able to communicate to a greater or lesser extent through the constructed language they had learned. Joseph's conversational skills in it weren't that great when he started. His heart had been stirred with all the rest when they sang at the opening session Ludwik Zamenhof's idealistic anthem:
 
@@ -31,21 +29,21 @@ Let's just say, Joseph used often to say afterwards, that the UKE changed my lif
 > Into the world there has come a new feeling,  
 > through the world a strong voice is calling...
 
-But when it came to the sessions on the conference theme: "Internacia lingvo – internacia edukado", he had struggled. Fortunately, the theme wasn't exactly the point for many of those attending the conference. They had come to party, to have a good time. In the conference halls and corridors, in the excursions and in the city squares, there were always people of different countries, in pairs or groups, excitedly talking, making new friends, renewing friendships from previous international gatherings. Joseph was no prude, but he was shocked to hear the gossip about some of the by-no-means-young couples who were pointed out to him as 'kongresedzoj' - congress 'spouses' - who had come from different countries, leaving spouses and children behind to attend the conference each year and resume their long-term, long-distance affairs.
+But when it came to the sessions on the conference theme: "Internacia lingvo – internacia edukado", he had struggled. Fortunately, the theme wasn't actually the point for many of those attending the conference. They had come to party, to have a good time. In the conference halls and corridors, in the excursions and in the city squares, there were always people of different countries, in pairs or groups, excitedly talking, making new friends, renewing friendships from previous international gatherings. Joseph was no prude, but he was shocked to hear the gossip about some of the by-no-means-young couples who were pointed out to him as *'kongresedzoj'* - congress 'spouses' - who had come from different countries, leaving their legitimate spouses and children behind to attend the conference each year and resume their long-term, long-distance affairs.
 
-And each evening there were concerts, pop music and dancing, joined in by young and old alike, which kept especially the junuloj, the members of TEJO, the Tutmonda Esperantista Junulara Organizo, dancing into the small hours. And there was this incredible Lithuanian girl, whom all the boys wanted to dance with and, if they were lucky, take to somewhere private later on, who amazingly and wonderfully wanted to dance with Joseph and be with him as much as he wanted to be with her.
+And each evening there were concerts, pop music and dancing, joined in by young and old alike, which kept especially the *junuloj*, the members of TEJO, the Tutmonda Esperantista Junulara Organizo, dancing into the small hours. And there was this incredible Lithuanian girl, whom all the boys wanted to dance with and, if they were lucky, take to somewhere private later on, who amazingly and wonderfully wanted to dance with Joseph and be with him as much as he wanted to be with her.
 
-International language - international education. Yes, it was an education for Joseph, who thought he had been in love before, but was still young enough to discover, when it happened again, that none of those earlier loves had been the real thing. This, at last, was. When the Congress ended on 5th August, and the participants broke up to go their separate ways, Joseph and Hildegard clung to each other more than physically. They promised - in Hildegard's fluent and Joseph's less halting than it had been Esperanto - that they would not forget. That their hearts were joined for ever. That whatever happened, whatever Iron Curtain hung between them, they would find a way to be together.
+International language - international education. Yes, it was an education for Joseph, who thought he had been in love before, but was still young enough to discover, when it happened again, that none of those earlier loves had been the real thing. This, at last, was it. When the Congress ended on 5th August, and the participants broke up to go their separate ways, Joseph and Hildegard clung to each other more than physically. They promised - in Hildegard's fluent and Joseph's less halting than it had been Esperanto - that they would not forget. That their hearts were joined for ever. That whatever happened, whatever Iron Curtain hung between them, they would find a way to be together.
 
 Back in the UK, Joseph didn't dare tell anyone about those promises. He knew they would laugh at him. How many young people have fallen in love, enjoyed a holiday romance, made lifelong vows, and seen those promises melt like a snowflake in summer? Even he half believed that was how it was bound to be.
 
-But - again incredibly - it didn't happen like that. He and Hildegard exchanged letters and postcards. Over and over they told each other their hearts were as one - niaj koroj estas unu - and that they would be together - ni vere estos kune. But how could a girl from Lithuania, a country which had known independence for only 22 years in the last God-knows-how-many centuries, ever be with boy from Britain?
+But - again incredibly - it didn't happen like that. He and Hildegard exchanged letters and postcards. Over and over they told each other their hearts were as one - *niaj koroj estas unu* - and that they would be together - *ni vere estos kune*. But how could a girl from Lithuania, a country which had known independence for only 22 years in the last God-knows-how-many centuries, ever be with boy from Britain?
 
-Then a day came when the morning post brought Joseph a letter addressed in a well-loved hand, but with an American stamp. With trembling hands he opened it and read that Hildegard's parents - known intellectual dissidents though they were - had somehow been allowed to travel to the United States with their family, and had been granted asylum there. Brezhnev's Soviet Union had had too much of them, and where in earlier times they might have been sent to Siberia or simply disappeared, now there was a policy of simply throwing them out, pulling the thorn out of the body politic and letting it go where it would. Suddenly the impossible had become possible.
+Then a day came when the morning post brought Joseph a letter addressed in a well-loved hand, but with an American stamp. With trembling hands he opened it and read that Hildegard's parents - known intellectual dissidents though they were - had somehow been allowed to travel to the United States with their family, and had been granted asylum there. Brezhnev's Soviet Union had had too much of them, and where in earlier times they might have been sent to Siberia or simply disappeared, now there was a policy of just throwing them out, pulling the thorn out of the body politic and letting it go where it would. Suddenly the impossible had become possible.
 
-Hildegard came to the UK to study. They fell in love even more, in spite of the removal of the obstacles in the way of their love. They became engaged. And on a day, they were married in the Luther-Tyndale Church in Kentish Town.
+Hildegard came to the UK to study. She and Joseph fell in love even more, in spite of the removal of the obstacles in the way of their love. They became engaged. And on a day, they were married in the Luther-Tyndale Church in Kentish Town.
 
-She had always said she wanted six children, and she had a way of getting what she wanted. They brought them up to speak three languages. First they were denaskuloj Esperanto-speakers, because even after Hildegard became fluent in the language of her adopted country, she and Joseph still mostly spoke together in the language which had been the first heart language of their love. But Joseph also spoke to the children in English, while their mother spoke to them in Lithuanian. It was a dream of a truly international family, that would be a symbol and model of the peace and understanding they longed for for all peoples, from East and West:
+She had always said she wanted six children, and she had a way of getting what she wanted. They brought them up to speak three languages. First they were *denaskuloj* Esperanto-speakers, because even after Hildegard became fluent in the language of her adopted country, she and Joseph still mostly spoke together in the language which had been the first heart language of their love. But Joseph also spoke to the children in English, while their mother spoke to them in Lithuanian. It was a dream of a truly international family, that would be a symbol and model of the peace and understanding they longed for for all peoples, from East and West:
 
 > Al la mond' eterne militanta  
 > Ĝi promesas sanktan harmonion.
@@ -66,7 +64,7 @@ Joseph found it was not so good for mourning. Especially when no one around him 
 
 Joseph woke up from another night in which he had not slept, and wondered how it could be possible to dream you were awake all night, and not gain any benefit from the sleep in which you had dreamed. The space beside him in the double bed was empty and cold, and once again he was overwhelmed with rage. Grief and panic and fear and rage.
 
-His life with Hildegard had always felt singularly blessed. Nothing Really Bad had ever happened to them: no miscarriage, stillbirth, cancer, serious injury, rape, redundancy, violent assault, the death of a child. These were things they read about or heard about that happened to other people, and they always breathed a silent thank you, to Providence or something, that they had been spared all those things. Now it was as if Everything Bad had suddenly come upon him like a bullet in the back, and the one person with whom he might have been able to bear it, was the one who wasn't there any more. Who had become the black hole which was Everything Bad, into which all that he had ever loved or held dear was being sucked. But again, no one noticed. Because the end of the world was only what happened to one person in every marriage, if they stuck at it and lived long enough. That was, after all, what they had promised: till death us do part. No one had ever pointed out to them on that day: Death *will* come between you, you know. You've just said so.
+His life with Hildegard had always felt singularly blessed. Nothing Really Bad had ever happened to them: no miscarriage, stillbirth, cancer, serious injury, rape, redundancy, violent assault, the death of a child. These were things they read about or heard about that happened to other people, and they always breathed a silent thank you, to Providence or something, that they had been spared those things. Now it was as if Everything Bad had suddenly come upon him like a bullet in the back, and the one person with whom he might have been able to bear it, was the one who wasn't there any more. Who had become the black hole which was Everything Bad, into which all that he had ever loved or held dear was being sucked. But again, no one noticed. Because the end of the world was only what happened to one person in every marriage, if they stuck at it and lived long enough. That was, after all, what they had promised: till death us do part. No one had ever pointed out to them on that day: Death *will* come between you, you know. You've just said so.
 
 Youngest Daughter was still sleeping in the next room. She was the only one of the children who was still staying with him, the others had jobs to go to, families to look after. She had taken time off work to look after her Aged P, as she annoyingly called him when she talked to her siblings. Joseph quietly got up, washed and dressed without shaving - if you couldn't appear to the world unshaven when your wife had just died... - and made himself a cup of coffee.
 
@@ -78,9 +76,9 @@ One thing there was in his favour, and that was that he was punctual. On the dot
 
 It was a tragedy that she had been taken, when she was still so relatively young, still might have looked forward to so many expected years of happy retirement, he seemed to be saying. God's ways are mysterious, inscrutable, but still we can be sure that he loves his people, ultimately his purposes are good. Hildegard was a woman of such faith, such goodness, we could have no doubt about her being now safe with the God she so firmly believed in.
 
-The platitudes sunned themselves on the sand of Joseph's thoughts, apparently blissfully unaware of the tsunami of rage that was about to break upon them and sweep them out to sea. He had believed this stuff! Or something possibly like it, very like it perhaps. Now the words were hollowed out, empty of all meaning and even of the compassion they were meant to be the containers of. Did the vicar really believe them? Or was it another article of the faith that was so dead that it needed 'bringing to life'? Joseph caught the vicar's eyes, which hurriedly flicked away from his, and thought he saw a flicker of guilt. Perhaps the vicar not only knew it was dead. Perhaps he was the murderer?
+The platitudes sunned themselves on the sand of Joseph's thoughts, apparently blissfully unaware of the tsunami of rage that was rising to break upon them and sweep them out to sea. He had believed this stuff! Or something possibly like it, very like it perhaps. Now the words were hollowed out, empty of all meaning and even of the compassion they were meant to be the containers of. Did the vicar really believe them? Or was it another article of the faith that was so dead that it needed 'bringing to life'? Joseph caught the vicar's eyes, which hurriedly flicked away from his, and thought he saw a flicker of guilt. Perhaps the vicar not only knew it was dead. Perhaps he was the murderer?
 
-Somehow the business that had to be done was done. The vicar had done his pastoral duty of comforting a bereaved parishioner. He had helped the bereaved family 'plan the funeral service'. Hymns and readings chosen. A family member or members to deliver the eulogy. All to be invited to refreshments afterwards in the pub opposite the church. All satisfactory. The vicar took his leave, venturing to give Youngest Daughter a slight kiss on the cheek, and Joseph an embarrassed and shortest possible manly hug.
+Somehow the business that had to be done was done. The vicar had done his pastoral duty of comforting a bereaved parishioner. He had helped the bereaved family 'plan the funeral service'. Hymns and readings chosen. A family member or members to deliver the eulogy. All to be invited to refreshments afterwards in the pub opposite the church. All satisfactory. The vicar took his leave, venturing to give Youngest Daughter a small kiss on the cheek, and Joseph an embarrassed and shortest possible manly hug.
 
 "Well, Dad, I did think you might have been a bit more helpful, a bit more forthcoming. We needed you to make some decisions, and I pretty much had to make them all. I just hope the others will be happy with them, I think they were what we discussed while they were still here. You could at least have given us some idea about whether they were what you want. What Mum would have wanted."
 
@@ -90,20 +88,21 @@ What Mum would have wanted, was to be alive. But he didn't say it; there was no 
 
 "Were they kind? They seemed a bit, you know, *empty* to me. I was kind of waiting for him to bring them to life, if you know what I mean?"
 
-"Oh, *Dad*! You're being a bit hard on the poor man. He must be very upset to, losing such a wonderful member of his congregation. He was only doing his best."
+"Oh, *Dad*! You're being a bit hard on the poor man. He must be very upset too, losing such a wonderful member of his congregation. He was only doing his best."
 
 "Was he?"
 
-Inexorably, but much too slowly, the day of the funeral came. The rain fell heavily from first light, all through the morning. The hearse drove up promptly on time and stopped in front of the house. The funeral director came in, a young woman in a smart black suit, business-like and yet somehow communicating more real comfort than the vicar had done. Joseph and his children went out to the waiting limousine, a daughter on each side of him holding an umbrella and feeling as if they were holding him up in case he collapsed or blew away. A part of the rage still flickered inside him: I may be the widower here, but I'm not frail or senile, you know. They drove the half mile to the church, following the hearse, the rain still falling and dripping heavily from the trees that lined the streets like silent witnesses.
+
+INEXORABLY, BUT MUCH too slowly, the day of the funeral came. The rain fell heavily from first light, all through the morning. The hearse drove up promptly on time and stopped in front of the house. The funeral director came in, a young woman in a smart black suit, business-like and yet somehow communicating more real comfort than the vicar had done. Joseph and his children went out to the waiting limousine, a daughter on each side of him holding an umbrella and feeling as if they were holding him up in case he collapsed or blew away. A part of the rage still flickered inside him: I may be the widower here, but I'm not frail or senile, you know. They drove the half mile to the church, following the hearse, the rain still falling and dripping heavily from the trees that lined the streets like silent neighbours paying their respects.
 
 Joseph was surprised, no, not surprised, when they followed the coffin and bearers into the old church he had loved so much, and found it full of people. Family, friends from church and work and the local community, even a few from Esperantujo. He was touched by their grief, their love for him but especially for Hildegard, that had brought them here today. The service began. It was, you might say, and many people did, a lovely service. The hymns were some of his favourites, lines that had meant something sometime in the course of their lives. The words of St Paul hung in the air:
 
-For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,
-Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
+> For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,  
+> Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
 
 Eldest Son delivered the eulogy, Middle Daughter read a poem she had written, Joseph himself said a few words, the vicar preached on the words of St Paul. And it all seemed empty.
 
-One who knows does not speak, thought Joseph; one who speaks does not know.
+*One who knows does not speak*, thought Joseph; *one who speaks does not know*.
 
 The service ended and they went out, still huddling under umbrellas, to the far end of the churchyard where an open grave lay beside a pile of earth, covered in green matting. The bearers set the coffin down on the trestles, passed the webbing underneath, lifted and lowered it into the hole. A wooden box, that now contained all that physically remained of the wife of his youth, the delight of his eyes.
 
@@ -130,13 +129,13 @@ It wasn't what he would have expected his dead wife to say; though on reflection
 
 "What do you *think* I want? I want you to be alive! I want you not to be dead!"
 
-She shook her head sadly, and was gone.
+She shook her head sadly, and vanished.
 
 And it seemed to Joseph that he dreamed a second time. He sat up in bed, and there was his wife Hildegard, standing at the foot of the bed. No longer the teenager he had first known in a faraway country under communist rule, but the stunning bride, radiant and full of hope, her dreams of freedom fulfilled.
 
 "What do you want, Joseph?"
 
-The tears prickled in his eyes, but he somehow sensed that the same, obvious answer was not going to be the right one. What *did* he want? He had suddenly, at a stroke, lost the person he loved more than anyone in the world. The category of wanting had at that moment become void. What else was there to want? He wasn't even sure he wanted to exist. Surely, grieving was a season of not wanting anything, ever again? Of simply surviving, battling through, enduring what could not be endured, except that there was nothing else.
+The tears prickled in his eyes, but he somehow sensed that the same, obvious answer was not going to be the right one now, either. What *did* he want? He had suddenly, at a stroke, lost the person he loved more than anyone in the world. The category of wanting had at that moment become void. What else was there to want? He wasn't even sure he wanted to exist. Surely, grieving was a season of not wanting anything, ever again? Of simply surviving, battling through, enduring what could not be endured, except that there was nothing else.
 
 "I want - everything to be better."
 
@@ -170,10 +169,10 @@ She didn't vanish this time, as if she were some kind of spirit or apparition. S
 
 And - if Joseph had dreamed - he awoke.
 
-All the following day he wrestled to understand the dreams, or night visions, or whatever they had been. He longed to talk to someone about them, he had always done his best thinking when he thought aloud, sharing his ideas with others. But who? The vicar? Joseph could all too easily imagine the poor man's panic at the possibility of his parishioner's insanity, or worse than that, a real experience of a world of spirit that there was no place for in his philosophy, his business-like, modernising Christian world-view. His children? He imagined Youngest Daughter's horror at the thought of the Aged P seeing her dead mother around the house, and imagining he had actually talked with her. The older children might have been less horrified, but they would surely have been equally bewildered. His friends at church? Some of them might have been less troubled in their orthodoxy than the vicar would have been, but he was afraid most of them would nevertheless try to offer comfort or advice, rather than help him understand the message he had been given.
+All the following day he wrestled to understand the dreams, or night visions, or whatever they had been. He longed to talk to someone about them, he had always done his best thinking when he thought aloud, sharing his ideas with others. But who? The vicar? Joseph could all too easily imagine the poor man's panic at the possibility his parishioner had gone mad, or worse than that, had had a real experience of a world of spirit that there was no place for in his philosophy, his business-like, modernising Christian world-view. His children? He imagined Youngest Daughter's horror at the thought of the Aged P seeing her dead mother around the house, and imagining he had actually talked with her. The older children might have been less horrified, but they would surely have been equally bewildered. His friends at church? Some of them might have been less troubled in their orthodoxy than the vicar would have been, but he was afraid most of them would nevertheless try to offer comfort or advice, rather than help him understand the message he had been given.
 
 
-He must have been sitting that way for several hours when his mobile phone rang.
+HE MUST HAVE BEEN sitting that way for several hours when his mobile phone rang.
 
 "Hello, Joseph, it's Pete. Listen, I don't know what you think about this, tell me if it's out of line, you might not feel up to it yet anyway. But me and the boys wondered if you'd like to come for a drink tonight, at the Hen and Hammock."
 
@@ -183,7 +182,7 @@ More than once during the afternoon he changed his mind and was on the point of 
 
 It was a healing time, and he breathed a heartfelt thanks to the Universe for it, as he returned home and unlocked the door of the empty house. He had even - though he wasn't sure he was going to - told them about the night visions, the message he had been given. He had asked them how they remembered Hildegard, and what they thought she - and he - had 'always wanted'. It was an interesting, and a moving list.
 
-She had always wanted love, they told him. And they didn't mean that she wanted to receive it. She wanted to give love, and she had a heart big enough to give love to everyone, it seemed, even their acquaintances that Joseph found impossible. She loved freedom, and wanted everyone to be free. She passionately desired justice, and raged at the inequality of wealth and opportunity she saw everywhere around her. The earth, for her, was a generous Mother, and what she gave was meant to be shared by all of earth's inhabitants. She couldn't bear dishonesty or corruption: it was why she was constantly cancelling her membership of political parties or other organisations, when they failed to live up to their promises or commitments, or compromised their beliefs for the sake of power. Like any mother she was dedicated to her family and children, and would probably take on the whole world single-handed if it threatened them. She hated the intolerance and prejudice, the ignorance and propaganda, that had entered into the news media and political debate. She hated the apathy and indifference of people who shrugged and asked What could you do about it? She believed everyone had a duty, as a human being, to desire knowledge and truthful discourse, and she expected everyone to work at discerning what was true and what was false. She believed that science and intellect and human resources should be used to create weal, and not woe; and hated that the world's leading industrialised nations relied, for so much of their prosperity, on the vile trade in arms. She was for peace, without compromise or deviation.
+She had always wanted love, they told him. And they didn't mean that she wanted to receive it. She wanted to give love, and she had a heart big enough to give love to everyone, it seemed, even their acquaintances that Joseph found impossible. She loved freedom, and wanted everyone to be free. She passionately desired justice, and raged at the inequality of wealth and opportunity she saw everywhere around her. The earth, for her, was a generous Mother, and what she gave was meant to be shared by all of earth's inhabitants. She couldn't bear dishonesty or corruption: it was why she was constantly cancelling her membership of political parties or other organisations, when they failed to live up to their promises or commitments, or compromised their beliefs for the sake of power or profit. Like any mother she was dedicated to her family and children, and would probably take on the whole world single-handed if it threatened them. She hated the intolerance and prejudice, the ignorance and propaganda, that had entered into the news media and political debate. She hated the apathy and indifference of people who shrugged and said What could you do about it, anyway? She believed everyone had a duty, as a human being, to desire knowledge and truthful discourse, and she expected everyone to work at discerning what was true and what was false. She believed that science and intellect and human resources should be used to create weal, and not woe; and hated that the world's leading industrialised nations relied, for so much of their prosperity, on the vile trade in arms. She was for peace, without compromise or deviation.
 
 "And you *know* what she always wanted, Joseph," said Tom. "She wanted you and her to live out your beliefs, with complete integrity."
 
@@ -200,7 +199,9 @@ In the morning, Joseph didn't know what was happening to him. He sprang out of b
 
 Shortly afterwards he found himself sitting in the kitchen, the washing up done, drumming on an upturned plastic bucket, and singing at the top of his voice one of the old songs he had used to sing with Oldest Daughter, when they were doing the washing up together.
 
-"Nothing came from nothing, nothing ever could; so somewhere in my youth or childhood, I must have done something good."
+"Nothing came from nothing, nothing ever could;  
+so somewhere in my youth or childhood,  
+I must have done something good."
 
 It sounded pretty good with an upbeat reggae kind of rhythm. Though he said it himself.
 
@@ -210,10 +211,10 @@ And that was how the vicar found him, when he came to pay his post-funeral pasto
 
 "But you were drumming and making a noise?" he asked, after Joseph had stopped drumming and singing, and invited his visitor to come in and sit down. It was clear from the way he said it, that he thought this behaviour unusual if not inappropriate in a man who had just buried his wife. Perhaps bereavement insanity really was a documented condition, as he had occasionally thought?
 
-And at that moment Joseph burst out laughing. He had remembered his dream. It was not a dream he would have thought to tell the vicar about, and probably not his friends of the evening before, either. To his surprise, now that he thought of it - though perhaps it was normal, he had never read anything about it in the various helpful booklets on Dealing with Bereavement that he had been given - he had dreamed he and Hildegard were making love. It had been a *cosmic* coitus, the kind you would expect to be accompanied by Roberta Flack singing The First Time Ever I Saw Your Face. Not the love-making of their first months together, fumbling, hasty, unsure and full of questions. But the love-making of their maturer years: confident, relaxed, passionate, the love-making that came from knowing every centimetre of their partner's body as well as they knew their own. Knowing how and where to touch, the exact moment to press on or to hold back, the urgent and the leisurely, the teasing and the release. And in the dream, it lasted not the half-hour or hour before sleep, but days, months, years, while Governments came and went, wars were fought and walls tumbled. The climax they reached together was the bursting of stars, the singing of spheres, the unfolding of galaxies.
+And at that moment Joseph burst out laughing. He had remembered his dream. It was not a dream he would have thought to tell the vicar about, and probably not his friends of the evening before, either. To his surprise, now that he thought of it - perhaps it was abnormal, though he had never read anything about it in the various helpful booklets on Dealing with Bereavement that he had been given - he had dreamed he and Hildegard were making love. It had been a *cosmic* coitus, the kind you would expect to be accompanied by Roberta Flack singing The First Time Ever I Saw Your Face. Not the love-making of their first months together, fumbling, hasty, unsure and full of questions. But the love-making of their maturer years: confident, relaxed, passionate, the love-making that came from knowing every centimetre of their partner's body as well as they knew their own. Knowing how and where to touch, the exact moment to press on or to hold back, the urgent and the leisurely, the teasing and the release. And in the dream, it lasted not the half-hour or hour before sleep, but days, months, years, while Governments came and went, wars were fought and walls tumbled. The climax they reached together was the bursting of stars, the singing of spheres, the unfolding of galaxies.
 
-And I knew our joy would fill the earth
-And last till the end of time
+> And I knew our joy would fill the earth  
+And last till the end of time  
 My love
 
 You're wrong, Roberta. Last night I knew our love and our joy would fill the *universe*, and last till the end of time, my love.
@@ -254,9 +255,9 @@ He remembered a time in their life when he had been seriously trying to deepen h
 
 "Your true self is not to discover!" she complained. "It's to *be*! All this spiritual stuff is just a lot of self-indulgent mumbo-jumbo! Read Chuang Tzu and shut up about true selves."
 
-Chuang Tzu, it turned out, was a great sceptic and debunker of spiritual gimmickry. The idea of not searching for your true self but just being it, was definitely the sort of thing he would say. As so often before, he found himself wanting to ask his wife, How do you know all this stuff, anyway? But the fact was, she just *knew*. Now she wasn't here, he would just have to start knowing it for himself.
+Chuang Tzu, it turned out, was a great sceptic and debunker of spiritual gimmickry. The idea of not searching for your true self but just being it, was definitely the sort of thing he would say. As so often before, he found himself wanting to ask his wife, How do you know all this stuff, anyway? But the fact was, she just *knew*. Now she wasn't here, he supposed he would just have to start knowing it for himself.
 
-He knew he was not supposed to make any sudden decisions, all the books said so. But he was going to make one anyway. He was going to make a journey, a kind of pilgrimage, to walk with and for Hildegard, to be his true self, to walk the walk he had always tried to, or wanted to try to, walk. They had occasionally talked about walking to Santiago da Compostela. When they had a bit more time. When they had both fully retired. When, when. And that time had never come. But now it could. Now he could do the walk for both of them. Woody and Tom from last night, had both talked about walking the Camino. They would go together: three men on the Camino. It would be a laugh. Something to worry the children, give him something to do while the grieving took its course. And maybe make the vicar feel that he was approaching the whole thing in a proper Christian way.
+He knew he was not supposed to make any sudden decisions, all the books said so. But he was going to make one anyway. He was going to make a journey, a pilgrimage if you will, to walk with and for Hildegard, to be his true self, to walk the walk he had always tried to, or wanted to try to, walk. They had occasionally talked about walking to Santiago da Compostela. When they had a bit more time. When they had both fully retired. When, when. And that time had never come. But now it could. Now he could do the walk for both of them. Woody and Tom from last night, had both talked from time to time about walking the Camino. They would go together: three men on the Camino. It would be a laugh. Something to worry the children, give him something to do while the grieving took its course. And maybe make the vicar feel that he was approaching the whole thing in a proper Christian way.
 
 Yes, that was it.
 
@@ -1165,16 +1166,12 @@ Joseph stood up and nodded. "I think it is time. I think what has happened is - 
 
 What does a Tao Master teach his pupil? It may be that there are as many answers to that question as there are Taoist Masters, or as there are Taoists, or as there are people in the world. Seven and a half billion? it's reckoned.
 
-#+BEGIN_QUOTE
-
-The essence of my teachings is this:  
+> The essence of my teachings is this:  
 See with original purity  
 Embrace with original simplicity  
 Reduce what you have  
 Decrease what you want  
 (Tao Te Ching, 19)
-
-#+END_QUOTE
 
 For Joseph, it seemed that a lot of the teaching he was getting involved just sitting. Sitting, he was expected to remain silent, ask no questions, not expect to be told anything. When sitting became too uncomfortable for him, he was allowed to leave, though always with a sense of the Magister's disapproval. These Westerners! They don't even know how to sit still! These, Joseph imagined, were supposed to be lessons in meditation practice.
 
@@ -1325,18 +1322,14 @@ Deep in thought, he left the university hall and walked down to the river, hardl
 
 Liu smiled. "Lao Tzu also says this
 
-#+BEGIN_QUOTE
-
-The best of all rulers is but a shadowy presence to his subjects.  
-Next comes the ruler they love and praise;
+> The best of all rulers is but a shadowy presence to his subjects.  
+Next comes the ruler they love and praise;  
 next comes one they fear;  
 next comes one with whom they take liberties.  
 When there is not enough faith, there is lack of good faith.  
 Hesitant, he does not utter words lightly.  
 When his task is accomplished and his work done  
 the people all say, 'It happened to us naturally.'
-
-#+END_QUOTE
 
 "Remember! The *Tao Te Ching* is also written as an instruction for those who rule. It is true, as you say, that you must not seek to change the world by force. Did you not once tell me how your wife reminded you of the story about a man who learned that he could not change the world, all he could do was try to change himself? But the Tao is also about *constant* change: nothing remains the same, all is change and change is all. One must be so at one with Tao, that the change one works for is the Tao-change. Then all will say, 'It happened to us naturally,' or 'We did it ourselves.'
 
@@ -1693,16 +1686,12 @@ Black clad figures bearing extremely serious small arms ran across the lawn. Jos
 
 Then the first man opened fire, aiming directly at Joseph.
 
-#+BEGIN_QUOTE
-
-One who embraces Tao  
+> One who embraces Tao  
 will become pure and innocent  
 like a newborn babe  
 Deadly insects will not sting him  
 Wild beasts will not attack him  
 Birds of prey will not strike him
-
-#+END_QUOTE
 
 The bullets did not harm the Dragon Lord. His companions could not see if he stopped them, or simply was not there, where they passed through the space where he had stood. All they knew was that, when the short burst of firing stopped, he still stood.
 
@@ -2016,17 +2005,13 @@ Those early years of the Jade Empress's reign came to be known in history as the
 
 How did the Dragon Lord become such a charismatic and influential leader, teacher, adviser and mentor to those who were said to have worldly power?
 
-#+BEGIN_QUOTE
-
-The Sage lives in harmony with all below Heaven  
+> The Sage lives in harmony with all below Heaven  
 He sees everything as his own self  
 He loves everyone as his own child  
 All people are drawn to him  
 every eye and ear is turned toward him
 
-*Tao Te Ching*, 49
-
-#+END_QUOTE
+> *Tao Te Ching*, 49
 
 One of the Empire's first resolves was to create a just and equal society, instead of the inequalities which had been the inevitable outcome of the existing systems of finance and economics. Yet they had no desire to bring about their reforms by force or by legislation, only by persuasion, so that everyone would see the rightness and justice of them.
 
