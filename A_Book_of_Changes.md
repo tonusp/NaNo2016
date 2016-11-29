@@ -365,7 +365,7 @@ The headlines of the previous day's English language newspapers, available in th
 
 > Cricket is condemned by the Government by dictate of the Lord Protector (see *Comment* on page 10: We welcome Marduk's proclamation as Lord Protector of the Imperial United Kingdom of Greater Britain) as unpatriotic, treasonous, and likely to inculcate and promote non-British values of fair play and sportsmanship. It has recently been discovered by researchers at the University of Wapping that cricket is not an English invention, as foreign propaganda caused us to believe, but was in fact imported from the Indian sub-continent. Invented by immigrants trying to take service in the Imperial British Army of the Raj, it was brought back to England by dissipated half-caste soldiers and quickly spread throughout the English shires by foreigner-loving intellectuals and their sympathisers.
 
-> Anyone found playing cricket after the end of this month will face severe penalties, not excluding imprisonment or deportation to the colony for a second offence. A general amnesty will apply until 31 December this year for the surrender of all cricket-related articles: bats, balls, stumps, pads, score books, and copies of the banned book Wisden's Cricketers' Almanack. Rewards will be offered to anyone reporting breaches of this order.
+> Anyone found playing cricket after the end of this month will face severe penalties, not excluding imprisonment or deportation to the colony for a second offence. A general amnesty will apply until 31 December this year for the surrender of all cricket-related articles: bats, balls, stumps, pads, score books, and copies of the banned book *Wisden's Cricketers' Almanack*. Rewards will be offered to anyone reporting breaches of this order.
 
 > Long Live The Lord Protector!
 
@@ -385,7 +385,7 @@ Joseph stood in silent contemplation of the monument for long minutes, while Tom
 
 Then, "OK, tell us the story," they asked.
 
-"Back in the 1920s and '30s, Esperanto was phenomenally popular here. It was a time, in the decades after the Great War, when many people really believed that an international language that all could learn and speak, really was the way to world peace. When the League of Nations was formed, there was even a movement for them to nominate Esperanto as one of the official languages of the League. It was a motion that the French vetoed: they thought French should be the world's lingua franca.
+"Well. Back in the 1920s and '30s, Esperanto was phenomenally popular here. It was a time, in the decades after the Great War, when many people really believed that an international language that all could learn and speak, really was the way to world peace. When the League of Nations was formed, there was even a movement for them to nominate Esperanto as one of the official languages of the League. It was a motion that the French vetoed: they thought French should be the world's lingua franca.
 
 "There were two brothers living here on Texel: Gijs and Johan Duinker. They owned and ran the local newspaper. They had learned about, and picked up Esperanto, during their travels in Europe. Thanks to their enthusiasm and influence, a quarter of the population of the island learned the language: about 2,000 out of 8,000 inhabitants. The brothers paid for this monument to be built in 1935, and the whole town turned out for a procession, speeches, and a picnic when it was inaugurated. Look: 
 
@@ -407,7 +407,7 @@ They looked blankly at him, then the young woman asked, "Espanol? Italiano? Engl
 
 "You don't speak Esperanto?" replied Joseph.
 
-Her English wasn't that brilliant, but possibly better than her Spanish or Italian, and certainly better than her Esperanto. "I never heared of Esperanto, what is it?" Joseph's eyes flicked to the top of the brick pillar, and the inscribed word there. How often had this young woman walked past this place, and either never looked up at it, or never wondered what it was about? If this really was part of the history of the place she lived, could it be she nothing about it? Clearly it could.
+Her English wasn't that brilliant, but possibly better than her Spanish or Italian, and certainly better than her Esperanto. "I never heared of Esperanto, what is it?" Joseph's eyes flicked to the top of the brick pillar, and the inscribed word there. How often had this young woman walked past this place, and either never looked up at it, or never wondered what it was about? If this really was part of the history of the place she lived, could it be she knew nothing about it? Clearly it could.
 
 The three companions walked back towards the centre of the little town, Joseph leading the way, with the others trailing behind. He stopped several passers-by with the same question: "Ĉu vi parolas Esperanton?" but they all greeted his words with the same look of incomprehension, a similar response from the many who knew some English. Finally, in a small supermarket where Woody was compelling him to let them all buy something to eat, the older woman behind the counter said, "Esperanto? No. But I've heard of it, lots of people here used to know it. You should ask old Jost, who lives out on Wilhelminalaan."
 
@@ -421,7 +421,7 @@ The man froze, as if he had heard the whisper of a ghost. "Mi forgesas... Estas 
 
 He seemed so distressed by the question, or at least the sound of the international language, that Joseph reverted to English for the old man's, and for his friends', sakes. He explained, as simply as he could, that they were interested in the monument they had seen, and wanted to learn more about it.
 
-Jost insisted that they went back to Kogerstraat, rather than talk in his front garden. He took from his house a small bundle of green cloth, and set off across town at what was a brisk pace even for the three Englishmen. When they reached the monument again, Jost stood still, looking at it, for several minutes in silence. His face looked drawn and grey, his lips pressed together in something like pain.
+Jost insisted that they go back to Kogerstraat, rather than talk in his front garden. He took from his house a small bundle of green cloth, and set off across town at what was a brisk pace even for the three Englishmen. When they reached the monument again, Jost stood still, looking at it, for several minutes in silence. His face looked drawn and grey, his lips pressed together in something like pain.
 
 Then he said, "My wife and I met at the Esperanto class. She died three years ago. I've not been to look at that monument since that day."
 
@@ -437,11 +437,11 @@ Jost swallowed hard, and said, "Everyone who speaks Esperanto has this flag, wit
 
 "Dat het Engels heeft gewonnen. As world language was English now the language, and not Esperanto. And the years before the War, everyone believed that Esperanto would be the world language."
 
-He began to screw the green flag up into a bundle, ignoring the neat creases along which it had been folded. He swallowed hard again, and tears brimmed in his eyes. Joseph's heart went out to him, and he shook his hand with the squeeze of a fellow-widower who would no longer hear his karulino's sweet voice speaking love-words in the special language that had been their own, yet also shared with others who hoped for a world that would be united in communication, mutual understanding, and a working for peace.
+He began to screw the green flag up into a bundle, ignoring the neat creases along which it had been folded. He swallowed hard again, and tears brimmed in his eyes. Joseph's heart went out to him, and he shook his hand with the squeeze of a fellow-widower who would no longer hear his karulino's sweet voice speaking love-words in the special language that had been their own, yet which they also shared with others who hoped for a world that would be united in communication, mutual understanding, and a working for peace.
 
 "Dankon," he said. "Ie oni ankoraŭ parolas la lingvon internacian. Eksistas ankoraŭ espero. Do, esperu ankoraŭ, mia amiko."
 
-But Jost turned away and hurried off down the street. Joesph's friends watched him go.
+But Jost turned away and hurried off down the street. Joseph's friends watched him go.
 
 "Well, that worked well," said Tom. "Or maybe not. I hope this pilgrimage of grieving or healing or whatever you want it to be, isn't going to turn into a major grief-fest, re-opening wounds across the continent. Oh, I'm sorry, Joseph. I'm talking about your wounds, too."
 
@@ -462,17 +462,15 @@ And words that Zamenhof - or had it been someone else? - had spoken in the Golde
 
 "We will proudly unfurl our green banner of hope, the only flag never stained by human blood. And round our flag will gather all those forces who not only say, but deeply believe, that human beings are before all else human beings, and that the earth can be a comfortable and well-lit home for all races, for all nations, for us all."
 
-No doubt there had been many times during the long years of the British Empire, when men and women crossed the world with genuine idealism and altruism, believing that they were bringing true civilization and hope to the dark places of the world. Missionaries. Colonial officers. No doubt they had often brought light and truth and peace. No doubt the darkness had been great: tribe constantly at war with tribe, eating their defeated enemies and raping their women, burning widows on their husbands' funeral pyres, dooming young girls to a life of prostitution to honour their idols. The English language would become the vehicle of civilization... But everywhere that idealism ventured forth, colonialism and greed followed close on its heels. There came contempt for native cultures, even when they were good and wholesome. There came exploitation of indigenous peoples, plundering their resources, and in the end there was no lasting resolution of the problems that had preceded Empire. As soon as the colonial lords departed, the bitter tribal rivalries resurfaced. Now colonialism seemed indeed to be no more, but often it had only entered a new phase and assumed a different form and mask. Was the darkness any less, now that the weapons of war were stealth fighters and smart missiles, Kalashnikovs and ground-to-air missiles, barrel bombs and land mines. Girls and women were still raped and forced into sexual slavery, people were still trafficked and reduced to slavery, or killed in new and more inventively efficient ways. All the talk of, and campaigning for, human rights had still failed to free the world of the lust to slaughter defeated enemies, when they were hated enough, and to torture those who threatened the interests or security of the ruling powers.
+No doubt there had been many times during the long years of the British Empire, when men and women crossed the world with genuine idealism and altruism, believing that they were bringing true civilization and hope to the dark places of the world. Missionaries. Colonial officers. No doubt they had often brought light and truth and peace. No doubt the darkness had been great: tribe constantly at war with tribe, eating their defeated enemies and raping their women, burning widows on their husbands' funeral pyres, dooming young girls to a life of prostitution to honour their idols. The English language would become the vehicle of civilization... But everywhere that idealism ventured forth, colonialism and greed followed close on its heels. There came contempt for native cultures, even when they were good and wholesome. There came exploitation of indigenous peoples, plundering their resources, and in the end there was no lasting resolution of the problems that had preceded Empire. As soon as the colonial lords departed, the bitter tribal rivalries resurfaced. Now colonialism seemed indeed to be no more, but often it had only entered a new phase and assumed a different form and mask. Was the darkness any less, now that the weapons of war were stealth fighters and smart missiles, Kalashnikovs and ground-to-air missiles, barrel bombs and land mines? Girls and women were still raped and forced into sexual slavery, people were still trafficked and reduced to slavery, or killed in new and more inventively efficient ways. All the talk of, and campaigning for, human rights had still failed to free the world of the lust to slaughter defeated enemies, if you hated them enough, and to torture those who threatened the interests or security of the ruling powers.
 
 As much as ever, the world needed to rally around a flag of hope, which still was innocent, unstained by human blood. Whose followers still aspired to create that better world, that would be a safe and peaceful home for men, women and children of all races and colours, no matter what heart-language or mother tongue they spoke, no matter how they chose to worship their God, or even if chose not to worship any God at all.
 
 The drive that Google Maps predicted would take around 5 hours, took the Delta Flyer several hours longer. After waiting for the ferry to take them back to the Dutch mainland, they drove south then east, crossing the IJsselmeer by the 32 kilometre long Afsluitdijk causeway, then on to the German border and beyond, arriving on the outskirts of Hanover by late afternoon. They took rooms at the Hotel in Herrenhausen, where they ate, drank several lagers, and slept.
 
------
+> ## SPORTS EDICTS
 
-LATEST SPORTS EDICTS
-
-The Ministry for Leisure has released further details of bans on foreign sports and pastimes. Proscribed activities now include polo, fencing, and all forms of eastern martial arts: including judo, karate, aikido and tai chi chuan (complete list obtainable online, or from all Mardukpost Offices). Yoga, mindfulness, and similar psychosomatic practices have also been made criminal offences. Bowls, despite its similarity to French petanque, is permitted because it was played by Sir Francis Drake. Encouraged British sports include soccer, rugby, boxing and quarterstaff. From 1 January all schoolchildren will be obliged to learn the longbow.
+> The Ministry for Leisure has released further details of bans on foreign sports and pastimes. Proscribed activities now include polo, fencing, and all forms of eastern martial arts: including judo, karate, aikido and tai chi chuan (complete list obtainable online, or from all Mardukpost Offices). Yoga, mindfulness, and similar psychosomatic practices have also been made criminal offences. Bowls, despite its similarity to French petanque, is permitted because it was played by Sir Francis Drake. Encouraged British sports include soccer, rugby, boxing and quarterstaff. From 1 January all schoolchildren will be obliged to learn the longbow.
 
 -----
 
@@ -490,13 +488,11 @@ Then, "OK, Joseph. This is Hanover. You haven't yet told us why?"
 
 "And why Hanover, then?"
 
-"Oh, didn't I say? No, I guess not. Leibniz spent quite a bit of his life living and working here. His leading patron was Sophia, the Electress of Hanover. She was a daughter of Elizabeth Stuart, AKA The Winter Queen, and *she* was daughter of our own James VI of Scotland and I of England. Sophia married Ernst Augustus, the Elector of Hanover. For a time, when Queen Anne was unable to produce an heir, Sophia even became heir to the throne of England and Scotland - in her 70s, mind you! But she died in 1714 only a few months before her sickly cousin Anne, so it was her son who came to the British throne as King George I. Her daughter Sophia Charlotte, by the way, married Frederick I of Prussia, so all the later Prussian kings were descended from her."
+"Oh, didn't I say? No, I guess not. Leibniz spent quite a bit of his life living and working here. His chief patron was Sophia, the Electress of Hanover. She was a daughter of Elizabeth Stuart, AKA The Winter Queen, and *she* was daughter of our own James VI of Scotland and I of England. Sophia married Ernst Augustus, the Elector of Hanover. For a time, when Queen Anne was unable to produce an heir, Sophia even became heir to the throne of England and Scotland - in her 70s, mind you! But she died in 1714 only a few months before her sickly cousin Anne, so it was her son who came to the British throne as King George I. Her daughter Sophia Charlotte, by the way, married Frederick I of Prussia, so all the later Prussian kings were descended from her."
 
 "Humph. Well, how do you know this stuff, anyway? I thought you were a language teacher, not a historian?"
 
-"Yes, but I also read novels. Haven't you ever read Neal Stephenson's *Baroque Trilogy*? You should, you know.[fn:2] So," Joseph concluded, "today's agenda is: We visit Sophia's palace here in Herrenhausen, on the trail of Gottfried Ephraim Leibniz."
-
-[fn:2] You should, too.
+"Yes, but I also read novels. Haven't you ever read Neal Stephenson's *Baroque Trilogy*? [You should, you know](You should, too.). So," Joseph concluded, "today's agenda is: We visit Sophia's palace here in Herrenhausen, on the trail of Gottfried Ephraim Leibniz."
 
 Schloss Herrenhausen is the summer palace of the Elector Sophia and her husband. Largely destroyed by Allied bombs during the Second World War, a decision to rebuild the palace was not made until 2007, and the reconstruction was finished in 2013. Part of it is now a museum, with exhibits of many of the famous historical figures connected with the palace and its occupants, including Leibniz.
 
@@ -506,11 +502,11 @@ Joseph and his friends walked to the palace and its gardens, paid their entrance
 
 He stood for many minutes in front of the largest of the portraits in the main gallery. It showed a quintessentially late 17th, early 18th century man in a black scholar's gown, and wearing a large wig of black curls. He seemed to have a larger head than most ordinary mortals, and certainly a larger nose than anyone would find flattering in a portrait. But still: "He's not here. I was so sure I would find him, find some word or sign..."
 
-In deep disappointment, Joseph led the way out of the big house. He felt almost like weeping. How could his sense of the way he should be going prove so wrong? Where was his wife when he needed her?
+In deep disappointment, Joseph led the way out of the big house. He felt almost like weeping. How could his sense of the Way he should be going prove so wrong? Where was his wife when he needed her?
 
 Looking once more at the plan of the grounds they had been given as they entered, he suddenly noticed the words Leibniztempel. Could that be it? With renewed hope he set off towards the left, past the garden theatre and one of the designated public picnic areas, crossing An der Graft and making for the ornamental lake on the other side. There, on a promontory beside the lake, stood the circular pavilion building, its Ionic columns holding up the cupola roof.
 
-They climbed the steps and stood beside the plinth holding the bust of the great thinker. It's not the original, of course: that was removed for restoration, and is still kept in controlled conditions to preserve it from further damage or decay. Even the copy which was put in the temple in its place has suffered seriously at the hands of climate and vandals. Currently Herr Leibniz is missing his nose, and the city council is still discussing details of a potential repair.
+They climbed the steps and stood beside the plinth holding the bust of the great thinker. It's not the original, of course: that was removed for restoration, and is still kept in controlled conditions to preserve it from further damage or decay. Even the copy which was put in the temple in its place has suffered seriously at the hands of climate and vandals. Currently Herr Doktor Leibniz is missing his nose, a large enough trophy to satisfy the most ambitious vandal. The city council is still discussing details of a potential repair.
 
 "He's near, he's near," murmured Joseph. "Somewhere, there must be a way? Is there anyone in view?"
 
@@ -527,6 +523,8 @@ They found themselves in a chamber built under the temple, and even as they stoo
 In the middle of the round chamber stood another stone plinth almost identical to the one above it, and on it they saw a wooden casket, slightly bigger than an old-fashioned Gladstone bag. It was perfectly finished with polished sides and a rounded top, but with no apparent lid or lock.
 
 "There must be a way of opening it. He wouldn't have brought us here, if there was no way of getting into it."
+
+He? thought Woody and Tom.
 
 Again, Joseph felt all around the casket. In vain. For ten minutes he felt, pressed, stroked every square centimetre of its polished top and sides. Nothing. Tom and Woody watched, fascinated and appalled and excited and bored by turns.
 
@@ -560,6 +558,7 @@ The figure looked around and appeared to notice the three Englishmen for the fir
 # Chapter Nine     Educating Gottfried
 
 Leibniz had said, "Everything that is possible demands to exist." 
+
 Joseph found it hard to believe that things like the Emergency Mathematical Hologram could actually even be possible, still less that this meant they had to exist. But he could not doubt the evidence of his own and his friends' eyes. They had seen Leibniz or his likeness standing there in the underground chamber with them. It had not been a dream. And they had got out of the Temple and returned to their hotel, carrying the casket with them like a gang of guilty looking seniors, but without challenge or detection.
 
 What they had not given any thought to, was just how demanding the hologram of a seventeenth century polymath could be, when it had not been activated for three hundred years. The first thing they found was that they needed to change their hotel accommodation and find rooms on the ground floor: "in contact with something that touches the ground" did not include anything above that. Then, when Leibniz was activated again, he demanded to know everything about everything that had happened since 1716. Which was substantially more than Joseph or his companions were able to provide. But: where there's a will, there's a way.
@@ -576,9 +575,9 @@ At the end of the 48 hours, when Joseph pressed the switches to open the casket 
 
 "Your world is truly miraculous and admirable, but also completely fucked-up," he began.
 
-What? thought Joseph. He's been on social media as well? It turned out to be true: Leibniz had indeed become an avid user of Facebook and Twitter during his more relaxed moments of the past week, to the puzzlement of those who had found and followed him
+What? thought Joseph. He's been on social media as well? It turned out to be true: Leibniz had indeed become an avid user of Facebook and Twitter during his more relaxed moments of the past week, to the puzzlement of those who had friended and followed him
 
-"Your Great Britain still trying to tear itself away from Europe and civilization, and now fallen under the dominion of the Dark Lord Marduk; and the States of America also falling rapidly deeper into barbarism... If only someone had found out how to activate me during those years, if only I had been able to advise and guide the leaders of the nations... But, perhaps it would not have been, even so. For indeed, I did all I could to guide the Electress Sophie and her daughter, and so often they ignored me, or were unable because of circumstances to implement my advice...
+"Your Great Britain is still trying to tear itself away from Europe and civilization, and has now fallen under the dominion of the Dark Lord Marduk; and the States of America also falling rapidly deeper into barbarism... If only someone had found out how to activate me during those years, if only I had been able to advise and guide the leaders of the nations... But, perhaps it would not have been, even so. For indeed, I did all I could to guide the Electress Sophie and her daughter, and so often they ignored me, or were unable because of circumstances to implement my advice...
 
 "But, all is not lost. Ekzistas ankoraŭ espero, kiel diris Doktoro Zamenhof."
 
@@ -613,7 +612,7 @@ And this was where, on the instruction of their hologram mentor, the three Engli
 
 You wonder how it's possible to get into a locked and security-alarmed World Heritage site after hours? Don't ask me: ask the Mathematisches Notfallsgleichnis.
 
-Joseph, Tom and Woody had dressed the part, pretending to be SAS commandoes dressed all in black, and with blackened hands and faces. They activated Leibniz just beside one of the small side doors of the cathedral that looked as if it was permanently unused, but which was in fact the master security entrance. They had wheeled the casket up to the door in a 'borrowed' supermarket trolley, so that it would remain in contact with the ground from which it was still drawing its mysterious power. Tom had toyed with the idea of buying a new, high-powered laptop, and transferring the MNG programme into it so that it would run on battery power and be more portable, but so far Leibniz was still unwilling to forsake his 18th century casket.
+Joseph, Tom and Woody had dressed the part, pretending to be SAS commandoes clothed all in black, and with blackened hands and faces. They activated Leibniz just beside one of the small side doors of the cathedral that looked as if it was permanently unused, but which was in fact the master security entrance. They had wheeled the casket up to the door in a 'borrowed' supermarket trolley, so that it would remain in contact with the ground from which it was still drawing its mysterious power. Tom had toyed with the idea of buying a new, high-powered laptop, and transferring the MNG programme into it so that it would run on battery power and be more portable, but so far Leibniz was still unwilling to forsake his 18th century casket.
 
 Standing at the security entrance, the hologram pressed his hand against the keypad for a few seconds, then punched a sequence of keys, and the door swung silently open. Quickly Woody pushed the trolley inside, and the four of them entered and keyed another code number into the alarm control panel. With a sigh of relief, they began to look around the dark interior.
 
@@ -623,15 +622,15 @@ There they stood wondering at the display cases in which lay the Ottonian Cross 
 
 "There," he said. "Now, Joseph, bring it out. Here is a treasure that has been hidden from the world for even longer than my Ganzgleichnis, for untold centuries. Here is the symbol, the talisman, that will reunite Europe in peace and power, and restore your island to its rightful place among the peoples of this continent."
 
-"What -?" Joseph reached into the dark hole, felt around and put his hands on an object covered in ancient, dusty fabric. He brought it out into the room, and placed it on one of the display cabinets where Woody shone a torch on it. Gently and hesitantly, Joseph took the object out of its cloth wrapping and held it up. Jewels and gold glittered in the torchlight. The crown was octagonal, made up of eight panels, four of them jewelled and four enamelled. Crystals, pearls and quartz, rubies, amethysts and malachites: two of the jewelled panels each carried twelve of the largest gems, one panel symbolising the twelve tribes of Israel, the other the tewlve apostles. The enamelled panels were decorated with pictures of the great kings of Israel who preceded and prefigured Christ: David, Solomon and Hezekiah, and the fourth with an image of King Christ himself. The tallest of the panels was topped with a cross, with jewels on one side, and on the other an engraved image of the crucified Christ.
+"What -?" Joseph reached into the dark hole, felt around and put his hands on an object covered in ancient, dusty fabric. He brought it out into the room, and placed it on one of the display cabinets where Woody shone a torch on it. Gently and hesitantly, Joseph took the object out of its cloth wrapping and held it up. Jewels and gold glittered in the torchlight. The crown was octagonal, made up of eight panels, four of them jewelled and four enamelled. Crystals, pearls and quartz, rubies, amethysts and malachites: two of the jewelled panels each carried twelve of the largest gems, one panel symbolising the twelve tribes of Israel, the other the twelve apostles. The enamelled panels were decorated with pictures of the great kings of Israel who preceded and prefigured Christ: David, Solomon and Hezekiah, and the fourth with an image of King Christ himself. The tallest of the panels was topped with a cross, with jewels on one side, and on the other an engraved image of the crucified Christ.
 
-Tom and Woody found themselves instinctively kneeling, and the holographis Leibniz himself also knelt. "The Cross of Charlemagne," he said. "With this holy thing, the emperors of the Holy Roman Empire were crowned. With replicas and imitations of it, the later kings of Prussia and Germany were crowned, even Napoleon of France crowned himself with such an imitation, when he wished to claim dominion over the nations for his own short-lived reign. And now: the hour has come for us to find the rightful heir of Charlemagne, wherever he - or she - may be, and to unite the peoples of Europe under his (or her) suzerainty."
+Tom and Woody found themselves instinctively kneeling, and the holographic Leibniz himself also knelt. "The Crown of Charlemagne," he said. "With this holy thing, the emperors of the Holy Roman Empire were crowned. With replicas and imitations of it, the later kings of Prussia and Germany were crowned, even Napoleon of France crowned himself with such an imitation, when he wished to claim dominion over the nations for his own short-lived reign. And now: the hour has come for us to find the rightful heir of Charlemagne, wherever he - or she - may be, and to unite the peoples of Europe under his (or her) suzerainty."
 
-In the awe-filled silence that followed this quasi-hieratic pronouncement, there was a sudden tumult, a rush of confusion and noise as the small room filled with black-clad figures, surrounding Joseph and the others. He remembered hearing Leibniz cry out the words, "Deactivate MNG!" and the next moment there was darkness as someone shrouded his head with a black bag. His arms were gripped in a tight vice, and his wrists handcuffed behind him. Then he was dragged away, too shocked and surprised to struggle, and hearing Woody and Tom's own grunts, scuffles and muffled exclamations, as the same happened to them.
+In the awe-filled silence that followed this quasi-hieratic pronouncement, there was a sudden tumult, a rush of confusion and noise as the small room filled with black-clad figures, surrounding Joseph and the others. He remembered hearing Leibniz cry out the words, "Deactivate MNG!" and the next moment there was darkness as someone shrouded his head with a black bag. His arms were held in a vice-like grio, and his wrists handcuffed behind him. Then he was dragged away, too shocked and surprised to struggle, and hearing Woody and Tom's own grunts, scuffles and muffled exclamations, as the same happened to them.
 
 -----
 
-Out of confused and shocked unconsciousness, the awareness of being carried in a vehicle, somewhere, bumped and shaken about in the darkness, Joseph returned to consciousness when the bag was removed form his head. Blinking in the sudden light, he looked around at another room filled with black-clothed figures, in which Tom and Woody were both tied, as he was, to chairs bolted to the floor.
+OUT OF CONFUSED and shocked unconsciousness, the awareness of being carried in a vehicle, somewhere, bumped and shaken about in the darkness, Joseph returned to consciousness when the bag was removed from his head. Blinking in the sudden light, he looked around at another room filled with black-clothed figures, in which Tom and Woody were both tied, as he was, to chairs bolted to the floor.
 
 A masked figure peered closely into his face and demanded in a slight European accent. "Who are you? And where is the fourth who was with you, the one who somehow escaped? I warn you, you had better tell the truth quickly, or we shall be forced to find painful means of extracting it from you."
 
@@ -643,13 +642,13 @@ His inquisitor drew back his arm with an oath, looked as if he was about to punc
 
 He stepped back and held a short whispered consultation with three of the others in the room. There seemed to be some disagreement, but in a moment he appeared to make up his mind, and returned to face his prisoner.
 
-"All right. In a moment I will tell you who we are. We will - perhaps - conduct an exchange ofsome small pieces of information. But you may have noticed that, for the time being, it is I who hold the cards. First you must give me something. Why were you in the Aachen Cathedral Treasury?"
+"All right. In a moment I will tell you who we are. We will - perhaps - conduct an exchange of some small pieces of information. But you may have noticed that, for the time being, it is I who hold the cards. First you must give me something. Why were you in the Aachen Cathedral Treasury?"
 
 The Inner Guide proposed some truth-telling. "We came looking for just what we found: the Crown of Charlemagne. The world is in a mess: in the Middle East, in Africa, in Europe, in Britain and beyond the Atlantic. We have come to believe that only the Crown can put things right, by giving authority to an heir of Charlemagne, who will renew the Holy Roman Empire and unite the peoples of Europe."
 
 "And how is it you have come to believe this, exactly? Your Britain was never a part of that Empire."
 
-"Some of us believe that has been our everlasting misfortune and loss." (Well, there was nothing wrong with making that much up, it felt like the kind of thing that might go down well in present company.) Had it not been for the Normans and their wars of aggression, who know if our kings might not have brought us under the rule of Charlemagne's successors?"
+"Some of us believe that has been our everlasting misfortune and loss." (Well, there was nothing wrong with making that much up, it felt like the kind of thing that might go down well in present company.) "Had it not been for the Normans and their wars of aggression, who knows if our kings might not have brought us under the rule of Charlemagne's successors?"
 
 "Hmm, you speak wisely - though you are the first I have heard who has ever expressed that view. Isn't your wretched little island infamous for wanting always to be independent, separate from every other Christian nation under God's sun? But I will allow it for now.
 
@@ -671,7 +670,7 @@ Dieter, their leader, was a former political activist in his mid-40s, who had be
 
 Giovanni-Carlo, whom they called GC for short, was the intellectual among them. He it was who had become the tutor or mentor to Dieter after that 'conversion', and had instructed him in the legend and lore of the Carolingian throne. They had researched the history of the Crown, come to believe that it must still be in existence somewhere, hidden away until a rightful claimant could come forward to claim the throne and unite Europe.
 
-Hans-Joachim, an ex-soldier who was the practical one among them. Late 20s, and athlete, ruggedly handsome, the weapons expert of the Brotherhood. "We are not really planning an armed takeover of power," explained Dieter, "we think that with the Crown and the righful heir it will not be necessary - but just in case."
+Hans-Joachim, an ex-soldier who was the practical one among them. Late 20s, an athlete, ruggedly handsome, the weapons expert of the Brotherhood. "We are not really planning an armed takeover of power," explained Dieter, "we think that with the Crown and the righful heir it will not be necessary - but just in case."
 
 Alice was the youngest among them, a Swiss seminarian and romantic, who had joined the Brotherhood solely out of idealism. And maybe, because she was just a little bit in love with Hans-Joachim.
 
@@ -703,9 +702,9 @@ Woody was stunned. "Well, I can see how that might be a problem for you..."
 
 "But no!" said Dieter. "Everything is changed, now that we have the Crown. Thanks to you, all will be well. The annals of the Empire are clear about this: the prophecy states
 
-The brethren shall find the Crown
-and the Crown shall find its owner.
-In those days the throne will be set up anew,
+The brethren shall find the Crown  
+and the Crown shall find its owner.  
+In those days the throne will be set up anew,  
 and will govern the Empire in peace.
 
 "I know it is not for nothing that you are the ones who have found the Crown at this time. You are from England - land of darkness though it has become. You are the ones who will help us go there and find the Princess Jade. When she sees the Crown, she will understand and know for the first time who she is. She *will* know, and assume, her destiny!
@@ -739,7 +738,7 @@ It took a while. Especially as Joseph was slow on the uptake about understanding
 
 "Hold on a minute! What do you mean? The last time I saw you, you were living in a polished wooden casket. How did you get into my mobile phone?"
 
-Leibniz's face had a distinctly smug expression on it, as he answered, "Brilliant, no? It is an idea I was working on and preparing for some time. I feared there would be problems if and when we actually found the Crown of Charlemagne, and you might not be capable of always carrying that box around, or placing it in contact with the ground. I needed something portable, something you could easily carry with you at all times, and something with its own power supply - though it is not as innovative as my casket's, which draws its energy directly fro the earth. This device - this mobile or cell phone? - seemed the obvious recourse. It has as much computing power as the system I devised for my Ganzgleichnis; it is only the storage, the memory, you call it? that needs to be enlarged. This model appears to be the best for my specifications."
+Leibniz's face had a distinctly smug expression on it, as he answered, "Brilliant, no? It is an idea I was working on and preparing for some time. I feared there would be problems if and when we actually found the Crown of Charlemagne, and you might not be capable of always carrying that box around, or placing it in contact with the ground. I needed something portable, something you could easily carry with you at all times, and something with its own power supply - though it is not as innovative as my casket's, which draws its energy directly from the earth. This device - this mobile or cell phone? - seemed the obvious recourse. It has as much computing power as the system I devised for my Ganzgleichnis; it is only the storage, the memory, you call it? that needs to be enlarged. This model appears to be the best for my specifications."
 
 And he held up a holographic image of one of the latest mobile phones which he had obviously been researching during Joseph's downtime.
 
@@ -765,7 +764,7 @@ ALL DONE. THAT'S BETTER, I HAVE ENOUGH ROOM TO BREATHE. TALK LATER.
 
 Joseph smiled grimly at the thought of the verbose old philosopher learning the terse communication style of the e-connected world of text messaging. He drained his cup, pocketed his two phones,shouldered his pack, and left the cafe.
 
-So. Where was he going now? The way lies eastwards, Hildegard had said. The theme for the way was something to do with their shared history, with all that they had really wanted and worked for all their lives. Joseph walked the streets of Aachen, all that he knew was that he was heading towards the eastern suburbs. Where was he going after that?
+So. Where was he going now? The way lies eastwards, Hildegard had said. The theme for the way, as far as Joseph could make it out, was something to do with their shared history, with all that they had really wanted and worked for all their lives. Joseph walked the streets of Aachen; all that he knew was that he was heading towards the eastern suburbs. Where was he going after that?
 
 It was as he was standing on the inner ring road, waiting to brave the constant flow of traffic and set off down Adalbertsteinweg, that he suddenly thought, I don't have to walk! No doubt Herr Doktor Leibniz, if it *is* he steering, has forgotten about railways. And he turned right, making for the Hauptbahnhof.
 
@@ -790,7 +789,7 @@ So, standing in Aachen Hauptbahnhof, Joseph suddenly knew that the next stop on 
 
 Several times that afternoon, as he travelled north-eastwards on the Deutsche Bahn, his mobile phone rang. When he looked at the screen and saw it was Tom or Woody calling, he declined the call. When the phone bleeped to tell him there was a voicemail message, he listened to increasingly urgent appeals.
 
-"Where *are* you, Joseph? The hotel people say you've checked out. Where are you going? What's happened to 'All for one, and one for all'? Aren't you coming back to England with us? I thought you were in with us and the Brotherhood. What are you thinking of?" And so on. He couldn't bring himself to call back. Instead, after at least a dozen calls, he relented and decided at least to text to tell them he was alive. Hadn't been arrested by the Aachen police for breaking and entering at the Cathedral. Or by the Vatican police for sacrilege. Or by some unknown enemy of the Brotherhood, who had learned of their conspiracy and acted against one of their members.
+"Where *are* you, Joseph? The hotel people say you've checked out. Where are you going? What's happened to 'All for one, and one for all'? Aren't you coming back to England with us? I thought you were in with us and the Brotherhood. What are you thinking of?" And so on. He couldn't bring himself to call back. Instead, after at least a dozen calls, he relented and decided at least to text them to say he was alive. Hadn't been arrested by the Aachen police for breaking and entering at the Cathedral. Or by the Vatican police for sacrilege. Or by some unknown enemy of the Brotherhood, who had learned of their conspiracy and acted against one of their members.
 
 He texted:
 
@@ -800,9 +799,8 @@ That would have to do, for now.
 
 The train rolled into Herzberg station, and he stood in the streets of the Esperanto-urbo. A short taxi ride brought him to the half-timbered Hotel Englischer Hof where he took a room. He probably could have walked from the station, but he suddenly felt very tired, and after a meal in the hotel restaurant, he retired early to bed.
 
------
 
-The following morning after breakfast, he went out to explore the little town (population 13,059). It was a charming, sleepy little place, on the edge of the Harz Mountains and Harz National Park, overshadowed by the Welfenschloss, the castle built in the 16th century by Duke Philip I after the older building had been destroyed in a disastrous fire which nearly cost the duke and his family their lives. Not from the hotel was the Juessee, a tree-lined lake which was a favourite haunt of walkers in the town.
+THE FOLLOWING MORNING after breakfast, he went out to explore the little town (population 13,059). It was a charming, sleepy little place, on the edge of the Harz Mountains and Harz National Park, overshadowed by the Welfenschloss, the castle built in the 16th century by Duke Philip I after the older building had been destroyed in a disastrous fire which nearly cost the duke and his family their lives. Not far from the hotel was the Juessee, a tree-lined lake which was a favourite haunt of walkers in the town.
 
 Joseph had been delighted to find that Esperanto was spoken at the hotel, and he was happy to pose as a fluent Esperantist, so as not to have to confess to his equally fluent German. At breakfast that morning the hotel landlady had eagerly tried to learn more about this enigmatic Englishman who had arrived so unexpectedly, and who spoke an international language when everyone knew that the English were only interested in making the rest of the world communicate in the English language. She also told him, with great delight, that he had been lucky to book into the last available guest room in the hotel, which was otherwise fully booked because of The Wedding.
 
@@ -810,7 +808,7 @@ Joseph had been delighted to find that Esperanto was spoken at the hotel, and he
 
 "Yes, for Herzberg it is the wedding of the year. Jakob, the son of our mayor, is today marrying the daughter of the mayor of our twin-town of Gora in Poland. It is an Esperanto-romance! Both the young people learned Esperanto at school after our two towns became twinned, and on one of our exchange visits of the young people, these two met, and - boom! - they fall in love. It's the first marriage of young people sealing the relation of our towns in a new way. We are all very happy, and I think the whole town will be celebrating today. You must join the party, too."
 
-And in spite of Joseph's protests that he, a stranger and visitor, would not dare presume to crash the wedding party, the landlady insisted. "How can you not come to the celebration? Fate has brought you to Herzberg on this day of all days! People here would be offended if you would not share in our happiness for Jakob and Klaudia, especially the young people;s mothers and fathers. You must come! I'm sure you will be asked to take a place of honour."
+And in spite of Joseph's protests that he, a stranger and visitor, would not dare presume to crash the wedding party, the landlady insisted. "How can you not come to the celebration? Fate has brought you to Herzberg on this day of all days! People here would be offended if you would not share in our happiness for Jakob and Klaudia, especially the young people's mothers and fathers. You must come! I'm sure you will be asked to take a place of honour."
 
 In the event, Joseph was required to accept even more than that. As a curiosity, an English Esperantist visitor, he was invited or rather compelled to make a short speech and propose a toast. To the young couple; to concord between the peoples of Europe; to the international language which had helped bring them together, and which they would speak in their new home, since neither of them knew more than a very few words in each other's mother tongues.
 
@@ -828,7 +826,8 @@ Klaudia's face was shadowed with concern at the catch in his voice.
 
 They expressed their sorrow and concern; but their happiness was too great to be interrupted for more than a moment, and Joseph himself could not be sad in any way that would cast a shadow over their day. He smiled at them, joined their hands together and blessed them, wishing them all the love and the happiness that he and Hildegard had enjoyed.
 
-Joseph stayed for several days more in the Esperanto-urbo, chiefly because he felt so strangely at home there, but also because the party atmosphere went on for several days more. There were visitors fom Gora in Poland, the bride's family and friends, as well as the German friends and relatives, still enjoying the happiness of the occasion and, for those who knew how, practising their international communication in Esperanto.
+
+JOSEPH STAYED FOR several days more in the Esperanto-urbo, chiefly because he felt so strangely at home there, but also because the party atmosphere went on for several days more. There were visitors fom Gora in Poland, the bride's family and friends, as well as the German friends and relatives, still enjoying the happiness of the occasion and, for those who knew how, practising their international communication in Esperanto.
 
 It was good for him to be among people who had no expectations of him, had not known Hildegard, and who therefore took him simply as he was, a reasonably fit and active man in his 60s, who was interesting but not overwhelming, who was willing to have a conversation but not needy and overbearing. And it was good for him to be able to be alone, too, with his own thoughts and agenda.
 
@@ -840,19 +839,18 @@ Was that really *the* Way? he wondered.
 
 He pulled from his pocket the other slim volume he had packed on the day he hastily filled his rucksack and fled from benighted Britain. The ancient book of Chinese wisdom, the *Tao Te Ching*, sometimes rendered as *The Book of the Way and its Power*. He had not fully understood why that would be one of the few books he would take with him, except that somehow it resonated with Hildegard's talk about the Way he should find and walk.
 
-> Without going outside\\
->...   one can know the whole world\\
-> Without looking out of the window\\
-> ...   one can see the ways of Heaven\\
-> The farther one goes\\
->...   the less one knows
+> Without going outside  
+> 	  one can know the whole world  
+> Without looking out of the window  
+> 	  one can see the ways of Heaven  
+> The farther one goes  
+>     	      the less one knows
 
 He smiled. What point, then, was there in this journey across Europe, from back there to - who knew where? Would staying at home have been just as effective and worthwhile? Would it have healed the ache in his heart, the fear and uncertainty that gripped him when he heard the events that were unfolding on both sides of the Atlantic, in the English-speaking so-called democracies of the world?
 
 The questions revolved in his mind day after day, like the turning earth that brought another dawn, another noon, another nightfall. 
 
 > A journey of a thousand miles begins with a single step
-
 
 That was the one that everyone knew. He supposed it was an incentive to the hesitant to begin whatever they had to do, even though the size of the task was daunting and they didn't know how to go on with it.
 
@@ -870,13 +868,13 @@ Joseph couldn't say.
 
 At the wedding celebrations, Joseph had been introduced to a balding, bespectacled, round-faced man called Peter Zilvar. He was president of the Esperanto Society of South Harz. Joseph met him several times in the following days, and  was interested to learn whether he had been responsible for Harzberg being nominated as Esperanto-urbo.
 
-Only partly, was the reply. Esperanto really became well-known in the town, because of the work of Joachim Gießner. In the mid-60s he had begun to teach and advocate for the international language. He wasn't the only Esperantist who was also a railway enthusiast (It's either railways or bloomin' cats - or maybe even both, thought Joseph to himself, remembering some well-known British esperantists he had encountered) and had been president of the German and international Esperanto Railway Specialist Group. For decades he had worked in the town and the surrounding villages, teaching and encouraging the use of Esperanto, and helping set up local clubs and groups. He had translated hundreds of songs, operas, operettas books and articles into Esperanto.
+Only partly, was the reply. Esperanto really became well-known in the town, because of the work of Joachim Gießner. In the mid-60s he had begun to teach and advocate for the international language. He wasn't the only Esperantist who was also a railway enthusiast (It's either railways or bloomin' cats - or maybe even both, thought Joseph to himself, remembering some well-known British esperantists he had encountered) and had been president of the German and International Esperanto Railway Specialist Group. For decades he had worked in the town and the surrounding villages, teaching and encouraging the use of Esperanto, and helping set up local clubs and groups. He had translated hundreds of songs, operas, operettas, books and articles into Esperanto.
 
 So often it only takes one really passionate and committed individual to achieve hardly imaginable things. Is this also what it means, that a journey of a thousand miles begins with a single step? The Herzberg Intercultural Centre had become the home of a collection of Esperanto materials which drew visitors from all over Germany, as well as further afield. All year round there were language courses in the town, training programmes for teachers of Esperanto, and other educational events. The exchanges between Herzberg and their Polish twin town had been so successful in bringing together young people from both communities (evidence: this week's wedding!) and enabling mutual understanding, that they were planning to extend the idea to invite teenagers from other countries, especially Italy and the Baltic States.
 
 Zilvar was fascinated to hear a little, as much as Joseph was prepared to tell him, about his own Esperanto history. His interest as a young man, his participation in the UKE where he had met his Lithuanian beauty, his marriage to Hildegard. He shook his head, as had so many of the Europeans whom Joseph had encountered both before he left England, and in his subsequent travels, over the unaccountable and insane decision of the British people to cut themselves off from the European Union.
 
-"I had almost decided, with the death of my wife, that I had no more time for Esperanto. But the more I saw the way my country was going, the more I began to feel it was no longer my country. The ideal of international meeting and understanding and sharing has never been more important than it has become this last year. And it would be so easy to despair, to give up all hope - yet so important not to do so. That's why I set off on this journey. Not only to escape from Britain, not only to work through my grief, but also to say loud and clear. There is still hope, and I am standing up with, standing alongside, those who hope: the esperantoj, the esperantistoj."
+"I had almost decided, with the death of my wife, that I had no more time for Esperanto. But the more I saw the way my country was going, the more I began to feel it was no longer my country. The ideal of international meeting and understanding and sharing has never been more important than it has become this last year. And it would be so easy to despair, to give up all hope - yet so important not to do so. That's why I set off on this journey. Not only to escape from Britain, not only to work through my grief, but also to say loud and clear: There is still hope, and I am standing up with, standing alongside, those who hope: the esperantoj, the esperantistoj."
 
 They drank another glass of beer. And soon afterwards, it was time for Joseph to return to the Hotel Englischer Hof for the night.
 
@@ -888,13 +886,12 @@ There he switched on his mobile phone, and the MNG appeared.
 
 Tomorrow, thought Joseph, as he fell into bed.
 
------
 
-> TERRORIST INVASION FOILED
+> **TERRORIST INVASION FOILED
 
 > EUROPEANS ARRESTED AT MALDON
 
-> Last night, in a joint operation by Essex police, coastguards and Border Force, an attempt by a European extremist group to invade Britain and overthrow the monarchy was successfully foiled.
+> Last night, in a joint operation by Essex police, the coastguards and Border Force, an attempt by a European extremist group to invade Britain and overthrow the monarchy was successfully foiled.
 
 > Coastguards detected the motor boat *Hoffnung* as it sailed up the River Blackwater towards Maldon. When challenged, the boat tried to turn and escape, but was boarded by the coastguards and its eight crew and passengers were all detained.
 
@@ -911,10 +908,10 @@ Tomorrow, thought Joseph, as he fell into bed.
 > To become learned, gain daily  
 > To obtain Tao, reduce daily  
 > Reduce and reduce again  
-> ... until all action is reduced to non-action  
+> 	  all action is reduced to non-action  
 > Then no one is left  
 > Nothing is done  
-> ... yet nothing is left undone
+> 	  nothing is left undone
 
 "I know all that," protested Joseph. "*Wu-wei*, the principle on non-action, getting things done by not-doing. I've always thought it was overrated, and I really don't see how it's going to help our friends."
 
@@ -922,13 +919,13 @@ Tomorrow, thought Joseph, as he fell into bed.
 
 "I didn't even know we were moving on. How can I know where to?"
 
-"Think, Joseph. This pilgrimage, or way, or whatever it is you are following. The way will find you. It's your way, Joseph's, and it's your ways, Joseph and Hildegard's. Think about your wife. You've been exploring the international language that brought you together. What else is their about this Beloved of yours?"
+"Think, Joseph. This pilgrimage, or Way, or whatever it is you are following. The Way will find you. It's your Way, Joseph's, and it's your Ways, Joseph and Hildegard's. Think about your wife. You've been exploring the international language that brought you together. What else is their about this Beloved of yours?"
 
 Tears swam in Joseph's eyes. Even though it was their shared love language that had brought him to Heart Mountain, even though he had seen their own story mirrored in the young couple whose marriage he had attended, he had thought little since the day of the wedding of everything else that Hildegard had been. She had not appeared to him, spoken to him at all, and he had begun to think that meant he was on the right path. Now he suddenly feared it might mean he had strayed so far from it that he had lost her, that she had gone off in another direction at a parting of the ways.
 
 As he thought back over their life together, he began to think increasingly of that other side of his beloved Hildegard: the believer, the mystic, the woman of faith. He packed his bags, checked out of the Hotel Englischer Hof, and walked to the station where he bought a ticket for Dresden, and boarded the train.
 
-When the train pulled in to Dresden five and a half hours, and several changes of train later, Joseph gathered his things together, walked through the station, and came out onto the Wiener Platz. He was suddenly surrounded by ghosts in a way he had never expected, or experienced before. Dresden was one of the most beautiful of German cities, teeming with life and culture. And it *had been* one of the most beautiful of German cities, teeming with life and culture. The nights of February 13th to 15th, 1945, swam in Joseph's mental vision, the nights when 722 RAF and 527 USAAF bombers dropped 2431 tons of high explosive bombs, and 1476 tons of incendiaries on the city. Most of the Altstadt and inner city were destroyed, and tens of thousands of civilians, mostly women and children, died in a storm of fire and falling buildings. Nazi propaganda reports said that 200,000 people died. Later reputable historians put the total between 18,000 and a maximum of 25,000. Some groups still claim the figure was possibly 500,000.
+When the train pulled in to Dresden five and a half hours, and several changes of train later, Joseph gathered his things together, walked through the station, and came out onto the Wiener Platz. He was suddenly surrounded by ghosts in a way he had never expected, or experienced before. Dresden was one of the most beautiful of German cities, teeming with life and culture. And it *had been* one of the most beautiful of German cities, teeming with life and culture. The nights of February 13th to 15th, 1945, swam in Joseph's mental vision, the nights when 722 RAF and 527 USAAF bombers dropped 2,431 tons of high explosive bombs, and 1,476 tons of incendiaries on the city. Most of the Altstadt and inner city were destroyed, and tens of thousands of civilians, mostly women and children, died in a storm of fire and falling buildings. Nazi propaganda reports said that 200,000 people died. Later reputable historians put the total between 18,000 and a maximum of 25,000. Some groups still claim the figure was possibly 500,000.
 
 Eighteen. Thousand. Or Five. Hundred. Thousand. Who knows? Just a single child, a single woman, dying in terror and flames, incinerated by bombs dropped on them from the sky by another human being, is too many. Joseph's heart swelled with anger and compassion. Suddenly he found that his steps, leading straight ahead into the Altstadt, had brought him in view of the Frauenkirche, the Church of Our Lady. Destroyed in the bombing of Dresden, its ruins had been left for fifty years as a memorial to the dead, a stark reminder of the horror and the cost of war. Then, after the reunification of Germany, it had been rebuilt along with the surrounding parts of the old town.
 
@@ -941,33 +938,35 @@ All those years before the holocausts of the Great War, and the Second World War
 
 # Chapter Fourteen     The Lord's Watch
 
-In 1738 a thirty-five year old Anglican clergyman by the name of John Wesley travelled from England to Herrnhut in eastern Saxony. He sailed from London to Rotterdam, and walked much of the rest of the 800 kilometres to his destination. What led him to take that journey, was his own spiritual quest for deep heart-peace about his own relationship with God. During his years in Oxford, he had already attracted a reputation for Christian zeal, forming with his brother Charles a group called 'the Holy Club', and gathering around themselves a number of other young men who sought something deeper than the dull, dry formalism of much of English Christianity in the early decades of the 18th century. Already they gained the mocking nickname of 'Methodists' because of their carefully worked-out rule of life, a life of prayer, study, and good works.
+In 1738 a thirty-five year old Anglican clergyman by the name of John Wesley travelled from England to Herrnhut in eastern Saxony. He sailed from London to Rotterdam, and walked much of the rest of the 800 kilometres to his destination. What led him to take that journey, was his own spiritual quest for deep heart-peace about his own relationship with God. During his years in Oxford, he had already attracted a reputation for Christian zeal, forming with his brother Charles a group called 'the Holy Club', and gathering around themselves a number of other young men who sought something deeper than the dull, dry formalism of much of English Christianity in the early decades of the 18th century. Already they gained the mocking nickname of 'Methodists' because of their carefully worked-out rule of life, a life of prayer, study, and good works. Still he did not have peace.
 
-He had sailed to Georgia. across the Atlantic, to serve as a missionary chaplain among the colonists there, only to be driven out by the opposition of some of his congregation who could not tolerate what they perceived as his unnecessary and fanatical strictness. The very idea! to try and bar a young woman from receiving the Sacrament of the Lord's Supper, because of her vanity and lack of seriousness in religious observance. Truly, it was not to be tolerated in polite society.
+He had sailed to Georgia. across the Atlantic, to serve as a missionary chaplain among the colonists there, only to be driven out by the opposition of some of his congregation who could not tolerate what they perceived as his unnecessary and fanatical strictness. He had tried to bar a young woman from receiving the Sacrament of the Lord's Supper, because of her vanity and lack of seriousness in religious observance. The very idea! Truly, it was not to be tolerated in polite society. Still Wesley did not have peace.
 
-During those years, Wesley still wrestled with his sense of inadequacy. How could he *know* he was a true Christian, a child of God? How could he have the depth and certainty of faith that he sought? Among his fellow-passengers on the transatlantic crossing was a group of Moravian Christians, leaving their European home and travelling to the New World to escape religious persecution, but also to find new fields in which they could proclaim the Gospel. In the midst of an ocean storm that threatened to overwhelm the ship, Wesley was full of terror, yet the Moravians, gathered together in prayer, showed a serene trust in God. They firmly believed he would save the ship in answer to their prayers; and even if he did not, still their trust in him was fearless and absolute. Wesley longed to know faith of that sort, that strength. He spent hours in conversation with a young Moravian missionary named Peter Boehler, learning from him, still seeking to share the younger man's assurance.
+During those years, Wesley still wrestled with his sense of inadequacy. How could he *know* he was a true Christian, a child of God? How could he have the depth and certainty of faith that he sought? Among his fellow-passengers on the transatlantic crossing was a group of Moravian Christians, leaving their European home and travelling to the New World to escape religious persecution, but also to find new fields in which they could proclaim the Gospel. In the midst of an ocean storm that threatened to overwhelm the ship, Wesley was shaking with terror, yet the Moravians, gathered together in prayer, showed a serene trust in God. They firmly believed God would save the ship in answer to their prayers; and even if he did not, still their trust in him was fearless and absolute. Wesley longed to know faith of that sort, that strength. He spent hours in conversation with a young Moravian missionary named Peter Boehler, learning from him, still seeking to share the younger man's assurance.
 
 Just weeks before his journey across Europe, Wesley had attended a meeting of the Moravians in Aldersgate-street. He went very unwillingly, as he later confessed to his journal, and in truth, the proceedings were dull indeed compared with the evangelistic and worship meetings known and loved by 21st century believers. Someone was reading aloud from Martin Luther's preface to his commentary on St Paul's Epistle to the Romans, when suddenly Wesley's life was turned upside down.
 
 > About a quarter before nine, while he was describing the change which God works in the heart through faith in Christ, I felt my heart strangely warmed. I felt I did trust in Christ, in Christ alone, for salvation; and an assurance was given me, that he had taken away *my* sins, even *mine*, and saved *me* from the law of sin and death.
 
-Wesley's prayer and preaching now came to feel real to him, in a way they had not been before. And though there were many who had appreciated his preaching before, now people were beginning to respond to it in a new way: their lives too were being transformed. He longed to know more of the Christian society who had helped him to this discovery of a living faith; and so it was that barely four weeks later he resolved to make that journey to the home of the Moravian Brotherhood.
+Wesley's prayer and preaching now came to feel real to him, in a way they had not done before. And though there were many who had appreciated his preaching before, now people were beginning to respond to it in a new way: their lives too were being transformed. He longed to know more of the Christian society who had helped him to this discovery of a living faith; and so it was that barely four weeks later he resolved to make that journey to the home of the Moravian Brotherhood.
 
 The place was Herrnhut, which can be translated the Lord's protection, the Lord's guard, the Lord's watch. It was the name of a village on one of the estates of Count Nicolaus Ludwig von Zinzendorf. The Zinzendorfs were one of the most ancient noble families of Lower Austria. Nicolaus, as a young man, felt a similar thirst to that of Wesley for something more than the dry dogmatism that characterised much of contemporary Lutheranism. and under the influence of Pietist Protestants, he too came to a living faith.
 
-It was still a time of religious ferment and dispute in the countries of central Europe. Although the Thirty Years' War had ended more than 70 years before, it was still remembered with horror as a time when the population of the German lands declined by at least one quarter: war and disease and famine stalked the lands. Perhaps it was a reaction to the fanaticism of creeds that had wrought such destruction, that led to the rationalistic forms of theology which were in the ascendant. Believers who dared to express their faith with greater zeal and enthusiasm faced distrust and even persecution from religious and civil authorities. So it was that a small group pf those persecuted believers, from Moravia and Bohemia, cames to rest on Count Zinzendorf's estate of Bertelsdorf. The pious young count, then only in his early twenties, had compassion on them and granted them asylum, allowing them to build a village on his estate, which he named Herrnhut.
+It was still a time of religious ferment and dispute in the countries of central Europe. Although the Thirty Years' War had ended more than 70 years before, it was still remembered with horror as a time when the population of the German lands declined by at least one quarter: war and disease and famine had stalked the lands. Perhaps it was a reaction to the fanaticism of creeds that had wrought such destruction, that led to the rationalistic forms of theology which were in the ascendant. Believers who dared to express their faith with greater zeal and enthusiasm faced distrust and even persecution from religious and civil authorities. So it was that a small group of those persecuted believers, from Moravia and Bohemia, cames to rest on Count Zinzendorf's estate of Bertelsdorf. The pious young count, then only in his early twenties, had compassion on them and granted them asylum, allowing them to build a village on his estate, which he named Herrnhut.
 
-They were not the first, nor the last, community of Christian enthusiasts to suffer times of trial when internal divisions threatened to tear them apart. Some of them even accused the Count who had given them refuge of being the Beast of the Apocalypse. Zinzendorf had to go and settle among them nimself, and use his own authority to resolve their divisions and create order.
+They were not the first, nor the last, community of Christian enthusiasts to suffer times of trial when internal divisions threatened to tear them apart. Some of them even accused the Count who had given them refuge of being the Beast of the Apocalypse. Zinzendorf had to go and settle among them himself, and use his own authority to resolve their divisions and create order.
 
 What followed was an extraordinary thing. To restore harmony, the Herrnhuters entered into a solemn 'Brotherly Agreement', a voluntary discipline of Christian community living. They agreed to live out St Paul's injunction to 'pray constantly' by setting up a prayer relay, members of the community relieving one another to pray day and night, a constant vigil of prayer which lasted for over one hundred years. It was a New Pentecost. The Moravian Church became a power-house for Christian prayer and mission, sending hundreds of missionaries all over the world throughout the 18th century and beyond, one small body of believers setting in motion the great Protestant mission work of the following centuries.
 
-The Moravian Church still exists, and is still an inspiration to many Christians who belong formally to other churches and denominations. Not through its power or wealth or influence upon the stage of the World Church and its councils, but through the Losungen. Joseph had first heard of these when he was a student, exploring his own faith, and studying German language and literature. One of his heroes at that time was the German theologian, pastor and martyr Dietrich Bonhoeffer. In his *Letters and Papers from Prison*, a slim volume that Joseph read over and over, Bonhoeffer frequently makes reference in the letters he wrote to his parents and his friend Eberhard Bethge to what the English translation calls the 'Daily Texts'[fn:3]. Bonhoeffer had used these regularly and faithfully nearly every day of his life since he was a teenager. A single short passage of Scripture, often no more than a verse, provided for the reader to meditate on or pray with in their personal prayer, or to carry in their mind through the day. The Moravian brothers and sisters began using these as part of their way of life in 1728, and the practice has continued. [fn:4] The word 'Losungen' is related to the idea of drawing lots, but it is also translated 'watchwords': these were indeed the watchwords the community chose to identify themselves, to guide them and give them a common focus for their prayer and obedience each day. Bonhoeffer valued them for his own spiritual practice, but also advocated their use to the student pastors of the Confessing Church, whom he was training in his secret seminary of Finkenwalde during the years of Hitler's power.
+The Moravian Church still exists, and is still an inspiration to many Christians who belong formally to other churches and denominations. Not through its power or wealth or influence upon the stage of the World Church and its councils, but through the *Losungen*. Joseph had first heard of these when he was a student, exploring his own faith, and studying German language and literature. One of his heroes at that time was the German theologian, pastor and martyr Dietrich Bonhoeffer. In his *Letters and Papers from Prison*, a slim volume that Joseph read over and over, Bonhoeffer frequently makes reference in the letters he wrote to his parents and his friend Eberhard Bethge to what the English translation calls the 'Daily Texts'
 
-[fn:3] For example, on August 24, 1943 he writes: Then early this morning the Moravian *Daily Text* moved me strangely: "And I will grant peace in the land, and you shall lie down, and no one shall make you afraid." Lev. 26:6a; in Bonhoeffer's Luther Bible, a pencil mark appears next to this verse.
+> For example, on August 24, 1943 he writes: Then early this morning the Moravian *Daily Text* moved me strangely: "And I will grant peace in the land, and you shall lie down, and no one shall make you afraid." Lev. 26:6a; in Bonhoeffer's Luther Bible, a pencil mark appears next to this verse.
 
-[fn:4] Available in a small booklet published annually by the Moravian Church, from their [[http:**www.losungen.de*die-losungen*][website]] - or as an app for iOS or Android.
+Bonhoeffer had used these regularly and faithfully nearly every day of his life since he was a teenager. A single short passage of Scripture, often no more than a verse, provided for the reader to meditate on or pray with in their personal prayer, or to carry in their mind through the day. The Moravian brothers and sisters began using these as part of their way of life in 1728, and the practice has continued. The word 'Losungen' is related to the idea of drawing lots, but it is also translated 'watchwords': these were indeed the watchwords the community chose to identify themselves, to guide them and give them a common focus for their prayer and obedience each day. Bonhoeffer valued them for his own spiritual practice, but also advocated their use to the student pastors of the Confessing Church, whom he was training in his secret seminary of Finkenwalde during the years of Hitler's power.
 
-There had been times during their years together when Joseph and Hildegard had used the Losungen together, though their practice had lapsed in recent years. His European 'pilgrimage' had made Joseph think of them again. He had even looked up the watchword chosen for the year: 
+> The *Losungen* are still available in a small booklet published annually by the Moravian Church, from their [[http:**www.losungen.de*die-losungen*][website]] - or as an app for iOS or Android. They claim the booklet is still on eof the 'silent best-sellers' in German bookstores, and judging by the piles of them I saw, they could be right.
+
+There had been times during their years together when Joseph and Hildegard had used the *Losungen* together, though their practice had lapsed in recent years. His European 'pilgrimage' had made Joseph think of them again. He had even looked up the watchword chosen for the year: 
 
 > Gott spricht: Ich schenke euch ein neues Herz und lege einen neuen Geist in euch. Hezekiel 36.26
 
@@ -979,7 +978,7 @@ At any rate, it seemed to him that the next part of his pilgrimage must be trave
 
 It took him three days to complete the walk. On the morning of the second day, not long after he had set out from the guesthouse where he had spent the night, he saw ahead of him a young couple who seemed to be walking the same way. Several times during the course of the day he saw them again, passing them as they rested, or being passed by them when he had stopped. Each time, they exchanged a smile and a short greeting, no more.
 
-About the middle of the day, when he was thinking of stopping for something to eat, he saw them again sitting at a table outside an inn by the roadside. This time, the couple smiled and waved him to join them. The waitress came to bring a menu, and while Joseph was reading it, the young woman asked him, "Where are you walking to?" Before he could answer, however, she suddenly spotted the little badge Joseph had found that morning at the bottom of his rucksack, and pinned to his jacket. He had forgotten all about it, even wondered whether he had ever known it was there or put it there - it was one of those odd happenstances that seemed to be occurring more and more often. The badge was the [[https:**upload.wikimedia.org*wikipedia*commons*3*35*Jubilea_simbolo.svg][Esperanto Jubilee symbol]], created in 1987 to mark the centenary of Zamenhof's first publication of his *Unua Libro*. Sometimes called the melon (melono), egg (ovo) or football (rugbea pilko), it is in the shape of a green oval made up of a rounded Latin E touching a Cyrillic Э.
+About the middle of the day, when he was thinking of stopping for something to eat, he saw them again sitting at a table outside an inn by the roadside. This time, the couple smiled and waved him to join them. The waitress came to bring a menu, and while Joseph was reading it, the young woman asked him, "Where are you walking to?" Before he could answer, however, she suddenly spotted the little badge Joseph had found that morning at the bottom of his rucksack, and pinned to his jacket. He had forgotten all about it, even wondered whether he had ever known it was there or put it there - it was one of those odd happenstances that seemed to be occurring more and more often. The badge was the [Esperanto Jubilee symbol](https://upload.wikimedia.org/wikipedia/commons/3/35/Jubilea_simbolo.svg), created in 1987 to mark the centenary of Zamenhof's first publication of his *Unua Libro*. Sometimes called the melon (melono), egg (ovo) or football (rugbea pilko), it is in the shape of a green oval made up of a rounded Latin E touching a Cyrillic Э.
 
 "Esperanto!" she cried. "Ĉu vi vere parolas Esperanton?"
 
@@ -993,9 +992,7 @@ The couple's names were Jaco and Hilly. Hilly was from Bristol. She had started 
 
 They had decided to leave Britain - only a week before the Restitution began. They travelled with *Pasporta Servo*, the scheme by which Esperantists offered accommodation either cheaply or free of charge to fellow speakers of the language. And here they were. Travelling to Herrnhut, because they had read about it in Pete Greig and Dave Roberts's book *Red Moon Rising*, and wanted to see the place for themselves.
 
-So the three of them walked on together, and when they came at evening to the hosts who had promised Hilly and Jaco a bed for the night, it was the easiest thing in the world for their kindly and generous *samideanoj[fn:6]* to find an extra bed for Joseph to sleep in. They ended up staying two nights. It was just too hard for them to escape from the hosts who were fascinated to meet them. Imagine! *two* English people who had learned to speak Esperanto, when it was well-known that the English only ever expected everyone else to learn and speak *their* language. Joseph tried to resist telling them that, actually, he was fluent in German also and had studied and taught it. When he finally gave in and confessed to them, there was much hilarity around the table.
-
-[fn:6] Literally, same-thinking people. An expression used by many Esperantists to describe fellow-Esperantists.
+So the three of them walked on together, and when they came at evening to the hosts who had promised Hilly and Jaco a bed for the night, it was the easiest thing in the world for their kindly and generous [*samideanoj*](Literally, same-thinking people. An expression used by many Esperantists to describe fellow-Esperantists.) to find an extra bed for Joseph to sleep in. They ended up staying two nights. It was just too hard for them to escape from the hosts who were fascinated to meet them. Imagine! *two* English people who had learned to speak Esperanto, when it was well-known that the English only ever expected everyone else to learn and speak *their* language. Joseph tried to resist telling them that, actually, he was fluent in German also and had studied and taught it. When he finally gave in and confessed to them, there was much hilarity around the table.
 
 As Joseph prepared for bed in what had originally been built as a granny flat on the side of the farmhouse, the MNG appeared from his phone.
 
@@ -1019,18 +1016,19 @@ For Hildegard's sake, Joseph was prepared to give the place the benefit of the d
 Was there an Esperanto-speaking section or group within the Church? The woman who welcomed them thought she had heard of such a thing, but she herself was not an Esperanto speaker, and the person who would most likely know about it was away on some mission or other. She would try to find out for them, and let them know.
 
 The text for the day was 
-Lass sich freuen alle, die auf dich trauen.
+
+> Lass sich freuen alle, die auf dich trauen.  
 Psalm 5,12
 
-Jesus Christus liebt ihr, obwohl ihr ihn nicht gesehen habt. An ihn glaubt ihr, obwohl ihr ihn auch jetzt noch nicht seht, und jubelt in unaussprechlicher und ungetrübter Freude. 
+> Jesus Christus liebt ihr, obwohl ihr ihn nicht gesehen habt. An ihn glaubt ihr, obwohl ihr ihn auch jetzt noch nicht seht, und jubelt in unaussprechlicher und ungetrübter Freude.  
 1.Petrus 1,8 
 
 In Esperanto:
-Ekĝojos ĉiuj, kiuj fidas Vin
+> Ekĝojos ĉiuj, kiuj fidas Vin
 
 and
 
-Jesuo Kristo; kiun, ne vidinte, vi amas; kiun kvankam nun vi ne vidas, tamen, al li kredante, vi ĝojegas per ĝojo nedirebla kaj gloroplena.
+> Jesuo Kristo; kiun, ne vidinte, vi amas; kiun kvankam nun vi ne vidas, tamen, al li kredante, vi ĝojegas per ĝojo nedirebla kaj gloroplena.
 
 There had been times in Joseph's life, during all those years when Nothing Really Bad had ever happened to him and Hildegard, when he had found it easy to trust in God, or to feel he was trusting in God. It became much harder after he returned home that day and found her dying on the kitchen floor. He guessed he was not the first person who had always thought they were a believer, only to come to suspect they might only be a 'fair-weather Christian', believing well so long as the going was easy. Like the accusation that Satan made against the righteous Job when YHWH was boasting about his piety: "Doth Job fear God for nought? Hast not thou made an hedge about him, and about his house, and about all that he hath on every side? thou hast blessed the work of his hands, and his substance is increased in the land. But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face."
 
@@ -1066,11 +1064,11 @@ Joseph began to smile at Magister Liu when he saw him in church or outside, and 
 
 It was the following week when the text of the day read out in church was:
 
-Ich will dich unterweisen und dir den Weg zeigen, den du gehen sollst;
-ich will dich mit meinen Augen leiten.
+> Ich will dich unterweisen und dir den Weg zeigen, den du gehen sollst;  
+ich will dich mit meinen Augen leiten.  
 Psalm 32,8
 
-Saulus aber schnaubte noch mit Drohen und Morden gegen die Jünger des Herrn und ging zum Hohenpriester und bat ihn um Briefe nach Damaskus an die Synagogen, damit er Anhänger des neuen Weges, Männer und Frauen, wenn er sie dort fände, gefesselt nach Jerusalem führe.
+> Saulus aber schnaubte noch mit Drohen und Morden gegen die Jünger des Herrn und ging zum Hohenpriester und bat ihn um Briefe nach Damaskus an die Synagogen, damit er Anhänger des neuen Weges, Männer und Frauen, wenn er sie dort fände, gefesselt nach Jerusalem führe.  
 Apostelgeschichte 9,1-2
 
 I will instruct thee and teach thee in the way which thou shalt go: I will guide thee with mine eye, mused Joseph. Is this me finding the way, or the way finding me, or some Eternal One picking me up by the scruff of the neck and kicking me out in some direction or other? And this 'new Way' that Saul wanted to exterminate: will a new way in life always meet with mistrust and opposition? Will *my* new way?
@@ -1094,7 +1092,7 @@ And Joseph followed, hurrying to keep up with the little Chinese. Who was not wa
 
 # Chapter Sixteen     Finding the Teacher
 
-Magister Liu led Joseph through the grounds to the place where he was staying. It was a small wooden cabin in a corner of the park, and on a board beside the door was stencilled the word POUSTINIA. Inside there was a single room, furnished more sparsely than any monk's cell. There was a low bed in one corner, a small table, a prayer stool, a cross on one wall.
+Magister Liu led Joseph through the grounds to the place where he was staying. It was a small wooden cabin in a corner of the park, and on a board beside the door was pyrograph-stencilled the word POUSTINIA. Inside there was a single room, furnished more sparsely than any monk's cell. There was a low bed in one corner, a small table, a prayer stool, a cross on one wall.
 
 "Sit," he said to Joseph, indicating the floor on which he also knelt down.
 
@@ -1135,7 +1133,7 @@ Liu smiled. "Always the wrong questions! These are the questions those people of
 
 "You say so."
 
-Joseph half-ran, half-stumbled, from the room and returned to his room, he mind a ferment of grief, bewilderment and hope.
+Joseph half-ran, half-stumbled, from the room and returned to his room, his mind a ferment of grief, bewilderment and hope.
 
 
 HE WAS NOT sure whether the pupil should subsequently seek out the Teacher for instruction, or wait until the Teacher sought him out. So in the mean time he did nothing, following the rather similar advice about the Tao he had received some time previously from the Leibniz hologram. (Was the universe conspiring against him? Were Hildegard, Leibniz and Magister Liu all in league to turn him into a Taoist?)
@@ -1143,10 +1141,11 @@ HE WAS NOT sure whether the pupil should subsequently seek out the Teacher for i
 And he continued to attend the daily services and prayers of the Moravian Brotherhood. It was at one of these, that he had what he could only describe afterwards as a spiritual experience.
 
 The watchword for the day was  
-Nach dem Wort des HERRN brachen sie auf, und nach sienem Wort lagerten sie sich. Solange die Wolke auf der Wohnung blieb, so lange lagerten sie.
+
+> Nach dem Wort des HERRN brachen sie auf, und nach sienem Wort lagerten sie sich. Solange die Wolke auf der Wohnung blieb, so lange lagerten sie.  
 4.Mose 9,18
 
-Liebe Kinder, ich bin noch eine kleine Weile bei euch. Ihr werdet mich suchen. Und wie ich zu den Juden sagte, sage ich jetzt auch zu euch. Wo ich hingehe könnt ihr nicht hinkommen.
+> Liebe Kinder, ich bin noch eine kleine Weile bei euch. Ihr werdet mich suchen. Und wie ich zu den Juden sagte, sage ich jetzt auch zu euch. Wo ich hingehe könnt ihr nicht hinkommen.  
 Johannes 13,33
 
 All through the prayers and the silent times of meditation, Joseph had occasionally found himself noticing a woman of about his age, sitting several rows in front of him. He could not see the features of her face, only the back of her head with its silver-blonde, well-kept hair. Just like beautiful Hildegard's hair, the hair he had so much loved to smell, to stroke, to feel as he ran his fingers through it.
@@ -1175,19 +1174,17 @@ Decrease what you want
 
 For Joseph, it seemed that a lot of the teaching he was getting involved just sitting. Sitting, he was expected to remain silent, ask no questions, not expect to be told anything. When sitting became too uncomfortable for him, he was allowed to leave, though always with a sense of the Magister's disapproval. These Westerners! They don't even know how to sit still! These, Joseph imagined, were supposed to be lessons in meditation practice.
 
-Then there were the lessons on physical practice: Tai Chi and Qi Gong. These were easier to the extent that they involved *doing* something, and Jospeh could more easily understand this. Though he struggled because Liu expected him simply to watch and imitate: there was never any explanation or description of what was to be imitated. Passers-by who caught sight of the Teacher and his new pupil in the park, doing their morning exercises, watched in amazement at the sheer flow of the Teacher's movements, and the pupil's clumsy attempts to follow. One or two thought it was a public event and tried to join in, but Liu ignored them and most of them did not stay or return.
+Then there were the lessons on physical practice: Tai Chi and Qi Gong. These were easier to the extent that they involved *doing* something, and Joseph could more easily understand this. Though he struggled because Liu expected him simply to watch and imitate: there was never any explanation or description of what was to be imitated. Passers-by who caught sight of the Teacher and his new pupil in the park, doing their morning exercises, watched in amazement at the sheer flow of the Teacher's movements, and the pupil's clumsy attempts to follow. One or two thought it was a public event and tried to join in, but Liu ignored them and most of them did not stay or return.
 
 And there was some book learning as well, which Joseph as a schoolteacher himself thought he understood and would be able to cope with easily. For this reason, Magister Liu warned him not to read for more than half hour each day. The reading list was two books only: the *Tao Te Ching* of Lao Tzu, which Joseph had brought with him anyway out of some strange foreknowledge or happenstance, it now seemed; and the *Book of Chuang Tzu*. For the time being, Joseph could read whatever he wished from thse two classics, provided that he honoured his promise to read for no longer than 30 minutes and then to spend at least as long in reflection. He was also allowed - no, required - to continue to attend the daily prayers of the Brotherhood.
 
------
+> **TERRORIST INVADERS REMAIN SILENT
 
-TERRORIST INVADERS REMAIN SILENT
+> The foreign invaders apprehended last week by Essex police and Border Force are still being held in Chelmsford Police HQ on suspicion of endangering national security. They were arrested near Maldon by the coastguards, while attempting to make a secret landing on the Essex coast.
 
-The foreign invaders apprehended last week by Essex police and Border Force are still being held in Chelmsford Police HQ on suspicion of endangering national security. They were arrested near Maldon by the coastguards, while attempting to make a secret landing on the Essex coast.
+> The invaders have not yet been named, but they are believed to be an Englishmen and up to seven European nationals, two of them women. It is believed that a second Englishman was also aboard the motorboat *Hoffnung*, but that he escaped in the confusion of the arrest, and may be still at large somewhere in Essex. This has not been confirmed by police.
 
-The invaders have not yet been named, but they are believed to be an Englishmen and up to seven European nationals, two of them women. It is believed that a second Englishman was also aboard the motorboat *Hoffnung*, but that he escaped in the confusion of the arrest, and may be still at large somewhere in Essex. This has not been confirmed by police.
-
-The suspected terrorists have reserved the right to silence, in spite of this week's campaign by a number MPs, supported by the *Daily Mail*, to use all means, including torture if necessary, to make them speech. Foreign Secretary Horace Jobson said, "This is not yet a time for a general repeal of the laws assuring freedom from torture to all criminal suspects. But in the case of foreign terrorist suspects, His Majesty's Government may be forced to consider exceptional measures."
+> The suspected terrorists have reserved the right to silence, in spite of this week's campaign by a number MPs, supported by the *Daily Mail*, to use all means, including torture if necessary, to make them speech. Foreign Secretary Horace Jobson said, "This is not yet a time for a general repeal of the laws assuring freedom from torture to all criminal suspects. But in the case of foreign terrorist suspects, His Majesty's Government may be forced to consider exceptional measures."
 
 -----
 
@@ -1252,7 +1249,7 @@ So Joseph's interrupted instruction for that day proceeded. Sitting still, Tai C
 
 "What!? You are also an Esperantist? How come you never told me this before? It's so important a part of my whole life, my life with Hildegard, the whole story I told you about...! How is it you didn't tell me?"
 
-"It was not necessary for you to know. But yes, of course I speak Esperanto. It is one of the ways I have been able to communicate with people in many different places of the world, people of many different races and languages. Surely you know that China is one of the countries where *la lingvo internacia* has been most actively promoted by the Government? It has used Esperanto since 2001 for daily news on china.org.cn, as well as in China Radio International and for the internet magazine *El Popola Ĉinio*."
+"It was not necessary for you to know. But yes, of course I speak Esperanto. It is one of the ways I have been able to communicate with people in many different places of the world, people of many different races and languages. Surely you know that China is one of the countries where *la lingvo internacia* has been most actively promoted by the Government? It has used Esperanto since 2001 for daily news on [china.org.cn], as well as in China Radio International and for the internet magazine [*El Popola Ĉinio*](http://www.espero.com.cn/)."
 
 "Well, I knew that. But there are a lot of people in China, and didn't I read somewhere? only about half a million of them speak Esperanto. What were the chances you would be one of them?"
 
