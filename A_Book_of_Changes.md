@@ -387,7 +387,7 @@ Then, "OK, tell us the story," they asked.
 
 "Well. Back in the 1920s and '30s, Esperanto was phenomenally popular here. It was a time, in the decades after the Great War, when many people really believed that an international language that all could learn and speak, really was the way to world peace. When the League of Nations was formed, there was even a movement for them to nominate Esperanto as one of the official languages of the League. It was a motion that the French vetoed: they thought French should be the world's lingua franca.
 
-"There were two brothers living here on Texel: Gijs and Johan Duinker. They owned and ran the local newspaper. They had learned about, and picked up Esperanto, during their travels in Europe. Thanks to their enthusiasm and influence, a quarter of the population of the island learned the language: about 2,000 out of 8,000 inhabitants. The brothers paid for this monument to be built in 1935, and the whole town turned out for a procession, speeches, and a picnic when it was inaugurated. Look: 
+"There were two brothers living here on Texel: Gijs and Johan Duinker. They owned and ran the local newspaper. They had learned about, and picked up Esperanto, during their travels in Europe. Thanks to their enthusiasm and influence, a quarter of the population of the island learned the language: about 2,000 out of 8,000 inhabitants. The brothers paid for this monument to be built in 1935, and the whole town turned out for a procession, speeches, and a picnic when it was inaugurated. Look:
 
 INAŬGURITA JE LA 30A DE MAJO 1935
 
@@ -457,7 +457,7 @@ Hope, disappointment and disillusionment. Love, and loss. Grief, and joy. How in
 Words continued to come and go and come again in Joseph's mind:
 
 "Dat het Engels heeft gewonnen. As world language was English now the language, and not Esperanto. And the years before the War, everyone believed that Esperanto would be the world language."
- 
+
 And words that Zamenhof - or had it been someone else? - had spoken in the Golden Years about Esperanto:
 
 "We will proudly unfurl our green banner of hope, the only flag never stained by human blood. And round our flag will gather all those forces who not only say, but deeply believe, that human beings are before all else human beings, and that the earth can be a comfortable and well-lit home for all races, for all nations, for us all."
@@ -557,7 +557,7 @@ The figure looked around and appeared to notice the three Englishmen for the fir
 
 # Chapter Nine     Educating Gottfried
 
-Leibniz had said, "Everything that is possible demands to exist." 
+Leibniz had said, "Everything that is possible demands to exist."
 
 Joseph found it hard to believe that things like the Emergency Mathematical Hologram could actually even be possible, still less that this meant they had to exist. But he could not doubt the evidence of his own and his friends' eyes. They had seen Leibniz or his likeness standing there in the underground chamber with them. It had not been a dream. And they had got out of the Temple and returned to their hotel, carrying the casket with them like a gang of guilty looking seniors, but without challenge or detection.
 
@@ -779,11 +779,11 @@ Some ten years before, Hildegard had come to Joseph in great excitement, holding
 
 Joseph was going through one of his more cynical phases about the Language. "Huh, I suppose they're hoping to attract some of the thousands of Esperanto speakers who are roaming across Europe looking for sympathetic ears?"
 
-"Don't be like that! You *know* there are Esperanto-speaking travellers and tourists - we've done it ourselves. *Pasporta servo*, remember? Just because we've never signed up to be hosts ourselves - it's another one of those things I often thought of doing, but with all the chldren we never quite got around to it. 
+"Don't be like that! You *know* there are Esperanto-speaking travellers and tourists - we've done it ourselves. *Pasporta servo*, remember? Just because we've never signed up to be hosts ourselves - it's another one of those things I often thought of doing, but with all the chldren we never quite got around to it.
 
 "And it says here they're twinned with a town in Poland called Gora, and both towns have found Esperanto a really useful means of communication when they visit each other. It's so much easier for people to learn than either German or Polish, for quite young children as well as adults. Esperanto is actually taught in the schools, in both towns. Herzberg am Harz, it's called... 'Heart Mountain'. Wouldn't it be good to go and see it, one day?"
 
-But it turned out to be yet another of those things on their list, which they had never done together. 
+But it turned out to be yet another of those things on their list, which they had never done together.
 
 So, standing in Aachen Hauptbahnhof, Joseph suddenly knew that the next stop on his pilgrimage, would be Heart Mountain. Whether or not it would bring healing, he didn't know and couldn't say. But he was learning where his own heart tended, and for now, this was it. He went to the ticket booth and bought a ticket to Herzberg am Harz. It wasn't the most straightforward of journeys. It took five and a half hours, and involved changing trains at Cologne and Hanover (Hanover again!) before boarding a slower local train for the last stretch.
 
@@ -848,7 +848,7 @@ He pulled from his pocket the other slim volume he had packed on the day he hast
 
 He smiled. What point, then, was there in this journey across Europe, from back there to - who knew where? Would staying at home have been just as effective and worthwhile? Would it have healed the ache in his heart, the fear and uncertainty that gripped him when he heard the events that were unfolding on both sides of the Atlantic, in the English-speaking so-called democracies of the world?
 
-The questions revolved in his mind day after day, like the turning earth that brought another dawn, another noon, another nightfall. 
+The questions revolved in his mind day after day, like the turning earth that brought another dawn, another noon, another nightfall.
 
 > A journey of a thousand miles begins with a single step
 
@@ -860,7 +860,7 @@ But, everything has its time, its moment. Was this resting time in Herzberg the 
 
 Joseph couldn't say.
 
- 
+
 
 
 
@@ -887,7 +887,7 @@ There he switched on his mobile phone, and the MNG appeared.
 Tomorrow, thought Joseph, as he fell into bed.
 
 
-> **TERRORIST INVASION FOILED
+> ##TERRORIST INVASION FOILED
 
 > EUROPEANS ARRESTED AT MALDON
 
@@ -964,9 +964,9 @@ The Moravian Church still exists, and is still an inspiration to many Christians
 
 Bonhoeffer had used these regularly and faithfully nearly every day of his life since he was a teenager. A single short passage of Scripture, often no more than a verse, provided for the reader to meditate on or pray with in their personal prayer, or to carry in their mind through the day. The Moravian brothers and sisters began using these as part of their way of life in 1728, and the practice has continued. The word 'Losungen' is related to the idea of drawing lots, but it is also translated 'watchwords': these were indeed the watchwords the community chose to identify themselves, to guide them and give them a common focus for their prayer and obedience each day. Bonhoeffer valued them for his own spiritual practice, but also advocated their use to the student pastors of the Confessing Church, whom he was training in his secret seminary of Finkenwalde during the years of Hitler's power.
 
-> The *Losungen* are still available in a small booklet published annually by the Moravian Church, from their [[http:**www.losungen.de*die-losungen*][website]] - or as an app for iOS or Android. They claim the booklet is still on eof the 'silent best-sellers' in German bookstores, and judging by the piles of them I saw, they could be right.
+> The *Losungen* are still available in a small booklet published annually by the Moravian Church, from their [[http://www.losungen.de/die-losungen/][website]] - or as an app for iOS or Android. They claim the booklet is still on eof the 'silent best-sellers' in German bookstores, and judging by the piles of them I saw, they could be right.
 
-There had been times during their years together when Joseph and Hildegard had used the *Losungen* together, though their practice had lapsed in recent years. His European 'pilgrimage' had made Joseph think of them again. He had even looked up the watchword chosen for the year: 
+There had been times during their years together when Joseph and Hildegard had used the *Losungen* together, though their practice had lapsed in recent years. His European 'pilgrimage' had made Joseph think of them again. He had even looked up the watchword chosen for the year:
 
 > Gott spricht: Ich schenke euch ein neues Herz und lege einen neuen Geist in euch. Hezekiel 36.26
 
@@ -1015,13 +1015,13 @@ For Hildegard's sake, Joseph was prepared to give the place the benefit of the d
 
 Was there an Esperanto-speaking section or group within the Church? The woman who welcomed them thought she had heard of such a thing, but she herself was not an Esperanto speaker, and the person who would most likely know about it was away on some mission or other. She would try to find out for them, and let them know.
 
-The text for the day was 
+The text for the day was
 
 > Lass sich freuen alle, die auf dich trauen.  
 Psalm 5,12
 
 > Jesus Christus liebt ihr, obwohl ihr ihn nicht gesehen habt. An ihn glaubt ihr, obwohl ihr ihn auch jetzt noch nicht seht, und jubelt in unaussprechlicher und ungetrübter Freude.  
-1.Petrus 1,8 
+1.Petrus 1,8
 
 In Esperanto:
 > Ekĝojos ĉiuj, kiuj fidas Vin
@@ -1178,7 +1178,7 @@ Then there were the lessons on physical practice: Tai Chi and Qi Gong. These wer
 
 And there was some book learning as well, which Joseph as a schoolteacher himself thought he understood and would be able to cope with easily. For this reason, Magister Liu warned him not to read for more than half hour each day. The reading list was two books only: the *Tao Te Ching* of Lao Tzu, which Joseph had brought with him anyway out of some strange foreknowledge or happenstance, it now seemed; and the *Book of Chuang Tzu*. For the time being, Joseph could read whatever he wished from thse two classics, provided that he honoured his promise to read for no longer than 30 minutes and then to spend at least as long in reflection. He was also allowed - no, required - to continue to attend the daily prayers of the Brotherhood.
 
-> **TERRORIST INVADERS REMAIN SILENT
+> ##TERRORIST INVADERS REMAIN SILENT
 
 > The foreign invaders apprehended last week by Essex police and Border Force are still being held in Chelmsford Police HQ on suspicion of endangering national security. They were arrested near Maldon by the coastguards, while attempting to make a secret landing on the Essex coast.
 
@@ -1280,28 +1280,27 @@ On the tenth day, they saw in the distance the distinctive tower of the 12th cen
 
 # Chapter Eighteen     A Time to every purpose
 
-TERRORIST FUGITIVE STILL ON THE RUN
+> ## TERRORIST FUGITIVE STILL ON THE RUN
 
-While the seven suspected terrorist invaders detained at Maldon, Essex three weeks ago are still being investigated, the manhunt for an eighth suspect is still being carried out.
+> While the seven suspected terrorist invaders detained at Maldon, Essex three weeks ago are still being investigated, the manhunt for an eighth suspect is still going on.
 
-The suspect is believed to be a white Englishman in his late 50s or early 60s, with long unkempt fair hair and scruffily dressed (see photofit). One of the witnesses who claimed she saw him making off across the marshes when his confederates were arrested, described him as 'dead shift-looking, like. You really wouldn't want to meet him on a dark night. The thought that he might be still out there somewhere really gives me the willies.'
+> The missing suspect is believed to be a white Englishman in his late 50s or early 60s, with long unkempt fair hair and scruffily dressed (see photofit). One of the witnesses who claimed she saw him making off across the marshes when his confederates were arrested, described him as 'dead shifty-looking, like. You really wouldn't want to meet him on a dark night. The thought that he might be still out there somewhere really gives me the willies.'
 
-Reported sightings of the suspect have been received from as far afield as Milton Keynes, Glossop, Fowey and Shetland. All are being followed up by Border Force.
+> Reported sightings of the suspect have been received from as far afield as Milton Keynes, Glossop, Fowey and Shetland. All are being followed up by Border Force.
 
-Some reports indicate that the suspect may be carrying an object of great value to the terrorists, the precise nature of which is as yet unknown. There is some specualtion that the terrorists may belong to an extremist group, for whom the unknown object holds some symbolic or magic power. Alternatively it may be some kind of weapon, possibly a dirty bomb or some other kind of weapon of mass destruction. The fugitive is considered to be extremely dangerous and should not be approached by members of the public. Anti-terrorist units have been ordered to shoot on sight if he is spotted.
+> Some reports indicate that the suspect may be carrying an object of great value to the terrorists, the precise nature of which is as yet unknown. There is some speculation that the terrorists may belong to an extremist group, for whom the unknown object holds some symbolic or magical power. Alternatively it may be some kind of weapon, possibly a dirty bomb or some other kind of weapon of mass destruction. The fugitive is considered to be extremely dangerous and should not be approached by members of the public. Anti-terrorist units have been ordered to shoot on sight if he is spotted.
 
 -----
 
-
-The 101st Universal Congress of Esperanto was held from July 23 to 30, 2016. The conference theme was *Socia justeco — lingva justeco*: Social Justice - Linguistic Justice. As soon as Joseph stood in the streets of Nitra, and especially in front of the main buildings of the Slovakian Agricultural University where most of the conference activities took place, he found himself transported back to those hot summer days he had spent there with Hildegard.
+THE 101ST UNIVERSAL CONGRESS of Esperanto was held from July 23 to 30, 2016. The conference theme was *Socia justeco — lingva justeco: Social Justice - Linguistic Justice*. As soon as Joseph stood in the streets of Nitra, and especially in front of the main buildings of the Slovakian Agricultural University where most of the conference activities took place, he found himself transported back to those hot summer days he had spent there with Hildegard.
 
 The Congress had brought back so many memories for them: of the first Congress they had attended, Belgrade in 1978, where as students from either side of the Iron Curtain they had met and fallen in what seemed like miraculous, impossible love. All the Congresses and international Esperanto gatherings they had attended since then - fewer during all the years of raising a family, but none the less precious for all that, and becoming more frequent again when the children were grown. It had even been possible, when the UKE was held in Europe, to persuade some of the children to attend once or twice. Those who had agreed to do so, and had experienced the youth culture of the Congress, were those who had always remained keenest to continue their use of the language - not surprisingly, because they had experienced its value for making friends of other young people from many diverse cultures. And having fun!
 
-Because fun was one of the great, sometimes it seemed most closely-guarded, secrets of the Esperanto movement. Their Congresses and meetings, which outsiders feared would be so mind-alteringly, crushingly dull and boring, were actually places of laughter and delight. Yes, there were speeches from the main platform, committee meetings, business to be transacted and motions to be passed; but most of this went on out of sight, away from the majority of Congress participants. For the rest, there was laughter, the excitement of making new friends, meeting people from many countries and learning about their lives and cultures. There were concerts, outings to see some of the sights of the city and its surrounding area, presentations of Slovakian national music and costumes.
+Because fun was one of the great, sometimes it seemed most closely-guarded, secrets of the Esperanto movement. Their Congresses and meetings, which outsiders feared would be so mind-alteringly, crushingly dull and boring, were actually places of laughter and delight. Yes, there were speeches from the main platform, committee meetings, business to be transacted and motions to be passed; but most of this went on out of sight, away from the majority of Congress participants. For the rest, there was laughter, the excitement of making new friends, meeting people from many countries and learning about their lives and cultures. There were concerts, outings to see some of the sights of the host city and its surrounding area, presentations of Slovakian national music and costumes.
 
-The Congress theme, which sounded so serious, was also a subject which had stirred their enthusiasm and passion. At the same time as the UKE, another conference had been held in Nitra to mark Slovakia's presidency of the European Union. Its subject was Perspektivoj de lingva komunikado en EU: Perspectives on linguistic communication in the EU. It looked at three major areas that were perceived as being problematic for the EU: Linguistic problems of citizen-participation; Linguistic problems of economic integration; and Foreign language education in the EU. It was at this conference that Vytenis Andriukaitis, the Lithuanian European Commissioner, addressed the assembly in Esperanto, a language he himself had learned as a little act of rebellion during the years of Soviet occupation of his country. At the conclusion of the Conference, the delegates had issued the Declaration of Nitra, which recognised the problems related to the supremacy of the English language as the world's principal second language, and declared multilingualism to be a 'basic European value' and 'a basic value to secure the equal rights of every EU citizen'.
+The Congress theme, which sounded so serious, was also a subject which had stirred their enthusiasm and passion. At the same time as the UKE, another conference had been held in Nitra to mark Slovakia's presidency of the European Union. Its subject was *Perspektivoj de lingva komunikado en EU: Perspectives on linguistic communication in the EU*. It looked at three major areas that were perceived as being problematic for the EU: Linguistic problems of citizen-participation; Linguistic problems of economic integration; and Foreign language education in the EU. It was at this conference that [Vytenis Andriukaitis]("the guy who famously face-palmed himself when Nigel Farage made a fool of himself again with his speech accusing his fellow-MEPs of never having done a proper job in their lives. Pots and kettles?"), the Lithuanian European Commissioner, addressed the assembly in Esperanto, a language he himself had learned as a little act of rebellion during the years of Soviet occupation of his country. At the conclusion of the Conference, the delegates had issued the Declaration of Nitra, which recognised the problems related to the supremacy of the English language as the world's principal second language, and declared multilingualism to be a 'basic European value' and 'a basic value to secure the equal rights of every EU citizen'.
 
-Joseph and Hildegard, valuing their linguistic pluralism as they did, and proud of their EU citizenship which was already seriously under question since the disastrous EU referendum that had been hel in the United Kingdom just four weeks previously, had thrilled to what was coming out of Nitra, and wondered if Brexit could possibly mean the end of the hegemony of the English language.
+Joseph and Hildegard, valuing their linguistic pluralism as they did, and proud of their EU citizenship which was already seriously under question since the disastrous EU referendum that had been held in the United Kingdom just four weeks previously, had thrilled to what was coming out of Nitra, and wondered if Brexit could possibly mean the end of the hegemony of the English language.
 
 All of this, and much more, came back to Joseph as he stood on the plaza in front of the Agricultural University. It was as if he was transported back and could see the colourful costumes, the performers on stilts, the balloons and banners, the local children singing. If he had thought about it beforehand, he would have expected this to be a moment of grief, bringing back happy memories of a time and a person he had lost. But as he stood there he felt exactly the opposite: only joy, gratitude for all that he and Hildegard had been given, hope for the future, in spite of all that had happened that seemed to crush all hope, determination to work all the harder for a juster, more equal world in which peace would always prevail over those who sought to make war.
 
@@ -1317,8 +1316,7 @@ Deep in thought, he left the university hall and walked down to the river, hardl
 
 "Teacher," he said, as they sat by the water's edge looking across to the opposite, willow-lined bank, "you have taught me that to follow the Tao, you must give up all attempts to change the world. You must accept the world as it is, and know that you and the universe are one: that is Tao."
 
-Liu smiled. "Lao Tzu also says this
-
+Liu smiled. "Lao Tzu also says this  
 > The best of all rulers is but a shadowy presence to his subjects.  
 Next comes the ruler they love and praise;  
 next comes one they fear;  
@@ -1336,7 +1334,7 @@ As softly as if he had not moved, Magister Liu was no longer there. Joseph sat a
 
 He stood up, and stepped through.
 
-Then he turned, and walked slowly back to the student hall of residence where he and Liu were staying. He knocked on the Teacher's door. When Magister Liu saw him, a look of surprise crossed the little man's face, but only for a moment before it was followed by an expression of intense delight and pleasure. Liu bowed too him in deep respect.
+Then he turned, and walked slowly back to the student hall of residence where he and Liu were staying. He knocked on the Teacher's door. When Magister Liu saw him, a look of surprise crossed the little man's face, but only for a moment before it was followed by an expression of intense delight and pleasure. Liu bowed to him in deep respect.
 
 "So... you have found Tao. Or it has found you!"
 
@@ -1347,34 +1345,32 @@ Then he turned, and walked slowly back to the student hall of residence where he
 "Then," said Joseph, "I suppose it is time. The time for change is now."
 
 
-
 # Chapter Nineteen     Return
 
-HOME OFFICE NAMES TERRORIST-LINKED GROUPS
+> ## HOME OFFICE NAMES TERRORIST-LINKED GROUPS
 
-The Home Office yesterday published details of a number of groups with links to foreign or terrorist groups. This follows weeks of investigations by the National Security Agency which has collected convincing evidence that these groups either give active support to subversive organizations, or are in broad sympathy with their aims. Measures are being put in place to ban these groups, or compel them to register with the Home Office and submit complete lists of their membership for security vetting.
+> The Home Office yesterday published details of a number of groups with links to foreign or terrorist groups. This follows weeks of investigations by the National Security Agency which has collected convincing evidence that these groups either give active support to subversive organizations, or are in broad sympathy with their aims. Measures are being put in place to ban these groups, or compel them to register with the Home Office and submit complete lists of their membership for security vetting.
 
-The following have already been banned:
+> The following have already been banned:  
+- The Labour Party  
+- The Green Party  
+- The Socialist Workers' Party  
+- The Co-operative Party
 
-The Labour Party
-The Green Party
-The Socialist Workers' Party
-The Co-operative Party
+> The Home Office also announced today the immediate dissolution of the Marylebone Cricket Club. Since the game of cricket has already been banned, the other social and charitable activities of the MCC have also become unnecessary. They have therefore been taken over by the Marylebone Rugby Football Club, and the Lords' Cricket Ground has been renamed The People's Rugby Football Ground.
 
-The Home Office also announced today the immediate dissolution of the Marylebone Cricket Club. Since the game of cricket has already been banned, the other social and charitable activities of the MCC have also become unnecessary. They have therefore been taken over by the Marylebone Rugby Football Club, and the Lords' Cricket Ground has been renamed The People's Rugby Football Ground.
+> For some time the Home Office has been considering the issue of the use of languages other than English in Great-Again Britain. Under the proposed Foreign (Non-English) Languages Act, to be introduced in the current session of Parliament, only English will be used in official publications. The use of Welsh, Gaelic and Manx will be phased out, with an immediate cessation of tuition in schools throughout the country. Homes in which other languages are regularly spoken will have to be registered with the Home Office. Also, persons wishing to study other languages for the purposes of trade will be required to obtain a Foreign Speakers' Licence, to be renewed annually, on completion of re-submission of the Oath of Loyalty to Great-Again Britain.
 
-For some time the Home Office has been considering the issue of the use of languages other than English in Great-Again Britain. Under the proposed Foreign (Non-English) Languages Act, to be introduced in the current session of Parliament, only English will be used in official publications. The use of Welsh, Gaelic and Manx will be phased out, with an immediate cessation of tuition in schools throughout the country. Homes in which other languages are regularly spoken will have to be registered with the Home Office. Also, persons wishing to study other languages for the purposes of trade will be required to obtain a Foreign Speakers' Licence, to be renewed annually, on completion of re-submission of the Oath of Loyalty to Great-Again Britain.
+> The Home Office has ruled that the constructed language Esperanto poses a real and present danger to national security, as it enables people from other countries hostile to British interests to communicate with disaffected British subjects and stir up unrest. For those wishing to learn more about this, please refer to the Home Office publication (sponsored by the Daily Mail): *Esperanto: language of the Jewish world conspiracy*.
 
-The Home Office has ruled that the constructed language Esperanto poses a real and present danger to national security, as it enables people from other countries hostile to British interests to communicate with disaffected British subjects and stir up unrest. For those wishing to learn more about this, please refer to the Home Office publication (sponsored by the Daily Mail): *Esperanto: language of the Jewish world conspiracy*.
+> Consequently these groups have already been banned with immediate effect and their assets confiscated:  
+- The Esperanto Association of Britain
+- The Scottish Esperanto Association
+- The Welsh Esperanto Federation
 
-Consequently these groups have already been banned with immediate effect and their assets confiscated:
+> All local Esperanto groups and clubs, whether defunct or still active, also fall under the ban and are required to hand over their assets.
 
-The Esperanto Association of Britain
-The Scottish Esperanto Association
-The Welsh Esperanto Federation
-All local Esperanto groups and clubs, whether defunct or still active, also fall under the ban and are required to hand over their assets.
-
-A number of individuals known to the authorities for their activities in international Esperantism, including attendance at the so-called Universal Congress (believed to be a front for the international conspiracy) have been taken for questioning, and we believe some have been detained pending further investigation and possible charges for offences of sedition or treason.
+> A number of individuals known to the authorities for their activities in international Esperantism, including attendance at the so-called Universal Congress (believed to be a front for the international conspiracy) have been taken for questioning, and we believe some have been detained pending further investigation and possible charges for offences of sedition or treason.
 
 -----
 
@@ -1404,7 +1400,7 @@ Joseph ended the call, and instead dialled Woody's home telephone number. The ph
 
 "And the Crown of Charlemagne?"
 
-"Well, that's the weirdest thing. When the coastguards surrounded us - we had actually just got ashore, they didn't board the boat like the newspapers said, that was just to make it sound more dramatic and resourceful than it actually was - there was so much chaos and confusion. It was almost pitch-black, and they were trying to use spotlights so everyone got blinded. No one could see anything, everyone was wearing black so we didn't know who was on whose side. I grabbed a backpack I thought was mine, and just legged it as fast as I could. I knocked some poor bugger flying - he felt like he was just a young lad, so probably the bloke in charge - and while some of the others were trying to help him, and others were trying to catch the rest of us, I managed to get away. I spent the whole of the next day hiding out under an upturned boat, covered as much ground as I could when it got dark again, and on the third day just I was far enough away to take the risk of using public transport. I was pretty lucky really - can you believe the police have started stopping people in the streets and demanding to see ID papers? But since they didn't know that I was the person they were looking for, they didn't ask too many questions.
+"Well, that's the weirdest thing. When the coastguards surrounded us - we had actually just got ashore, they didn't board the boat like the newspapers said, that was just to make it sound more dramatic and resourceful than it actually was - there was so much chaos and confusion. It was almost pitch-black, and they were trying to use spotlights so everyone got blinded. No one could see anything, everyone was wearing black so we didn't know who was on whose side. I grabbed a backpack I thought was mine, and just legged it as fast as I could. I knocked some poor bugger flying - he felt like he was just a young lad, so probably the bloke in charge - and while some of the others were trying to help him, and others were trying to catch the rest of us, I managed to get away. I spent the whole of the next day hiding out under an upturned boat, covered as much ground as I could when it got dark again, and on the third day I was just far enough away to take the risk of using public transport. I was pretty lucky really - can you believe the police have started stopping people in the streets and demanding to see ID papers? But since they didn't know that I was the person they were looking for, they didn't ask too many questions.
 
 "I got back here; and blow me, when I looked in my pack I'd picked up the one with the Crown in."
 
@@ -1419,13 +1415,13 @@ Joseph ended the call, and instead dialled Woody's home telephone number. The ph
 "Good. We'll be on our way."
 
 
-THE LOSUNG FOR the day:
+THE *LOSUNG* FOR the day:
 
-Gott steht auf; so werden seine Feinde zerstreut,
+> Gott steht auf; so werden seine Feinde zerstreut,
 und die ihn hassen, fliehen vor ihm.  
 Psalm 68,1
 
-Und ich sah den Himmel aufgetan; und siehe, ein weißes Pferd. Und der darauf saß, hieß: Treu und Wahrhaftig, und er richtet und kämpft mit Gerechtigkeit. Und seine Augen sind wie eine Feuerflamme, und auf seinem Haupt sind viele Kronen; und er trug einen Namen geschrieben, den niemand kannte als er selbst.  
+> Und ich sah den Himmel aufgetan; und siehe, ein weißes Pferd. Und der darauf saß, hieß: Treu und Wahrhaftig, und er richtet und kämpft mit Gerechtigkeit. Und seine Augen sind wie eine Feuerflamme, und auf seinem Haupt sind viele Kronen; und er trug einen Namen geschrieben, den niemand kannte als er selbst.  
 Offenbarung 19,11-12
 
 That'll do nicely, thought Joseph as he planned the journey from Nitra back to Britain. Once upon a time it would have been possible to take a train to Vienna and fly from there straight to London Heathrow. Try that now, especially as a known Esperantist accompanied by a Chinese national, and he was probably risking immediate arrest and some very searching questioning. The way across mainland (and still civilized) Europe was straightforward enough. They reached Amsterdam on the same day they set out from Nitra.
@@ -1436,7 +1432,7 @@ When they had booked into a hotel there, Joseph activated the Leibniz Hologram. 
 
 The first step, then, was to make contact with such of the Karlsbruderschaft as remained. You might think this would be a difficult task, and for ordinary mortals such as Joseph or Magister Liu, that would indeed have been the case. But not for the EPH. For him, it was the matter of very few minutes to track down the names, addresses, and mobile phone numbers, of this secret organization, and to connect a call from Joseph to the deputy leader of the group.
 
-Her initial suspicion vanished when Joseph introduced himself as the mysterious Englishman who had been the one to find the long-missing Crown of Charlemagne in the hidden chamber beneath the Leibniz-Tempel in Hanover. She listened to what Joseph had to say, and then agreed to summon as many of the Bruderschaft as she could mobilize, to gather in Rotterdam on the following day.
+Her initial suspicion vanished when Joseph introduced himself as the mysterious Englishman who had been the one to find the long-missing Crown of Charlemagne in its hiding place in the Treasury of Aachen Cathedral. She listened to what Joseph had to say, and then agreed to summon as many of the Bruderschaft as she could mobilize, to gather in Rotterdam on the following day.
 
 There was no time to lose, and fortunately the Karlsbruderschaft were well-trained and (some of them) in peak physical condition, having prepared for the day when they would be called to action. They also had a network of contacts ('Miscellaneous') that might be of use in many different possible and likely or unlikely eventualities. Like, smuggling an English Esperantist, a Chinese Taoist and an emergency hologram into Fortress Great-Again Britain. It turned out that the contact they needed was none other than old Jost on Texel.
 
@@ -1444,13 +1440,13 @@ He had been a keen amateur sailor in his younger days, and his small boat was st
 
 As darkness began to fall they set sail from Texel, with a gentle east wind carrying them across the North Sea. Undetected by the patrolling ships of Royal Navy or coastguard, now constantly on the alert for fleeing members of proscribed or registered groups, as much as for potential terrorist invaders, Jost's little boat made landfall, and Joseph and the others crept through the shallows and came ashore.
 
-There were seven of them in the group, not counting Leibniz. Joseph, Magister Liu, the deputy leader Sonja, three young men chosen for their physical strength and military training - Sven, Kurt, and Arnold - and the other woman in the group, Hanna-Laura from Buxtehude.
+There were seven of them in the group, not counting Leibniz. Joseph, Magister Liu, the deputy leader Sonja, three young men chosen for their physical strength and military training - Sven, Kurt, and Arnold - and the other woman in the group, Hanna-Laura from Buxtehude near Hamburg.
 
-Jost begged to stay with them. "Old I may be, but you Joseph have revived my heart. I can help in so many ways..."
+Jost begged to stay with them. "Old I may be, but you, Joseph, have revived my heart. I can help in so many ways..."
 
-But Joseph had to refuse. "Listen, mia amiko, you have already helped us so much. And we may require your help again if there is need of urgent and secret transport across these seas. Go home, and wait for our word. If we succeed or if we fail in our enterprise, you will surely hear. But be ready for the call if we need you. Keep your boat provisioned and ready!"
+But Joseph had to refuse. "Listen, *mia amiko*, you have already helped us so much. And we may require your help again if there is need of urgent and secret transport across these seas. Go home, and wait for our word. If we succeed or if we fail in our enterprise, you will surely hear. But be ready for the call if we need you. Keep your boat provisioned and ready!"
 
-With a firm embrace ("Brakumu min!") they parted, and watched the old man hoist his sail and begin to tack away from the shore into the growing light of dawn.
+With a firm embrace ("*Brakumu min!*") they parted, and watched the old man hoist his sail and begin to tack away from the shore into the growing light of dawn.
 
 
 # Chapter Twenty     Release to the Captives
@@ -1461,13 +1457,11 @@ Judge, then, the surprise and fascination of the Leibniz Hologram to discover in
 
 "Did you know," he had asked Joseph one day, "that private banks don't hold reserves of gold to match the funds they claim to have? They simply *create* new money by crediting customers' bank accounts with figures in the form of loans, which the customer is then required to repay. It's a form of selling your future self and your labour into a kind of slavery whereby you work for the banks, so that they can increase the wealth of those who are already the wealthiest in society?"
 
-"I did know that, actually," said Joseph grumpily. "But I think you'll find that not many people do know it, including people who are supposed to be the politicians making decisions about the economies of nations."[fn:7]
+"I did know that, actually," said Joseph grumpily. "But I think you'll find that not many people do know it, including people who are supposed to be the politicians making decisions about the economies of nations."
 
-[fn:7] See [[http:**positivemoney.org*][Positive Money]]
+> See [[http://positivemoney.org/][Positive Money]]
 
-The Emergency Political Hologram was also amazed to discover that in the 21st century system of money, finance and economies, it was possible to be a billionaire, declare bankruptcy twice, still be a billionaire, boast about not paying any taxes for years and years, and instead of being treated as a criminal or at least a person of no moral worth, be lauded for your smartness and get elected to the most powerful office of state on the planet.[fn:8]
-
-[fn:8]No, I know NaNoWriMo is supposed to be about writing 50,000 words of fiction, but I really am *not* making this up.
+The Emergency Political Hologram was also amazed to discover that in the 21st century system of money, finance and economies, [it was possible to be a billionaire, declare bankruptcy twice, still be a billionaire, boast about not paying any taxes for years and years, and instead of being treated as a criminal or at least a person of no moral worth, be lauded for your smartness and get elected to the most powerful office of state on the planet.]("No, I know NaNoWriMo is supposed to be about writing 50,000 words of fiction, but I really am *not* making this up.")
 
 "So," he mused, "it must be possible for anyone with the necessary abilities to simply access some computer system somewhere and credit themselves with as much money as they want, in the form of those digital bits and bytes..."
 
@@ -1741,7 +1735,7 @@ What are your aims and objectives?
 
 Peace. Unity. Understanding and cooperation between nations and peoples.
 
-Who is your leader? 
+Who is your leader?
 
 For the moment, I am the leader.
 
@@ -1811,7 +1805,7 @@ By the end of those hours, his clothes had been torn off and lay in a bloodied h
 
 Pockleburger no longer looked like a man who was enjoying his work. He was angry, frustrated that he had not extracted the screams, the pleas, the confessions or answers he was accustomed to. He had run out of ideas. He was tired. The master of pain had met his match.
 
-Now was the time, thought Joseph. I will help this poor fellow not to lose face even more with his master. Just as the Persuader stepped closer for one more effort, Joseph said, 
+Now was the time, thought Joseph. I will help this poor fellow not to lose face even more with his master. Just as the Persuader stepped closer for one more effort, Joseph said,
 
 "Wait! Please... My mobile phone: it's got everything you want in it."
 
@@ -2048,7 +2042,7 @@ Walking at a steady 25 kilometres a day, he walked across Germany, taking the ti
 
 His first destination was Bialystok in Poland, the birthplace of one of the men who had made him what he was: Ludvik Ljezer Zamenhof. It was there that the young Jewish originator of Esperanto was born in 1859, the same year that saw the publication of Charles Darwin's *Origin of Species*. But not for Zamenhof, the comfortable, peaceful, middle-class English life that Darwin enjoyed. Four different ethnic and linguistic groups populated the town at that time, under the oppressive rule of Tsarist Russia. Russians, Poles, Germans, and Yiddish-speaking Jews. The four groups were often at odds with each other, but three of them at least shared one thing in common: their hatred of the Jews. In the wider world this could lead to violence and outright persecution of the form of pogroms. In the local community, it was a daily cause of friction, intolerance, and minor acts of vandalism or discrimination. The teenaged Zamenhof was convinced that the major cause of the difficulties was simply the failure to understand each other. If only they could understand each other, he believed, most of the divisions and hatreds could be overcome. As it was, even if the subject peoples learned Russian, they would be disadvantaged in comparison with the native Russian speakers.
 
-He experimented with inventing his own language, one that would be simple enough even for ordinary people to learn well enough to communicate in it. He worked on his invention for twenty years, before he thought it was sufficiently developed to present it to the world at large. And the rest is history, Joseph had sometimes said when telling the story. Though it was a long and complex and fascinating history, not least because Zamenhof had taken the extraordinary, and humble decision, to let go of his beloved baby. Instead of needing to control its development, be the continuing arbiter of its development, he was content to establish the very basic foundations and get his fellow-Esperantists to agree that this much at least should never be changed. And then to relinquish control, so that the speakers and users of the language were able to develop it in the ways that any living language develops. 
+He experimented with inventing his own language, one that would be simple enough even for ordinary people to learn well enough to communicate in it. He worked on his invention for twenty years, before he thought it was sufficiently developed to present it to the world at large. And the rest is history, Joseph had sometimes said when telling the story. Though it was a long and complex and fascinating history, not least because Zamenhof had taken the extraordinary, and humble decision, to let go of his beloved baby. Instead of needing to control its development, be the continuing arbiter of its development, he was content to establish the very basic foundations and get his fellow-Esperantists to agree that this much at least should never be changed. And then to relinquish control, so that the speakers and users of the language were able to develop it in the ways that any living language develops.
 
 Kaj, Esperanto estas vivanta lingvo!
 
