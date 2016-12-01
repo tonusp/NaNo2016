@@ -1522,17 +1522,17 @@ So they exchanged details confirming their rendezvous after getting out of Londo
 
 # Chapter Twenty-One     The Three Towers
 
-TERRORISTS AT LARGE!
+> ## TERRORISTS AT LARGE!
 
-Last night the seven terrorists seized in Essex last month while attempting to invade Great-Again Britain escaped from Paddington Green Police Station, where they were being held in the high security anti-terrorist unit. Police are still investigating how the escape took place, but it is thought the terrorists must have had inside help and a sophisticated degree of technological expertise to by-pass the station's security.
+> Last night the seven terrorists seized in Essex last month while attempting to invade Great-Again Britain escaped from Paddington Green Police Station, where they were being held in the high security anti-terrorist unit. Police are still investigating how the escape took place, but it is thought the terrorists must have had inside help and a sophisticated degree of technological expertise to by-pass the station's security.
 
 ("Well, der..." said Leibniz, who was regrettably studying modern street idioms. "Of course they were sophisticated! I'm, like, the Houdini of electronic escapology. Hell, I'm the *Leibniz* of it!")
 
-A nationwide manhunt is under way to trace the whereabouts of the escapers and their accomplices. The public are warned not to approach them, as they are believed to be armed and are highly dangerous. Armed response units are on alert, with instructions to shoot to kill."
+> A nationwide manhunt is under way to trace the whereabouts of the escapers and their accomplices. The public are warned not to approach them, as they are believed to be armed and are highly dangerous. Armed response units are on alert, with instructions to shoot to kill."
 
 -----
 
-On the top floor of his Dark Tower, the highest building in London formerly known as the Shard, the Dark Lord Marduk raged at the hapless Prime Minister, Sir Michael Grove. He was not known for gentleness of expression, so that for half an hour Grove had been subjected to every curse, insult and oath known to the English language, as well as many that were not.
+ON THE TOP FLOOR of his Dark Tower, the highest building in London formerly known as the Shard, the Dark Lord Marduk raged at the hapless Prime Minister, Sir Michael Grove. He was not known for gentleness of expression, so that for half an hour Grove had been subjected to every curse, insult and oath known to the English language, as well as many that were not.
 
 "You are an incompetent bloody idiot, a goddamn waste of space..." Marduk concluded in gentler tones. He fell silent, and his silence was worse than his raging as he stepped close, his face inches away from Grove's, as if he were about to open his mouth and suck him into his hideous maw.
 
@@ -1601,7 +1601,7 @@ But the bald guy said in flawless English, "Ms Jade Clarke?"
 
 "Miss Clarke, I know you have been expecting something to happen, something quite different, unusual and surprising, though you didn't know what. We are here to make that thing happen."
 
-"How did you know that? And who are you, anyway?" Who #the hell# are you? she had expected to hear herself say, but there was something about the three strangers at the door, something almost solemn, ceremonial, hieratic, about the way they stood outside her flat, that made her withhold the profanity.
+"How did you know that? And who are you, anyway?" Who *the hell* are you? she had expected to hear herself say, but there was something about the three strangers at the door, something almost solemn, ceremonial, hieratic, about the way they stood outside her flat, that made her withhold the profanity.
 
 "May we come inside, Lady?"
 
@@ -1623,13 +1623,13 @@ The scornful laughter with which, only yesterday, she would have greeted these w
 
 Instead, "Yes. Though I do not understand any of it, it's like I, somehow, *know*. Please tell me what it means. Er -" (because they were still kneeling to her) "please get up. Please sit down."
 
-They rose from the floor, but would not sit until she herself had taken her seat. Then Joseph took from his pocket a mobile phone, turned it on, and suddenly there was a flickering of light and a fourth person stood in the room, strangely dressed in a full black wig of curls, and wearing what looked like the kind of gown her old headmaster had worn on special occasions. She could not take her eyes off his big nose, else she might have exclaimed in fear or surprise.
+They rose from the floor, but would not sit until she herself had taken her seat. Then Joseph took from his pocket a mobile phone, turned it on, and  suddenly there was a flickering of light and a fifth person stood in the room, strangely dressed in a full black wig of curls, and wearing what looked like the kind of gown her old headmaster had worn on special occasions. She could not take her eyes off his big nose, else she might have exclaimed in fear or surprise.
 
 "Well," said the new arrival, speaking in a strange foreign-sounding accent. German, was it? "Are you going to introduce me, my brothers?"
 
 Joseph explained. "Majesty, this is Herr Doktor Leibniz. He is a hologram. Please don't be anxious if you don't understand or believe it: I didn't either, when I first met him. But much more than a hologram, he is also a famous philosopher, mathematician, scientist, savant, and adviser to royalty. I have asked him to help you to understand what this is all about. He will do so all the more gladly, I'm sure, because for a long time he was not certain that the research our Brotherhood had carried out, had reached the correct conclusion. Now he *is* certain."
 
-The doctor, or philosopher, or hologram - whatever he was - was not above looking pleased with the introduction he had been given. He gathered himself to his full height, and began to speak. He spoke for quite a long time. Jade was far from certain that she understood most of what he was saying, and yet she felt as he spoke that she *knew*, that all he said was right and true. He spoke about a great Empire which had once existed, which had been based on the most sacred principles of honour, holiness, justice, and truth. Of course it had often failed to live up to those ideals. It often failed, was weak and corrupt because of the frailty, greed and lust of the men who served it or sought it. But at its heart lay this noble Idea. Yes, it was much like the Matter of Britain, the whole web of stories and legends about King Arthur, the Round Table, the Holy Grail, which she had loved so much as a girl. So long ago. But what Leibniz was telling her now was even bigger, even more beautiful. Now I understand, she thought. The Empire has to be so much bigger than Britain - even the 'British Empire', as it used to be called, was just a counterfeit, a failed attempt to create that human rule of goodness. It was Europe, Europe, where that dream or ideal was to be created. Whenever Britain tried to cut itself off from its neighbours across that narrow channel of sea, to pretend or behave as if it were not a part of the Main, things went wrong. That cutting off led always to division, war, disaster. The Matter of Europe always reached out to and longed for Britain also. Only when this Empire, of which Leibniz spoke, embraced Britain too; only when Europe was whole; only when that unity was complete not only at the level of commerce and finance but also in the deepest heart-love of the nations, could Britain and the peoples of Europe be healed of all that was amiss.
+The doctor, or philosopher, or hologram - whatever he was - was not above looking pleased with the introduction he had been given. He gathered himself to his full height, and began to speak. He spoke for quite a long time. Jade was far from certain that she understood most of what he was saying, and yet she felt as he spoke that she *knew*, that all he said was right and true. He spoke about a great Empire which had once existed, which had been based on the most sacred principles of honour, holiness, justice, and truth. Of course it had often failed to live up to those ideals. It often fallen short, was weak and corrupt because of the frailty, greed and lust of the men who served it or sought it. But at its heart lay this noble Idea. Yes, it was much like the Matter of Britain, the whole web of stories and legends about King Arthur, the Round Table, the Holy Grail, which she had loved so much as a girl. So long ago. But what Leibniz was telling her now was even bigger, even more beautiful. Now I understand, she thought. The Empire has to be so much bigger than Britain - even the 'British Empire', as it used to be called, was just a counterfeit, a failed attempt to create that human rule of goodness. It was Europe, Europe, where that dream or ideal was to be created. Whenever Britain tried to cut itself off from its neighbours across that narrow channel of sea, to pretend or behave as if it were not a part of the Main, things went wrong. That cutting off led always to division, war, disaster. The Matter of Europe always reached out to and longed for Britain also. Only when this Empire, of which Leibniz spoke, embraced Britain too; only when Europe was whole; only when that unity was complete not only at the level of commerce and finance but also in the deepest heart-love of the nations, could Britain and the peoples of Europe be healed of all that was amiss.
 
 And how could it be that she, Jade Clarke of Basildon in Essex, was the One who would have a part to play in any of this? Not a part, only. The hologram was telling her that it was around her, her alone, that all this destiny could be fulfilled.
 
@@ -1643,14 +1643,14 @@ When Leibniz appeared to have ended his account; "You tell me," she said, "that 
 
 "Then, though I still do not know how, I too say Yes. So be it."
 
-The four others - even the Leibniz hologram - stood again, knelt before her, struck their chests with their fists in the ancient gesture of obedience, and bowed their heads.
+The four others - even the Leibniz hologram - stood again, knelt before her, struck their chests with their fists in the ancient gesture of obeisance, and bowed their heads.
 
 
 # Chapter Twenty-Three     Taken
 
 In the morning, Jade phoned the town hall to tell them she would not be coming in to work that day. She would not be coming tomorrow or the day after. In fact, she wasn't coming in ever again.
 
-The man Joseph, together with the Chinese man whom they had addressed as Magister Liu, and the strange hologram, had all left before Jade got up. The Scandinavian woman, Sonja, remained and seemed much less severe, much more friendly, than she had been the previous night. Half an hour later another woman who introduced herself as Ingrid arrived. She was going to help with Leo that day - ("Don't forget: if you are the Empress Designate, then this little boy is the next in line.")
+The man Joseph, together with the Chinese man whom they had addressed as Magister Liu, and the strange hologram, had all left before Jade got up. The Scandinavian woman, Sonja, remained and seemed much less severe, much more friendly, than she had been the previous night. Half an hour later another woman who introduced herself as Ingrid arrived. She was going to help with Leo that day - ("Don't forget: if you are the Empress Designate, then this little boy of yours is the next in line.")
 
 Leo was very happy to have his mum at home with him, not to have to go to his grumpy Gran's house. He was quite contented to play by himself for much of the time while the two nice foreign ladies were talking with Jade, helping her to understand more of the history of which Leibniz had given her only an introduction. They spoke about the situation in Europe and Britain. The aftermath of the strange coup that had taken place, which the new regime called the Restitution; the impending threats to world peace, the need for the Empire to act swiftly, even when they might have preferred to wait until they could make fuller preparations.
 
@@ -1684,7 +1684,7 @@ Deadly insects will not sting him
 Wild beasts will not attack him  
 Birds of prey will not strike him
 
-The bullets did not harm the Dragon Lord. His companions could not see if he stopped them, or simply was not there, where they passed through the space where he had stood. All they knew was that, when the short burst of firing stopped, he still stood.
+The bullets did not harm the Dragon Lord. His companions could not see if he stopped them, or simply was not there, when they passed through the space where he had stood. All they knew was that, when the short burst of firing stopped, he still stood.
 
 "There is no need to shoot," said Joseph, and his voice held such a note of quiet yet powerful command, that the unit lowered their weapons. "We will come with you, quietly."
 
@@ -1692,20 +1692,19 @@ They submitted while their hands were none too gently handcuffed behind them and
 
 -----
 
-TERRORISTS FOUND AND CAUGHT! MAJOR COUP FOR SECURITY FORCES
+> ## TERRORISTS FOUND AND CAUGHT! MAJOR COUP FOR SECURITY FORCES
 
-The Ministry of National Security announced today that the band of extremist terrorists who have been at large since last week, have been successfully apprehended. Following an intensive operation to find the whereabouts of the terrorists, who escaped from the high security unit at Paddington Green Police Station, and what is believed to have been information supplied by local informants, the fugitives were traced to a house in the Middle of Nowhere, Essex. A daring operation was launched by security forces, supported by armed response units from the local police, resulting in the arrest of thirteen suspects.
+> The Ministry of National Security announced today that the band of extremist terrorists who have been at large since last week, have been successfully apprehended. Following an intensive operation to find the whereabouts of the terrorists, who escaped from the high security unit at Paddington Green Police Station, and what is believed to have been information supplied by local informants, the fugitives were traced to a house in the Middle of Nowhere, Essex. A daring operation was launched by security forces, supported by armed response units from the local police, resulting in the arrest of thirteen suspects.
 
-These are believed to be the seven who escaped from custody, and their accomplices who helped them escape.
+> These are believed to be the seven who escaped from custody, and their accomplices who helped them escape.
 
-The operation was a complete success, achieved with no casualties sustained by the security forces, and no injury to the terrorists. This is all the more surprising in view of the extreme danger represented by the terrorists. The Assistant Chief Constable of Essex told a press conference, "It's a mystery, almost a miracle, that the operation was completed so successfully. It's all down to brilliant leadership and the outstanding commitment and skill of our men. Because of that, these crazed criminals were taken totally by surprise and didn't even have time to pick up their weapons.
+> The operation was a complete success, achieved with no casualties sustained by the security forces, and no injury to the terrorists. This is all the more surprising in view of the extreme danger represented by the terrorists. The Assistant Chief Constable of Essex told a press conference, "It's a mystery, almost a miracle, that the operation was completed so successfully. It's all down to brilliant leadership and the outstanding commitment and skill of our men. Because of that, these crazed criminals were taken totally by surprise and didn't even have time to pick up their weapons.
 
-No weapons have in fact yet been found at the gang's hideout, though searches are continuing throughout the area. The terrorists have been taken to a secret location in London for further questioning. Police are still on high alert in case other members of the gang are still at large.
+> No weapons have in fact yet been found at the gang's hideout, though searches are continuing throughout the area. The terrorists have been taken to a secret location in London for further questioning. Police are still on high alert in case other members of the gang are still at large.
 
 -----
 
-The secret location to which the arrested were taken, was the Dark Lord's tower on the south bank of the River Thames. Here the vans transporting them arrived in the middle of the night, driving into the underground car
-park, where the prisoners were led out and locked up in cells specially prepared since the Restitution, deep underground.
+THE SECRET LOCATION to which the arrested were taken, was the Dark Lord's tower on the south bank of the River Thames. Here the vans transporting them arrived in the middle of the night, driving into the underground car park, where the prisoners were led out and locked up in cells specially prepared since the Restitution, deep underground.
 
 They were left for twelve hours without food or water, then taken separately for questioning. At this first stage, they were treated with relative courtesy and gentleness: What is your name? To what group do you belong? What are your aims and objectives? Who is your leader? Where are the other members of your group? But it was clear that there was a dark threat underlying the questions. Answer! Tell us what we want to hear, or we will find less pleasant ways to obtain the information we want.
 
@@ -1745,8 +1744,7 @@ I'm afraid I can't tell you.
 
 The woman came from behind the table and sat on the edge of it, her lips pressed together like an angry teacher.
 
-"The thing is, Mr Joseph, we think you are lying. We think you are an extremely dangerous man, some kind of religious or political fanatic. We think you have come here to undermine the country, to overthrow the Government, to destroy all that has been achieved by the Restitution...
-To return this country to the moral chaos and confusion that existed before. What do you have to say to that?"
+"The thing is, Mr Joseph, we think you are lying. We think you are an extremely dangerous man, some kind of religious or political extremist. We think you have come here to undermine the country, to overthrow the Government, to destroy all that has been achieved by the Restitution... To return this country to the moral chaos and confusion that existed before. What do you have to say to that?"
 
 "Well, if that's what it takes to achieve our objectives - peace, unity, understanding, cooperation... You must be the judge of that."
 
@@ -1754,7 +1752,7 @@ The nondescript man came round the table and joined the woman facing Joseph.
 
 "Really, Joseph, I do urge you to answer our questions and tell us just what we want to know. My colleague can get very impatient. She has some very efficient ways of inflicting pain, and believe me: she enjoys her job and is very good at it."
 
-"Then, I am prepared to answer your questions. But I insist on giving my answers to the Lord Protector, and no one else.
+"Then, I am prepared to answer your questions. But I insist on giving my answers to the Lord Protector, and no one else."
 
 "Not the right answer!"
 
@@ -1831,7 +1829,7 @@ Pockleburger and the guards hurled themselves towards him. Too late. The force f
 
 "The handcuffs, Doctor. Please."
 
-Leibniz released Joseph's bonds, and the Dragon Lord stood up, rubbing his wrists and gingerly feeling a few of his bruises. Tao was wonderful, no doubt, but he had not yet mastered how to leave the body entirely, He guessed there would be some vestiges of discomfort remaining for quite some time.
+Leibniz released Joseph's bonds, and the Dragon Lord stood up, rubbing his wrists and gingerly feeling a few of his bruises. Tao was wonderful, no doubt, but he had not yet mastered how to leave the body entirely. He guessed there would be some vestiges of discomfort remaining for quite some time.
 
 He wrapped a robe around himself, that Leibniz had conjured from somewhere. A simple Chinese robe which made him look like a mandarin at the end of a long hard day.
 
@@ -1843,7 +1841,7 @@ Marduk threw the gun down. "What do you want? What are you going to do to me?"
 
 "I'm sorry," said Joseph. "The Sage has no fixed heart of his own. Those who look at him see their own hearts."
 
-He fixed Marduk with his eyes, forcing the Dark Lord to look at him, not letting the little reptilian eyes shift from him.
+He fixed Marduk with his eyes, forcing the Dark Lord to look at him, not allowing the little reptilian eyes to shift from him.
 
 For minutes they looked deep into each others' eyes.
 
@@ -1853,7 +1851,7 @@ For minutes they looked deep into each others' eyes.
 
 Time stood still. While the City outside went about its business and evening drew on, while the ants' nest of Marduk Tower continued with its mindlessly purposeful activity, and no one dared approach the Dark Lord's office where he had ordered he was not to be disturbed, Joseph and Marduk looked each other in the eye.
 
-And Marduk began to see his own heart. He had always thought he knew himself, knew his mind, knew exactly who he was, what he wanted, what he was capable of and would achieve. But he recoiled now, at what he saw of his heart: the feelings and the self that he had suppressed for a lifetime.
+And Marduk began to see his own heart. He had always thought he knew himself, knew his mind, knew exactly who he was, what he wanted, what he was capable of and would achieve. But he recoiled now, at what he saw of his heart: the feelings and the self that he had suppressed for almost a lifetime.
 
 He saw the child he had been, so very long ago. A child dearly loved at first, yet who came to feel he was not loved as much or as well as he deserved to be. Who began to foster a deep rage against the world that denied him what he desired, and who resolved that he would have it, whatever the world might do to him.
 
@@ -1863,7 +1861,7 @@ At some moment during that eternity of timelessness, Marduk gasped and cried out
 
 "NO!!"
 
-But still he looked, unable to tear his eyes away from Joseph's. Still he saw not Joseph's heart, but his own. That child again, whose parents divorced bitterly, whose mother was killed in a horrifying accident that he witnessed, whose father stricken with remorse and guilt refused to take him in because the new wife hated this child who reminded her daily of her predecessor. So he lived first with one pair of grandparents, then when they died, with the other. They all died. Everyone the Child ever loved, died. He would never be happy, so long as Death was in the world.
+But still he looked, unable to tear his eyes away from Joseph's. Still he saw not Joseph's heart, but his own. That child again, whose parents divorced bitterly, whose mother was killed in a horrifying accident of which he was a witness, whose father, stricken with remorse and guilt, refused to take him in because the new wife hated this child who reminded her daily of her predecessor. So he lived first with one pair of grandparents, then when they died, with the other. They all died. Everyone the Child ever loved, died. He would never be happy, so long as Death was in the world.
 
 As he grew, he killed the pain of his many losses by surrounding himself with the good things of life: money, success, beautiful women who would love him because of the money he possessed. All of it gave him Power; and power gave him the means to acquire more money, success, women, people who flattered and praised him and fell over themselves to do his bidding. Even politicians and leaders of business and industry could be influenced to frame national policies in ways that benefited his interests and enterprises, made him wealthier, more powerful. He acquired a media empire, with which he controlled the minds and opinions of millions of 'consumers' all over the world. They thought, believed, desired what he told them to.
 
@@ -1871,13 +1869,13 @@ As he looked at Joseph, however, all those achievements of which he had been so 
 
 He began to see the cost, not only to others but also to himself. He had become a husk of a man, a hollowed-out thing without compassion, almost without any natural human feeling except the greed and lust that drove him relentlessly. And the moment he knew this, there was a seed of compassion sowed somewhere deep in the soil of his being. He gasped again. It hurt, it hurt so much: how could people *bear* this? Much better trample on it, crush its life from it, before it could grow. But he was no longer able to do that simple thing.
 
-All those years when he had no longer had any human enemies, for those he acknowledged as enemies were long ago defeated, and the many who merely hated or feared him, were of no consequence. Only one Enemy remained, the same Enemy he had always known and contended with. For at least the last thirty years, his whole desire had been to find the weapon that would destroy Death. Not for all humanity: he knew that would be a vain hope. What, in any case, would be the point of *everyone* living for ever? One man alone would possess immortality.
+All those years when he had no longer had any human enemies, for those he acknowledged as enemies were long ago defeated, and the many who merely hated or feared him, were of no consequence. Only one Enemy remained, the same Enemy he had always known and contended with. For at least the last forty years, his whole desire had been to find the weapon that would destroy Death. Not for all humanity: he knew that would be a vain hope. What, in any case, would be the point of *everyone* living for ever? One man alone would possess immortality.
 
 Yet now, as he saw more and more of Joseph's heart, he saw too what all this had done to him. The havoc and ruin it had made of what was once a man. And it was all to no end. Even if it were possible - and suddenly the doubt that he repressed so ruthlessly burst out all over again - even if it were possible, it would turn to ashes in his soul. Life that never ended, that *could* not end, would be a prize that took all value out of everything else in the world. Only mortality, he saw, makes anything beautiful.
 
 And as he saw, he began to weep. He had not allowed himself to shed tears, since the last of his grandparents died and he had vowed that no such weakness would ever cause him pain again. He wept. The tears ran down his wrinkled cheeks and dripped onto his shirtfront, and his frail old body shook with sobs, like a rag doll being worried by a hunting dog.
 
-Joseph said nothing, and let the Lord marduk weep on, until his tear ducts ran dry. There was no moisture left in the dried-up old man's body.
+Joseph said nothing, and let the Lord Marduk weep on, until his tear ducts ran dry. There was no moisture left in the dried-up old man's body.
 
 Then, "I think it is enough?" Joseph asked.
 
@@ -1888,19 +1886,19 @@ Then, "I think it is enough?" Joseph asked.
 
 # Chapter Twenty-Five     The Jade Empress
 
-LORD PROTECTOR DISAPPEARS!
+> ## LORD PROTECTOR DISAPPEARS!
 
-PanGlobal Media Corp confirmed today that their proprietor Lord Marduk has not been seen since leaving his South Bank office four days ago. Marduk left the building in company with an unknown white male, with a heavily bruised face, who appeared to be wearing Chinese dress. After giving instructions to his staff that he would let them know his whereabouts in due course, Marduk apparently ordered one of his cars and drove off with his companion in the direction of Westminster.
+> PanGlobal Media Corp confirmed today that their proprietor Lord Marduk has not been seen since leaving his South Bank office four days ago. Marduk left the building in company with an unknown white male, with a heavily bruised face, who appeared to be wearing Chinese dress. After giving instructions to his staff that he would let them know his whereabouts in due course, Marduk apparently ordered one of his cars and drove off with his companion in the direction of Westminster.
 
-The car stopped in Whitehall where Marduk told his chauffeur to deliver a package to 10, Downing Street. While he was doing this, the other man got into the driver's seat and the vehicle drove off at high speed in the direction of Trafalgar Square, and has not been seen since.
+> The car stopped in Whitehall where Marduk told his chauffeur to deliver a package to 10, Downing Street. While he was doing this, the other man got into the driver's seat and the vehicle drove off at high speed in the direction of Trafalgar Square, and has not been seen since.
 
-Police and security forces have been conducting a nationwide search for the missing car. The Prime Minister, Sir Michael Grove, insisted that although the Lord Protector was an indispensable part of the Government of Great-Again Britain, his temporary absence was not a national emergency. The business of Government was continuing as before, and there was no need to panic.
+> Police and security forces have been conducting a nationwide search for the missing car. The Prime Minister, Sir Michael Grove, insisted that although the Lord Protector was an indispensable part of the Government of Great-Again Britain, his temporary absence was not a national emergency. The business of Government was continuing as before, and there was no need to panic.
 
-The FTSE index fell by 18% at the opening of trading, but recovered slightly by the close.
+> The FTSE index fell by 18% at the opening of trading, but recovered slightly by the close.
 
 -----
 
-In the Middle of Nowhere, they all gathered to welcome the Empress Elect. Joseph had arrived in the small hours of the morning with his passenger fast asleep in the back of the car, after the emotional tsunami he had undergone in his room in the Dark Tower. They had both then slept for almost twenty-four hours. The others who had also been detained arrived soon afterwards. They had been released on Marduk's instructions, just before he left the building, and had been given two vehicles in which they drove themselves to the rendezvous.
+IN THE MIDDLE OF NOWHERE, they all gathered to welcome the Empress Elect. Joseph had arrived in the small hours of the morning with his passenger fast asleep in the back of the car, after the emotional tsunami he had undergone in his room in the Dark Tower. They had both then slept for almost twenty-four hours. The others who had also been detained arrived soon afterwards. They had been released on Marduk's instructions, just before he left the building, and had been given two vehicles in which they drove themselves to the rendezvous.
 
 Sonja and Ingrid came, with Jade and her son, on the following morning, when everyone in the house had rested, washed away the dirt and some of the fear of their ordeal, dressed and eaten. Marduk was still in his room, eating his breakfast. The others were all gathered in the hall, standing, as Sonja opened the door and Jade Clarke walked in. They knelt as one.
 
@@ -1916,25 +1914,26 @@ They smiled upon her, and loved her. Even those who had been most doubtful, who 
 
 Joseph, the Dragon Lord, stepped forward at Jade's request to outline the next steps to be taken. There was much to be done, but it could not be done until the time was right, until all was in harmony with Tao. How would they know when that time came? He would watch, and wait, and tell them. In the mean time, they must continue to instruct the Empress Who Was To Come; help her in her studies of the international language that would be the shared tongue of her dominions; teach her some of the Empire's history, so that she would know to avoid its failures and emulate its successes.
 
-Voltaire had scoffed at the Empire, that it was neither holy, nor Roman, nor an Empire. The Karlsbruderschaft would do all within their power to ensure that it would be all three. Holy: it would be dedicated to the service and obedience of the God of all people. Roman: it would maintain the heritage of the Faith that Rome had preserved - also with many errors and abuses which they would seek to avoid - but also the older heritage of the rule of law, and a government of the whole known world that should ensure peace. *Pax Romana* had always been a short-sighted and vain boast: in the whole history of Rome there had only been a handful of years when the doors of the Temple of Janus had been closed to symbolise there was no war. But in the restored Empire, that would become reality. And an Empire: all the nations it included would preserve their own identity and customs, and laws so long as they were in accord with the laws of virtue, but would also be subject to the just and gentle rule of the Empress, under God.
+Voltaire had scoffed at the Empire, that it was neither holy, nor Roman, nor an Empire. The Karlsbruderschaft would do all within their power to ensure that it would be all three. Holy: it would be dedicated to the service and obedience of the God of all people. Roman: it would maintain the heritage of the Faith that Rome had preserved - though it had done so with many errors and abuses which they would seek to avoid - but also the older heritage of the rule of law, and a government of the whole known world that should ensure peace. *Pax Romana* had always been a short-sighted and vain boast: in the whole history of Rome there had been only a handful of years when the doors of the Temple of Janus had been closed to symbolise there was no war. But in the restored Empire, that would become reality. And an Empire: all the nations it included would preserve their own identity and customs, and laws so long as they were in accord with the laws of virtue, but would also be subject to the just and gentle rule of the Empress, under God.
 
 At first, the membership of the Bruderschaft could not see in what way the Dragon Lord was watching and waiting for the time of harmony. He spent much of his time with Marduk, talking with him, but mostly just sitting in silence as they looked at one another, and Marduk came to see more and more of the heart of the Sage.
 
 At last a day came when he said to Joseph, "I think it is time for me to do what must be done. I know it was a terrible mistake, to think that I could avoid death for a few years, let alone forever. I am sorry for all the harm I did in pursuing that end, and I will do everything I can to make amends for that harm. When I have done all that I can, I will be ready to die. If you will help me."
 
-Then, Marduk began to put in motion the changes to his empire and wealth, which would cause such excitement and confusion among the nations. He first of all liquedated his vast media empire, which was the heartbeat of all he had been and done. He sold such parts of its as could be sold, but with the proviso that no part of the media he had owned would be allowed to continue the editorial policy he had imposed upon it. Instead of the lies and demagogy that had been their hallmark, there was to be a dedication to truth, and the fostering of all that was good. No more blind pursuit of profit, temptation to lust or greed or rank consumerism, or whipping-up of prejudice and hostility towards anyone who was different or foreign. Instead the watchword was to be that of St Paul: Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
+Then, Marduk began to put in motion the changes to his empire and wealth, which would cause such excitement and confusion among the nations. He first of all liquidated his vast media empire, which was the heartbeat of all he had been and done. He sold such parts of it as could be sold, but with the proviso that no part of the media he had owned would be allowed to continue the editorial policy he had imposed upon it. Instead of the lies and demagogy that had been their hallmark, there was to be a dedication to truth, and the fostering of all that was good. No more blind pursuit of profit, temptation to lust or greed or rank consumerism, or whipping-up of prejudice and hostility towards anyone who was different or foreign. Instead the watchword was to be that of St Paul: Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
 
-No one should lose their livelihood, just because there was no longer a job for them in the businesses that ceased to exist. Generous redundancy payments were put in place, and pension provision for those who were nearing the end of their working life. The whole of Marduk's research and development establishments, whose efforts had been directed solely towards his personal immortality, were redirected towards improving the health and well-being of the world's poorest people. It would be a trivial thing, with the vast resources of those departments, to provide clean drinking water and decent sanitation for the whole of Africa and India. With what was left over, they would provide free HIV*AIDS medicine wherever it was needed. Then the major causes of death in childhood: ante- and perinatal complications, pneumonia, diarrhoea and malaria - most of these linked to malnutrition - so that fighting hunger in the developing world was also a major area for research.
+No one should lose their livelihood, just because there was no longer a job for them in the businesses that ceased to exist. Generous redundancy payments were put in place, and pension provision for those who were nearing the end of their working life. The whole of Marduk's research and development establishments, whose efforts had been directed solely towards his personal immortality, were redirected towards improving the health and well-being of the world's poorest people. It would be a trivial thing, with the vast resources of those departments, to provide clean drinking water and decent sanitation for the whole of Africa and India. With what was left over, they would provide free HIV/AIDS medicine wherever it was needed. Then the major causes of death in childhood: ante- and perinatal complications, pneumonia, diarrhoea and malaria - most of these linked to malnutrition - so that fighting hunger in the developing world was also a major area for research.
 
 All of this, and all that remained after adequate (but not excessive) provision was made for his dependents, was to be devoted to charitable causes. A foundation was set up, to be called the St Benedict Foundation - Marduk was fully determined it would not be called anything that would identify it with himself - whose trustees would be chosen from among the leading monks and religious of the world's major religions.
 
 The work involved to do all of this would take years. But from the moment it began to be done, it sent shock waves through the worlds of media, broadcasting and finance. Stock markets were shaken, and governments fell, including the Government of Great-Again Britain. Reeling under the shock, Prime Minister Grove resigned. The King declared a state of national emergency, and summoned a true Constitutional Assembly to produce the first written Constitution the island had ever known. The Provisional Government, under the direction of the Privy Council, would be headed by the author of the Harry Potter children's stories, J. K. Rowling. Several European Governments, weakened by Britain's disastrous withdrawal from the Union, were also shaken to the core as extremist political groups vied with the traditional political parties for power.
 
-But before all this, when only the first seeds were being sown by Marduks's change of heart, the Dragon Lord had gathered the Bruderschaft together and told them, "The time of non-action is past. Now is the time for us to act."
+But before all this, when only the first seeds were being sown by Marduk's change of heart, the Dragon Lord had gathered the Bruderschaft together and told them, "The time of non-action is past. Now is the time for us to act."
 
 He repeated the instructions which he had worked out together with his two closest advisers, Magister Liu and the Leibniz Hologram. The Seven would remain at the house to help Marduk as he continued with his work. Meanwhile, the Nine, together with Jade and Leo, would travel to Strasbourg to issue the Imperial Proclamation and Invitation. It would be as momentous as the moment when an obscure 34-year-old German Augustinian monk named Martin Luther nailed his Ninety-five Theses to a church door in Wittenberg. But Joseph was convinced its repercussions would be heard even more quickly than those of Luther's challenge to the powers-that-be, because the technology, the means of disseminating news and information, were now those of the Internet age.
 
-The European Parliament was in full session when Jade and her retinue entered the Parliament Building. There then occurred a series of unimaginable, unheard-of events, which those who witnessed them would recount to their children and grandchildren with the pride of those who can say, "You would not have believed it. But I was there."
+
+THE EUROPEAN PARLIAMENT was in full session when Jade and her retinue entered the Parliament Building. There then occurred a series of unimaginable, unheard-of events, which those who witnessed them would recount to their children and grandchildren with the pride of those who can say, "You would not have believed it. But I was there."
 
 The doors of the Assembly chamber were thrown open. Security guards stepped forward to prevent the party from entering, but Joseph and Liu brushed them aside with a look and a gesture, and led their party to the platform at the front of the chamber. They climbed the steps and formed a line in front of the officials' desks. The President leaped up to protest, but Joseph gave her a look which cut off the words in her mouth. Instead of the words of protest, challenge and rebuke she had framed to speak, she found himself saying, "Mr - er?"
 
@@ -1944,9 +1943,9 @@ The doors of the Assembly chamber were thrown open. Security guards stepped forw
 
 "I thank you, Madam President."
 
-He turned to face the astonished MEPs, and raised his hand in the ancient gesture of the Roman orator, about to speak.
+He turned to face the astonished MEPs, and raised his hand in the ancient gesture of the Roman orator, preparing to speak.
 
-"Madam President, elected representatives of the nations of Europe. You do not need me to tell you that there is a sickness abroad in our world. The nations of the world are desperately diseased; there have been many who have told us that our civilisation is in terminal decline, the descent into barbarism is inevitable. Many who have stood in this very chamber and promised nostrums that would heal this sickness, were driven by insane ideas of power, force and glory. They promised that nations would be great again, if they would build walls around themselves, if they would exclude foreigners, aliens, strangers, all who were different or threatening. They have brought us as such people always do to the brink of war: so far we have not passed that brink. They have been judged insane. Perhaps you will call me insane, too. But I bring you something they cannot bring, something that is Old as well as New. Where they speak of Power, I propose Gentleness. Where they speak of Strength, I propose Weakness. Where they speak of Fear or Hatred, I propose Love. Where they speak of the Pride and Might of Nations, I propose Humility. Where they speak of Wealth, and economic growth which leads only to poverty and inequality, I propose Commonwealth in which all may share. Where they speak of Freedom and mean licence instead, or a false freedom for a citizenry whose lives and opinions are dictated by wealthy oligarchs, I propose the perfect Freedom that comes from Service of what is Right. Where they speak only Falsehood and Evil, I propose all that is Good and Just and True.
+"Madam President, elected representatives of the nations of Europe. You do not need me to tell you that there is a sickness abroad in our world. The nations of the world are desperately diseased; there have been many who have told us that our civilisation is in terminal decline, the descent into barbarism is inevitable. Many who have stood in this very chamber and promised nostrums that would heal this sickness, were driven by insane ideas of power, force and glory. They promised that nations would be great again, if they would build walls around themselves, if they would exclude foreigners, aliens, strangers, all who were different or threatening. They have brought us, as such people always do, to the brink of war: so far we have not passed that brink. They have been judged insane. Perhaps you will call me insane, too. But I bring you something they cannot bring, something that is Old as well as New. Where they speak of Power, I propose Gentleness. Where they speak of Strength, I propose Weakness. Where they speak of Fear or Hatred, I propose Love. Where they speak of the Pride and Might of Nations, I propose Humility. Where they speak of Wealth, and economic growth which leads only to poverty and inequality, I propose Commonwealth in which all may share. Where they speak of Freedom and mean licence instead, or a false freedom for a citizenry whose lives and opinions are manipulated by wealthy oligarchs, I propose the perfect Freedom that comes from Service of what is Right. Where they speak only Falsehood and Evil, I propose all that is Good and Just and True.
 
 "There has been a Union in Europe, since the Second World War, which for long we thought was our last best hope of peace and prosperity. Now it is being torn apart by those who are enemies of peace, who are even seeking to make it tear itself apart. But there was an older union, which for centuries, flawed though it was in every way that human beings can be, sought nevertheless, when it was true to its founding ideals, to create a peaceful union of peoples and nations. We declare to you this day, that that ancient yet new Union is restored. We are a Brotherhood who stand for its highest values and pledge our lives to ensure that those values shall reign in the councils of the nations. They are embodied here..."
 
@@ -1954,20 +1953,20 @@ He turned to Sonja, and taking from her the object she was holding out to him, r
 
 "Behold, the Crown of Charlemagne!"
 
-A wave of noise filled the chamber: astonishment, questions, protests, some laughter and ridicule. Some of the members left their seats and pressed forward to see more closely, others pushing against them to leave the chamber, others calling for the President to put a stop to this, to security to throw these intruders outside.
+A wave of noise filled the chamber: astonishment, questions, protests, some laughter and ridicule. Some of the members left their seats and pressed forward to see more closely what was happening at the front of the hall, others pushing against them in an effort to leave the chamber, others calling for the President to put a stop to this, to call security to throw these intruders outside.
 
-Joseph ignored them all, turned to Jade Clarke of Basildon in Essex, raised the high and placed it reverently on her head. "And behold the True Heir of Charlemagne: the Empress Jade!"
+Joseph ignored them all, turned to Jade Clarke of Basildon in Essex, raised the Crown high and placed it reverently on her head. "And behold the True Heir of Charlemagne: the Empress Jade!"
 
 
 # Chapter Twenty-Six     The Empire begins to gather
 
-News media, radio, television, online and social media, carried the news within seconds to every part of the world. Jade and the others were mobbed by reporters as they left the Parliament Building to get into their cars and drive to their hotel. Joseph gave the briefest of press conferences, as photographers tried to push forwards and take pictures of this bizarre group of political activists, and especially of the young woman who had just been declared Empress - of what? The Holy Roman Empire? All over the world news editors and members of the general public were frantically googling, and skimming through long articles on Wikipedia. None of it seemed to make any sense.
+News media, radio, television, online and social media, carried the news within seconds to every part of the world. Jade and the others were mobbed by reporters as they left the Parliament Building to get into their cars and drive to their hotel. Joseph gave the briefest of press conferences, as photographers tried to push forward and take pictures of this bizarre group of political activists, and especially of the young woman who had just been declared Empress - of what? The Holy Roman Empire? All over the world news editors and members of the general public were frantically googling, and skimming through long articles on Wikipedia. None of it seemed to make any sense.
 
 But in the following days, as Joseph and Jade were interviewed again and again, their faces and words beamed across a fascinated world, opinion began to be formed. There were of course many, chiefly those who had the strongest vested interests in the status quo, who branded them as insane. Dangerous criminals, potential terrorists, anarchists or worse, who should be locked up before they could do any real harm, and the key thrown away. This chorus was much less than it would have been, had Marduk's news empire with its old editorial policy still been functioning. Without doubt those newspapers and networks would have led the hue and cry against them. Since they had fallen silent, there were fewer places where that hysterical outcry could be heard.
 
 Others were more reflective. These were the commentators who agreed that there were serious problems in the way the nations had come to govern themselves, and to manage their dealings with their neighbours. Democracy had become dangerously sick - many said it was even dead, sacrificed on the altar of Mammon. Where Truth also had been slain, and popular education no longer taught people to think for themselves and discern what was true and false, how could Democracy not also fall victim. No doubt heroic measures were needed, to try and reanimate that which had been slain. But could those measures possibly include the reviving of anything as ancient, strange and foreign as this thing that was being called the Holy Roman Empire?
 
-Yet, that Crown, the image of which had become an icon instantly recognizable anywhere in the world, had a strange compulsion. It was a true icon, because no one could look at it without their heart-and-mind being moved. Those who hated the good, found the image repellent, they longed to see the Crown ground under foot, destroyed. Those who were lovers of what was true and good felt themselves moved, drawn to it. These were the third class of witnesses to the events of those days, the ones who were immediately thrilled and won over by the Proclamation and Invitation to be part of that new movement.
+Yet, that Crown, the image of which had become an icon instantly recognizable anywhere in the world, had a strange compulsion. It was a true icon, because no one could look at it without their heart-and-mind being moved. Those who hated the good, found the image repellent, they longed to see the Crown ground under foot, destroyed. Those who were lovers of what was true and good felt themselves moved, drawn towards it with fascination, and a desire to see the triumph of what it stood for. These were the third class of witnesses to the events of those days, the ones who were immediately thrilled and won over by the Proclamation and Invitation to be part of that new movement.
 
 After the Brexit vote, there had been a petition demanding that those British citizens who had wished to Remain part of the European Union, should be allowed to apply for European citizenship. It was of course a pipe-dream: how could anyone be a citizen, where they were not a taxpayer? The new Empire was different. It had no territory as yet, no Government or economy. Therefore it invited and encouraged people, organizations, institutions - yes, and nations and governments - to align with it, to affiliate, to declare that as far as possible and as soon as possible, they would become members of the Empire.
 
@@ -1977,7 +1976,7 @@ He had, of course, no mandate to do so. In any case, the position of Mayor of Ke
 
 It made the news. First in Belgium, then further afield.
 
-TINY FORMER CONDOMINIUM SEEKS TO JOIN 'HOLY ROMAN EMPIRE'! read the headlines.
+*TINY FORMER CONDOMINIUM SEEKS TO JOIN 'HOLY ROMAN EMPIRE'!* read the headlines.
 
 In the febrile political climate of those days, when Belgium was the first European country to hold a general election after the declaration of the Empire, the campaigning shifted and changed its emphasis over the days, and eventually coalesced into a campaign in which a coalition for making Belgium the first state to join the Empire won a narrow majority in Parliament.
 
@@ -1990,7 +1989,7 @@ To fanfares of trumpets, anthems from the choir and the cheers of the congregati
 
 # Chapter Twenty-Seven     The Years of Gold
 
-France stood out for almost the longest time, suspicious of the Empire in spite of its origins in the great Frankish hero Charlemagne. Germany was followed into the imperial fold by Slovakia, Czechia, Denmark and the rest of Scandinavia, Austria and Hungary, Poland and the Baltic States, Italy, Spain and Portugal.
+France stood out for almost the longest time, suspicious of the Empire in spite of its own national origins in the great Frankish hero Charlemagne. Germany was followed into the imperial fold by Slovakia, Czechia, Denmark and the rest of Scandinavia, Austria and Hungary, Poland and the Baltic States, Italy, Spain and Portugal.
 
 Those early years of the Jade Empress's reign came to be known in history as the Seven Years of Gold. The Dragon Lord and his closest helpers spent many days, weeks, months, speaking with the leaders of society, and the shapers of public opinion, about what the Empire would stand for. The values of the Empire would be those of the Gospel of Jesus of Nazareth: not necessarily those of the megalithic Church which had grown up in his name. They would also be the values of the Tao, than which nothing is greater, nothing more empty.
 
@@ -2014,11 +2013,11 @@ Of the wealth that still remained in private hands, none should remain idle. All
 
 Charity also blossomed in even more ways, as other men and women of extraordinary wealth began to follow where Marduk had led the way, establishing foundations and trusts that worked for good throughout the world. As the Empire's influence spread through Africa, the Americas, the Middle East and South Asia, so corruption dwindled in those places where it had long been endemic. Overseas aid from the wealthier countries began to reach the places that needed it, instead of disappearing into the secret Swiss bank accounts of tyrants or dictators. Poverty and disease became less rife, the need for war to control discontented populations became less. Fewer people were forced to become refugees to flee from poverty, war or persecution.
 
-Many of the great European nations came to see that, now that they were under the blessed aegis of Empire, there was no need for them to preserve the national unity that had been a guarantee of strength, in the face of the different ethnic or linguistic groups they contained. The first of these groups to attain autonomy was Catalonia. They were followed by Navarre, Occitania, Brittany, Normandy, Burgundy, Prussia, Bavaria, Moravia, Wallonia, Flanders, Alsace, Savoy, Venice, Sicily. In several of these states, defunct ruling houses were discovered and revived, so that a wave of constitutional monarchies was restored, each of the new titled rulers swearing their allegiance to the Jade Empress. All of them experienced a new blossoming of their local cultures and costumes, and where their minority languages had been suppressed in favour of the official state language, these too experienced revival. Where Castilian, or French, or German, had been the grudgingly accepted or even hated language of an oppressor, now the ideals of linguistic diversity and equality prevailed. People throughout the Empire spoke their preferred heart-languages, and the sole *lingua franca* that was used for international communication within the Empire, was Dr Zamenhof's *lingua internacia*: Esperanto.
+Many of the great European nations came to see that, now that they were under the blessed aegis of Empire, there was no need for them to preserve the national unity that had been a guarantee of strength, in the face of the different ethnic or linguistic groups they contained. The first of these groups to attain autonomy was Catalonia. They were followed by Navarre, Occitania, Brittany, Normandy, Burgundy, Prussia, Bavaria, Moravia, Wallonia, Flanders, Alsace, Savoy, Venice, Sicily. In several of these states, defunct ruling houses were discovered and revived, so that a wave of constitutional monarchies was restored, each of the new titled rulers swearing their allegiance to the Jade Empress. All of them experienced a new blossoming of their local cultures and costumes, and where their minority languages had been suppressed in favour of the official state language, these too experienced revival. Where Castilian, or French, or German, or Russian, had been the grudgingly accepted or even hated language of an oppressor, now the ideals of linguistic diversity and equality prevailed. People throughout the Empire spoke their preferred heart-languages, and the sole *lingua franca* that was used for international communication within the Empire, was Dr Zamenhof's *lingua internacia*: Esperanto.
 
 The nations of the British Isles, though they had lost the absurd 'Great-Again' prefix, remained for a long time politically separated from the continent. They suffered turmoil, economic stagnation, and for a time near-anarchy, in the wake of the Changes that were taking place on the continent, all except Scotland which had chosen to join the Empire, and appointed James Stuart as their King, James VII of Scotland.
 
-Then, in what seemed like a rush of new nation-forming, both the northern and southern parts of Ireland voted to become reunited. Wales chose autonomy under the rule of Owain Glyndŵr II. The nonsense of England was finally dissolved in the six new English nations of Northumbria, Mercia, Anglia, Wessex, Kent, and Cornwall. Order was restored, and these nations one by one sued to join the Empire. The Jade Empress travelled back to the island for the first time since she had left with the Karlsbruderschaft years earlier, and at a Solemn Mass in Chelmsford Cathedral, she received the vows and promises of the leaders of the English nations. That they and their successors pledged their allegiance to the Holy Roman Empire, and swore that their people would be governed in perpetuity according to the Code of Aachen.
+Then, in what seemed like a rush of new nation-forming, both the northern and southern parts of Ireland voted to become reunited. Wales chose autonomy under the rule of Owain Glyndŵr II. The nonsense of England was finally dissolved in the six new English nations of Northumbria, Mercia, Anglia, Wessex, Kent, and Cornwall. Order was restored, and these nations one by one sued to join the Empire. The Jade Empress travelled back to the island for the first time since she had left with the Karlsbruderschaft years earlier, and at a Solemn Mass in Chelmsford Cathedral, she received the vows and promises of the leaders of the English nations. They and their successors pledged their allegiance to the Holy Roman Empire, and swore that their people would be governed in perpetuity according to the Code of Aachen.
 
 In those seven years, the Empire became the greatest power for peace with both justice and liberty, that the world had ever seen.
 
@@ -2027,39 +2026,40 @@ In those seven years, the Empire became the greatest power for peace with both j
 
 Lao Tzu says:
 
-One who gives himself to position  
+> One who gives himself to position  
 surely lives long  
 One who gives himself to Tao  
 surely lives forever
 
 The Dragon Lord lived well, and simply, his life filled with purpose, joy and deep gratitude. He lived long. But the Sage knows that 'living forever' may not be the never-ending bodily existence that the Dark Lord Marduk had so long desired. Joseph did not desire death, but neither did he fear it.
 
-A day came when he knew the time had come for the next stage of his earthly way, his pilgrimage, as he had once thought of it. He set out from the Jade Empress's palace in Aachen, taking with him only his staff, his backpack with its two slim volumes (leaving the thicker volume behind), and his mobile phone with the Leibniz Hologram to guide him. Through all the years, and especially after Master Liu too had died, Leibniz had remained his principal friend, confidant and guide.
+A day came when he knew the time had come for the next stage of his earthly way, his pilgrimage, as he had once thought of it. He set out from the Jade Empress's palace in Aachen, taking with him only his staff, his backpack with its two slim, now well-loved and well-read, volumes (leaving the thicker volume behind), and his mobile phone with the Leibniz Hologram to guide him. Through all the years, and especially after Master Liu too had died, Leibniz had remained his principal friend, confidant and guide.
 
 He told no one where he was going, left only a package to be opened in the event of his death being reported and known, and walked off in the direction of the rising sun. He had thought when he first left home, those few months after Hildegard's death, that his way would lead him eventually to her Lithuanian birthplace. Sometimes, in the intervening years, it was as if he had forgotten that plan. Now the promise he had half made to himself, that he would one day go back to where she had come from, perhaps because it might bring some resolution to her story, some healing for his own grief, would be fulfilled.
 
 Walking at a steady 25 kilometres a day, he walked across Germany, taking the time to reflect, to meditate, to pray as he walked, turning over in his mind the sacred words of the two slim volumes he carried, which he almost knew by heart. He met people on the way, walked and talked and ate with some, and blessed them all. Some of them recognised him from his appearances on TV in company with the Jade Empress; most did not; but there was hardly one who did not remember in later years "that man we met who was walking across Germany", and who had given each of them some special word of encouragement, praise, or direction.
 
-His first destination was Bialystok in Poland, the birthplace of one of the men who had made him what he was: Ludvik Ljezer Zamenhof. It was there that the young Jewish originator of Esperanto was born in 1859, the same year that saw the publication of Charles Darwin's *Origin of Species*. But not for Zamenhof, the comfortable, peaceful, middle-class English life that Darwin enjoyed. Four different ethnic and linguistic groups populated the town at that time, under the oppressive rule of Tsarist Russia. Russians, Poles, Germans, and Yiddish-speaking Jews. The four groups were often at odds with each other, but three of them at least shared one thing in common: their hatred of the Jews. In the wider world this could lead to violence and outright persecution of the form of pogroms. In the local community, it was a daily cause of friction, intolerance, and minor acts of vandalism or discrimination. The teenaged Zamenhof was convinced that the major cause of the difficulties was simply the failure to understand each other. If only they could understand each other, he believed, most of the divisions and hatreds could be overcome. As it was, even if the subject peoples learned Russian, they would be disadvantaged in comparison with the native Russian speakers.
+His first destination was Bialystok in Poland, the birthplace of one of the men who had made him what he was: Ludvik Ljezer Zamenhof. It was there that the young Jewish originator of Esperanto was born in 1859, the same year that saw the publication of Charles Darwin's *Origin of Species*. But not for Zamenhof, the comfortable, peaceful, middle-class English life that Darwin enjoyed. Four different ethnic and linguistic groups populated the town at that time, under the oppressive rule of Tsarist Russia. Russians, Poles, Germans, and Yiddish-speaking Jews. The four groups were often at odds with each other, but three of them at least were united by the one thing they held in common: their hatred of the Jews. In the wider world this could lead to violence and outright persecution of the form of pogroms. In the local community, it was a daily cause of friction, intolerance, and minor acts of vandalism or discrimination. The teenaged Zamenhof was convinced that the major cause of the difficulties was simply the failure to understand each other. If only they could communicate with true understanding, he believed, most of the divisions and hatreds could be overcome. As it was, even if the subject peoples learned Russian, they would be disadvantaged in comparison with the native Russian speakers.
 
-He experimented with inventing his own language, one that would be simple enough even for ordinary people to learn well enough to communicate in it. He worked on his invention for twenty years, before he thought it was sufficiently developed to present it to the world at large. And the rest is history, Joseph had sometimes said when telling the story. Though it was a long and complex and fascinating history, not least because Zamenhof had taken the extraordinary, and humble decision, to let go of his beloved baby. Instead of needing to control its development, be the continuing arbiter of its development, he was content to establish the very basic foundations and get his fellow-Esperantists to agree that this much at least should never be changed. And then to relinquish control, so that the speakers and users of the language were able to develop it in the ways that any living language develops.
+He experimented with inventing his own language, one that would be simple enough even for ordinary people to learn well enough to communicate in it. He worked on his invention for twenty years, before he thought it was sufficiently developed to present it to the world at large. And the rest is history, Joseph had sometimes said when telling the story. Though it was a long and complex and fascinating history, not least because Zamenhof had taken the extraordinary, and humble decision, to let go of his beloved baby. Instead of needing to control its development, and to be the continuing arbiter of its development, he was content to establish the very basic foundations and get his fellow-Esperantists to agree that this much at least should never be changed. And then to relinquish control, so that the speakers and users of the language were able to develop it in the ways that any living language develops.
 
 Kaj, Esperanto estas vivanta lingvo!
 
-It was Joseph's first visit to Bialystok, the largest city in northeastern Poland and the capital of the Podlaskie Voivodeship, so he decided to do the regular tourist thing. He took the city's Esperanto Trail, visiting the site where the wooden house had stood on Bialystok Street, in which Zamenhof was born; the park between Malmeda and Bialowny Street, where the imposing monument with the bust of Zamenhof, looking like some Old Testament prophet immortalised in stone. The Trail ended at the Ludwik Zamenhof Centre at 19 Warszawska Street, where there were permanent displays about Zamenhof's life, and a library of Esperanto books. All of this had grown in importance, and several extensions had been built, since Esperanto had become to medium of communication between the different language groups of the Empire.
+It was Joseph's first visit to Bialystok, the largest city in northeastern Poland and the capital of the Podlaskie Voivodeship, so he decided to do the regular tourist thing. He took the city's Esperanto Trail, visiting the site on Bialystok Street, where the wooden house had stood in which Zamenhof was born; the park between Malmeda and Bialowny Street, where the imposing monument with the bust of Zamenhof stood, looking like some Old Testament prophet immortalised in stone. The Trail ended at the Ludwik Zamenhof Centre at 19 Warszawska Street, where there were permanent displays about Zamenhof's life, and a library of Esperanto books. All of this had grown in importance, and several extensions had been built, since Esperanto had become to medium of communication between the different language groups of the Empire.
 
 From the Centre, Joseph dropped out of tourist mode into that of the pilgrim. He returned to Ludvik Zamenhof Square, and spent some time sitting on a bench contemplating the bust on top of the monument. Then he placed a flower at the foot of the plinth, and a pebble he had brought from outside the Cathedral at Aachen.
 
-He lingered two days in Bialystok before he realised that he was putting off the last part of his journey, without fully knowing why. Then he checked out of his hotel and set off on the last part of his long walk, to Birštonas in neighbouring Lithuania. It took him a week to walk the 212 kilometres, and each day the distance seemed longer, his feet and his pack heavier. So he knew that his time in the city would be heavy with meaning.
+He lingered two days in Bialystok before he realised that he was putting off the last part of his journey, without fully knowing why. Then he checked out of his hotel and set off on the last part of his long walk, to Birštonas in neighbouring Lithuania. It took him a week to walk those final 212 kilometres, and each day the distance seemed longer, his feet and his pack heavier. So he knew that his time in the city would be heavy with meaning.
 
-And yet, when he came into its streets and began to look for signs of Hildegard, or to try to find any of her family or relatives who remained, he found no one. He asked in the hotels, the inns, the cafes, the libraries, the schools, and the town hall. No one seemed to have even heard of the Grinius family, who had emigrated to the United States just before the collapse of the Soviet Bloc, and whose daughter Hildegard had married an Englishman. No one knew if any aunts or uncles or cousins remained in Birštonas. It was a town in which there had always been a lively Esperanto speaking community, back when it was a small and relatively easy way to carry out some subversive act against Soviet oppression. It almost seemed as if, now that the language had become so important a means of commuication in all the countries of the Empire, that old interest in it had atrophied. Joseph smiled grimly at the vicissitudes of the Changes.
+And yet, when he came into its streets and began to look for signs of Hildegard, or to try to find any of her family or relatives who remained, he found no one. He asked in the hotels, the inns, the cafes, the libraries, the schools, and the town hall. No one seemed to have even heard of the Grinius family, who had emigrated to the United States just before the collapse of the Soviet Bloc, and whose daughter Hildegard had married an Englishman. No one knew if any aunts or uncles or cousins remained in Birštonas. It was a town in which there had always been a lively Esperanto speaking community, back when it was a small and relatively easy way to carry out some subversive act against Soviet oppression. It almost seemed as if, now that the language had become so important a means of commuication in all the countries of the Empire, some of that old interest in it had atrophied. Joseph smiled grimly at the vicissitudes of the Changes.
 
 Had his long walk been for nothing? Or had the whole idea of visiting Hildegard's hometown, in search of some knowledge or resolution, been just a mistake?
 
-On the third day he found his way to the St Nicholas Evangelical Lutheran Church, a small, almost invisible building on edge of the town. Joseph vaguely remembered Hidegard telling him, many many years before, that she had been baptised in the local Lutheran church, in this town where the majority of the population were Roman Catholics.
+On the third day he found his way to the St Nicholas Evangelical Lutheran Church, a small, hardly visible building on the edge of the town. Joseph vaguely remembered Hidegard telling him, many many years before, that she had been baptised in the local Lutheran church, in this town where the majority of the population were Roman Catholics.
+
 He found the church door unlocked, and went inside into the dark interior, that smelled of dust and wood polish. He sat down on a chair somewhere near the font, and composed himself for a time of quiet thought.
 
-When he opened his eyes, he saw a young woman sitting a few rows in front of him. He could see at once that it was Hildegard: not as he had last seen her in the church in Herrnhut, but as he had first seen her, in life, at the Esperanto Congress in Belgrade. She was a beautiful to him now as she had been all those years ago.
+When he opened his eyes, he saw a young woman sitting a few rows in front of him. He could see at once that it was Hildegard: not as he had last seen her in the church in Herrnhut, but as he had first seen her, in life, at the Esperanto Congress in Belgrade. She was as beautiful to him now as she had been all those years before.
 
 She turned and smiled at him. "So you've come. I knew you would."
 
@@ -2067,9 +2067,9 @@ She turned and smiled at him. "So you've come. I knew you would."
 
 "After I *died*, Joseph. Let's not pretend."
 
-They sat for some minutes in silence, looking at each other, then as if by agreement they stood and moved close, almost touching.
+They sat for some minutes in silence, looking at each other, then as if by agreement they stood and moved closer, almost touching.
 
-"This way you have come," she asked, "ĉi tiu vojo, kiu estis via kaj mia vojo... kiu vi pensas pri tion?"
+"This way you have come," she asked, "ĉi tiu vojo, kiu estis via kaj mia vojo... kio vi pensas pri ĝin?"
 
 "What do I think of it? It is the Way. I thought it was I who had to find the Way, after you died. But you were right - you were always right: this Way found me."
 
@@ -2087,7 +2087,7 @@ They sat for some minutes in silence, looking at each other, then as if by agree
 
 "When I died, you often said of me that I loved Truth above all things. That we were always honest with each other, we had no secrets, there was no Lie. And when you went in search of the Tao, you were driven by that desire for truth. Tao is all things, but I do not think it can sit well with falsehood. So, Joseph, have you indeed been true?"
 
-The question stung him like the slap of a wet twig. He went into himself, looking as deep as he could within his heart-and-mind, into the Tao that was in him. In that place had grown a wondrous pearl, a pearl of greatest price for him and for the world. The pearl that was the Empire: a path to a society of peace, justice, freedom, equality, prosperity for all; the way to build an international community which, if it had the will and the strength to continue, might promise years, generations, centuries of peace and blessing for humanity.
+The question stung him like the slap of a wet switch. He went into himself, looking as deep as he could within his heart-and-mind, into the Tao that was in him. In that place had grown a wondrous pearl, a pearl of greatest price for him and for the world. The pearl that was the Empire: a path to a society of peace, justice, freedom, equality, prosperity for all; the way to build an international community which, if it had the will and the strength to continue, might promise years, generations, centuries of peace and blessing for humanity.
 
 Deeper still he looked, into the heart of the Pearl itself. Was it true that every pearl was formed around some minute grain of grit in the oyster's flesh? What grit had been the seed of this Pearl?
 
@@ -2117,6 +2117,7 @@ He nodded, and took her hand, and she led him towards the sanctuary, and within.
 
 If you had tried to follow them, you would have found it like the door in the church in Herrnhut. Locked.
 
+
 # Acknowledgements
 
 How could anyone write before the Internet? This fiction would not have been possible if I had not been able to carry out instant research, and get instant answers to my questions, from Google. I was able to plan Joseph's journeys with the help of Google Maps, and even visit cities and places I have never been, popping into Streetview and describing what I could see there.
@@ -2127,7 +2128,7 @@ Google, for everything
 
 Wikipedia, for everything else
 
-Ludvik Ljezer Zamenhof, for la lingvo internacia
+Ludvik Ljezer Zamenhof, for *la lingvo internacia*
 
 NaNoWriMo, for the challenge and the motivation
 
@@ -2139,6 +2140,6 @@ Neal Stephenson, for *The Baroque Trilogy* and Leibniz
 
 Sam Green, for his documentary film on Esperanto, *The International Language*
 
-*Tao Te Ching* for the wisdom of the Way
+*Tao Te Ching* and *I Ching* for the wisdom of the Way
 
 Inspiration and creativity are shameless magpies. Attentive readers will no doubt spot many other things lost, borrowed, stolen or strayed on their Path through this tale.
