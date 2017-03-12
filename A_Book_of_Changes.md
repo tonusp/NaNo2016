@@ -2107,7 +2107,7 @@ Hildegard leaned towards him, and her lips gently touched his in the softest, sw
 
 She turned and gestured towards the sanctuary, where, as if projected on an invisible screen, he saw the forms of their children, and grandchildren, and now great-grandchildren. They were individuals and families like so many others, with all the joys and struggles and trials and triumphs that everyone else knew. But they were *their* seed, the fruit of their love. And, because Joseph's Way had led through the brink of chaos and disaster to the Empire of hope that he had helped build, there was the chance that their generations would know a peace that the world had never seen in all its history.
 
-"Look!" said Hildegard. "Rigardu ĉion, kio ni faris! Look what we made."
+"Look!" said Hildegard. "Rigardu ĉion, kion ni faris! Look what we made."
 
 They looked, and there were tears in both their eyes, his and hers.
 
