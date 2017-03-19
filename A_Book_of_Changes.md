@@ -1142,7 +1142,7 @@ And he continued to attend the daily services and prayers of the Moravian Brothe
 
 The watchword for the day was  
 
-> Nach dem Wort des HERRN brachen sie auf, und nach sienem Wort lagerten sie sich. Solange die Wolke auf der Wohnung blieb, so lange lagerten sie.  
+> Nach dem Wort des HERRN brachen sie auf, und nach seinem Wort lagerten sie sich. Solange die Wolke auf der Wohnung blieb, so lange lagerten sie.  
 4.Mose 9,18
 
 > Liebe Kinder, ich bin noch eine kleine Weile bei euch. Ihr werdet mich suchen. Und wie ich zu den Juden sagte, sage ich jetzt auch zu euch. Wo ich hingehe könnt ihr nicht hinkommen.  
