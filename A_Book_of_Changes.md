@@ -674,7 +674,7 @@ Hans-Joachim, an ex-soldier who was the practical one among them. Late 20s, an a
 
 Alice was the youngest among them, a Swiss seminarian and romantic, who had joined the Brotherhood solely out of idealism. And maybe, because she was just a little bit in love with Hans-Joachim.
 
-Thomas was a journalist who had been writing an article for the Frankfurter Allgemeine Zeitung about about lesser-known political groups which most readers would regard as weird and wacky. In the course of his research he had learned about the Karlsbruderschaft and realised that he had found his own political-spiritual home at last.
+Thomas was a journalist who had been writing an article for the Frankfurter Allgemeine Zeitung about lesser-known political groups which most readers would regard as weird and wacky. In the course of his research he had learned about the Karlsbruderschaft and realised that he had found his own political-spiritual home at last.
 
 The last of the six was Thomas's wife Ingrid, a recently qualified doctor who was working part-time in a local medical centre while continuing her studies in field medicine, in case there was going to be a need for campaigning at any time. When the Time came. Which they now believed, with the discovery of the Crown, would soon be upon them.
 
