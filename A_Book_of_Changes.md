@@ -395,7 +395,7 @@ INAŬGURITA JE LA 30A DE MAJO 1935
 
 "When the Germans occupied the Netherlands in 1940, they tore the monument down. Hitler had condemned Esperanto as 'a language of Jews', and so any sign of it had to be eradicated. The Duinker brothers also lost their lives in the Holocaust.
 
-"But after the War, the local community rebuilt the monument as part of the way they cleansed their memories of the terrible years of occupation. Some of the residents of Texel had saved tha star and other parts of the monument when it was demolished, so they were able to reconstruct it almost exactly as it had been.
+"But after the War, the local community rebuilt the monument as part of the way they cleansed their memories of the terrible years of occupation. Some of the residents of Texel had saved the star and other parts of the monument when it was demolished, so they were able to reconstruct it almost exactly as it had been.
 
 "I wonder if there's anyone around who remembers any of that, and still speaks it?"
 
