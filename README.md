@@ -3,6 +3,4 @@ Thank you everyone who encouraged me and cheered me on while I was writing *A Bo
 
 Any comments are suggestions always welcome! GitHub is all about sharing works-in-progress.
 
-I also have a 'new' occasional blog hosted here on GitHub, called [Godspelled](http://tonusp.github.io/). Drop by any time.
-
 ![](NaNoWriMo_2016_WebBanner_Winner.png)
